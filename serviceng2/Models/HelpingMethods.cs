@@ -147,8 +147,8 @@ namespace gsproject
             bool success = false;
             try
             {
-                string AdminUser = "gurpreetsingh496@gmail.com";
-                string AdminP = "preet@496#";
+                string AdminUser = "";
+                string AdminP = "";
 
                 MailMessage message = new MailMessage();
                 SmtpClient smtpClient = new SmtpClient();
@@ -216,12 +216,12 @@ namespace gsproject
         public static bool sendsmsany(string message, string mobileno)
         {
             bool result = false;
-            string userName = "u1773";
-            string msgToken = "yinci3";
-            string senderID = "BRICKS";
+            string userName = "";
+            string msgToken = "";
+            string senderID = "";
             //string message = "One Time Password For Vehicle Bazar Registration is 123455. Please Input This to Complete the Registraton. ";
             string mobile = mobileno;
-            string api = "http://103.255.100.77/api/send_transactional_sms.php?username=" + userName + "&msg_token=" + msgToken + "&sender_id=" + senderID + "&message=" + message + "&mobile=" + mobile;
+            
             try
             {
                 WebRequest req = WebRequest.Create(api);
