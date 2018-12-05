@@ -1,0 +1,68 @@
+
+<div class=''>
+
+
+       
+            <form novalidate [formGroup]="mainFrm">
+                <div class="form-group">
+                    <label for="title">Title</label>
+                    <input type="text" class="form-control" id="title" placeholder="Enter title" pInputText formControlName="title">
+                </div>
+                <div class="form-group">
+                    <div *ngIf="mainFrm.controls['imagepath'].value!=null" >
+
+                        <div *ngIf="mainFrm.controls['filetype'].value==='image/jpeg'">
+                            <img src="/ReadWrite/{{dbcodeid}}/{{mainFrm.controls['imagepath'].value}}" height="70">
+                            <button type="button" pButton (click)="deleteimage(mainFrm)" icon="fa-trash" class="ui-button-danger"></button>
+                        </div>
+                        <div *ngIf="mainFrm.controls['filetype'].value!=='image/jpeg'">
+                            <a href="/ReadWrite/{{dbcodeid}}/{{mainFrm.controls['imagepath'].value}}" target="_blank">Attachment</a>
+                            <button type="button" pButton (click)="deleteimage(mainFrm)" icon="fa-trash" class="ui-button-danger"></button>
+                        </div>
+                    </div>
+                    <div  *ngIf="dbops!==1">
+                        <p-fileUpload name="demo[]" url="./api/blog/upload" (onBeforeSend)="onBeforeSend($event, mainFrm.controls['BlogModelid'].value)" (onUpload)="onUpload($event)"
+                                       maxFileSize="9000000" *ngIf="mainFrm.controls['imagepath'].value===null">
+                        </p-fileUpload>
+                   
+                    </div>
+                    </div>
+                
+                <div class="form-group" *ngIf="subjects">
+                    <label for="SubjectModelid">Subject</label> 
+                    <p-dropdown [options]="subjects" formControlName="SubjectModelid" placeholder="Please Select"  [autoWidth]="false" 
+                                [style]="{'width':'100%'}" ></p-dropdown>
+                </div>
+
+                    <div class="form-group" >
+                        <label for="description">Description</label>
+                        <ckeditor  formControlName="description" debounce="500" [config]="ckEditorConfig">
+                        </ckeditor>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Remarks">Remarks</label>
+                        <textarea class="form-control" id="Remarks" placeholder="Enter remarks" pInputText formControlName="remarks"></textarea>
+                    </div>
+
+                    <p-footer>
+                        <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                            <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                            <button type="button" pButton icon="fa-trash" label="Delete" class="warning" (click)="delete(mainFrm)" *ngIf="dbops!==1"></button>
+
+                        </div>
+                    </p-footer>
+</form>
+
+        <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <span class="sr-only">Error:</span>
+            {{msg}}
+        </div>
+
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+<!--<div class="cssload-container" *ngIf="indLoading">
+    <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+</div>-->

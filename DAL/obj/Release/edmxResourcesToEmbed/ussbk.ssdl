@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ussdbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ussdbModelStoreContainer">
+    <EntitySet Name="ta_ussbk_categoryMaster" EntityType="ussdbModel.Store.ta_ussbk_categoryMaster" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_ussbk_clientrecord" EntityType="ussdbModel.Store.ta_ussbk_clientrecord" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_ussbk_Coupons" EntityType="ussdbModel.Store.TA_ussbk_Coupons" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_ussbk_Description" EntityType="ussdbModel.Store.ta_ussbk_Description" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_ussbk_ProjectDetail" EntityType="ussdbModel.Store.ta_ussbk_ProjectDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_ussbk_TitleMaster" EntityType="ussdbModel.Store.ta_ussbk_TitleMaster" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_ta_ussbk_Description_ta_ussbk_categoryMaster" Association="ussdbModel.Store.FK_ta_ussbk_Description_ta_ussbk_categoryMaster">
+      <End Role="ta_ussbk_categoryMaster" EntitySet="ta_ussbk_categoryMaster" />
+      <End Role="ta_ussbk_Description" EntitySet="ta_ussbk_Description" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_ussbk_Description_ta_ussbk_TitleMaster" Association="ussdbModel.Store.FK_ta_ussbk_Description_ta_ussbk_TitleMaster">
+      <End Role="ta_ussbk_TitleMaster" EntitySet="ta_ussbk_TitleMaster" />
+      <End Role="ta_ussbk_Description" EntitySet="ta_ussbk_Description" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ta_ussbk_categoryMaster">
+    <Key>
+      <PropertyRef Name="catid" />
+    </Key>
+    <Property Name="catid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="catname" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_clientrecord">
+    <Key>
+      <PropertyRef Name="recordid" />
+    </Key>
+    <Property Name="recordid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="productname" Type="nvarchar" MaxLength="100" />
+    <Property Name="productid" Type="nvarchar" MaxLength="50" />
+    <Property Name="businessname" Type="nvarchar" MaxLength="100" />
+    <Property Name="clientname" Type="nvarchar" MaxLength="100" />
+    <Property Name="clientemail" Type="varchar" MaxLength="50" />
+    <Property Name="contactmobile" Type="varchar" MaxLength="12" />
+    <Property Name="clientaddress" Type="varchar" MaxLength="200" />
+    <Property Name="formodule" Type="varchar" MaxLength="100" />
+    <Property Name="userrole" Type="varchar" MaxLength="100" />
+    <Property Name="userblocked" Type="bit" />
+    <Property Name="expirydate" Type="datetime" />
+    <Property Name="upassword" Type="nvarchar" MaxLength="250" />
+    <Property Name="remarks" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="TA_ussbk_Coupons">
+    <Key>
+      <PropertyRef Name="couponid" />
+    </Key>
+    <Property Name="couponid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="couponcode" Type="varchar" MaxLength="15" />
+    <Property Name="cmsgforuser" Type="varchar" MaxLength="100" />
+    <Property Name="cAdminRemarks" Type="varchar" MaxLength="100" />
+    <Property Name="cblocked" Type="bit" />
+    <Property Name="camount" Type="int" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_Description">
+    <Key>
+      <PropertyRef Name="descriptionid" />
+    </Key>
+    <Property Name="descriptionid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="desctitile" Type="int" />
+    <Property Name="desccategory" Type="int" />
+    <Property Name="descvideolink" Type="varchar" MaxLength="50" />
+    <Property Name="websitemodule" Type="varchar" MaxLength="50" />
+    <Property Name="descanydescription" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_ProjectDetail">
+    <Key>
+      <PropertyRef Name="amtdtid" />
+    </Key>
+    <Property Name="amtdtid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="projectdetail" Type="text" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_TitleMaster">
+    <Key>
+      <PropertyRef Name="titleid" />
+    </Key>
+    <Property Name="titleid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="titlename" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <Association Name="FK_ta_ussbk_Description_ta_ussbk_categoryMaster">
+    <End Role="ta_ussbk_categoryMaster" Type="ussdbModel.Store.ta_ussbk_categoryMaster" Multiplicity="0..1" />
+    <End Role="ta_ussbk_Description" Type="ussdbModel.Store.ta_ussbk_Description" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_ussbk_categoryMaster">
+        <PropertyRef Name="catid" />
+      </Principal>
+      <Dependent Role="ta_ussbk_Description">
+        <PropertyRef Name="desccategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_ussbk_Description_ta_ussbk_TitleMaster">
+    <End Role="ta_ussbk_TitleMaster" Type="ussdbModel.Store.ta_ussbk_TitleMaster" Multiplicity="0..1" />
+    <End Role="ta_ussbk_Description" Type="ussdbModel.Store.ta_ussbk_Description" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_ussbk_TitleMaster">
+        <PropertyRef Name="titleid" />
+      </Principal>
+      <Dependent Role="ta_ussbk_Description">
+        <PropertyRef Name="desctitile" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

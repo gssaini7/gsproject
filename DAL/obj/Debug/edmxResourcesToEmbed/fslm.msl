@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="foodsupplymvcModelStoreContainer" CdmEntityContainer="foodsupplymvcEntities">
+    <EntitySetMapping Name="TA_FSLM_Address">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Address">
+        <MappingFragment StoreEntitySet="TA_FSLM_Address">
+          <ScalarProperty Name="guidid" ColumnName="guidid" />
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+          <ScalarProperty Name="a_name" ColumnName="a_name" />
+          <ScalarProperty Name="a_fathername" ColumnName="a_fathername" />
+          <ScalarProperty Name="address1" ColumnName="address1" />
+          <ScalarProperty Name="address2" ColumnName="address2" />
+          <ScalarProperty Name="a_city" ColumnName="a_city" />
+          <ScalarProperty Name="a_state" ColumnName="a_state" />
+          <ScalarProperty Name="a_pin" ColumnName="a_pin" />
+          <ScalarProperty Name="a_mobile" ColumnName="a_mobile" />
+          <ScalarProperty Name="a_landline" ColumnName="a_landline" />
+          <ScalarProperty Name="a_emailid" ColumnName="a_emailid" />
+          <ScalarProperty Name="address_type" ColumnName="address_type" />
+          <ScalarProperty Name="global_application_id" ColumnName="global_application_id" />
+          <ScalarProperty Name="a_aadharno" ColumnName="a_aadharno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Address_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Address_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_Address_REJ">
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+          <ScalarProperty Name="a_name" ColumnName="a_name" />
+          <ScalarProperty Name="a_fathername" ColumnName="a_fathername" />
+          <ScalarProperty Name="address1" ColumnName="address1" />
+          <ScalarProperty Name="address2" ColumnName="address2" />
+          <ScalarProperty Name="a_city" ColumnName="a_city" />
+          <ScalarProperty Name="a_state" ColumnName="a_state" />
+          <ScalarProperty Name="a_pin" ColumnName="a_pin" />
+          <ScalarProperty Name="a_mobile" ColumnName="a_mobile" />
+          <ScalarProperty Name="a_landline" ColumnName="a_landline" />
+          <ScalarProperty Name="a_emailid" ColumnName="a_emailid" />
+          <ScalarProperty Name="address_type" ColumnName="address_type" />
+          <ScalarProperty Name="global_application_id" ColumnName="global_application_id" />
+          <ScalarProperty Name="a_aadharno" ColumnName="a_aadharno" />
+          <ScalarProperty Name="mainaddressid" ColumnName="mainaddressid" />
+          <ScalarProperty Name="appVersion" ColumnName="appVersion" />
+          <ScalarProperty Name="deletedaddressrej" ColumnName="deletedaddressrej" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Admin">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Admin">
+        <MappingFragment StoreEntitySet="TA_FSLM_Admin">
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="admin_username" ColumnName="admin_username" />
+          <ScalarProperty Name="admin_password" ColumnName="admin_password" />
+          <ScalarProperty Name="admin_type" ColumnName="admin_type" />
+          <ScalarProperty Name="admin_district_circle_id" ColumnName="admin_district_circle_id" />
+          <ScalarProperty Name="admin_address_id" ColumnName="admin_address_id" />
+          <ScalarProperty Name="trash" ColumnName="trash" />
+          <ScalarProperty Name="isActiveFlag" ColumnName="isActiveFlag" />
+          <ScalarProperty Name="uniqueida" ColumnName="uniqueida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AdminComments">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AdminComments">
+        <MappingFragment StoreEntitySet="TA_FSLM_AdminComments">
+          <ScalarProperty Name="admin_cmnt_id" ColumnName="admin_cmnt_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="admin_comments" ColumnName="admin_comments" />
+          <ScalarProperty Name="cmnt_createDate" ColumnName="cmnt_createDate" />
+          <ScalarProperty Name="cmnt_updateDate" ColumnName="cmnt_updateDate" />
+          <ScalarProperty Name="cmnt_file" ColumnName="cmnt_file" />
+          <ScalarProperty Name="cmnt_filesize" ColumnName="cmnt_filesize" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AdminCommentsFinal">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AdminCommentsFinal">
+        <MappingFragment StoreEntitySet="TA_FSLM_AdminCommentsFinal">
+          <ScalarProperty Name="admin_cmnt_id" ColumnName="admin_cmnt_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="admin_comments" ColumnName="admin_comments" />
+          <ScalarProperty Name="cmnt_createDate" ColumnName="cmnt_createDate" />
+          <ScalarProperty Name="cmnt_updateDate" ColumnName="cmnt_updateDate" />
+          <ScalarProperty Name="cmnt_file" ColumnName="cmnt_file" />
+          <ScalarProperty Name="cmnt_filesize" ColumnName="cmnt_filesize" />
+          <ScalarProperty Name="cmnt_type" ColumnName="cmnt_type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AdminRejectedStatus">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AdminRejectedStatus">
+        <MappingFragment StoreEntitySet="TA_FSLM_AdminRejectedStatus">
+          <ScalarProperty Name="adminrej_id" ColumnName="adminrej_id" />
+          <ScalarProperty Name="rejected_by" ColumnName="rejected_by" />
+          <ScalarProperty Name="rejectionDate" ColumnName="rejectionDate" />
+          <ScalarProperty Name="rejectedbyAdmintype" ColumnName="rejectedbyAdmintype" />
+          <ScalarProperty Name="globalAPPID" ColumnName="globalAPPID" />
+          <ScalarProperty Name="rejectstatus" ColumnName="rejectstatus" />
+          <ScalarProperty Name="send_to_id" ColumnName="send_to_id" />
+          <ScalarProperty Name="send_to_Admintype" ColumnName="send_to_Admintype" />
+          <ScalarProperty Name="Adminresubmit_date" ColumnName="Adminresubmit_date" />
+          <ScalarProperty Name="Reject_admn_comment" ColumnName="Reject_admn_comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AnnexureReg">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AnnexureReg">
+        <MappingFragment StoreEntitySet="TA_FSLM_AnnexureReg">
+          <ScalarProperty Name="anxreg_id" ColumnName="anxreg_id" />
+          <ScalarProperty Name="anx3_dateprepackimport" ColumnName="anx3_dateprepackimport" />
+          <ScalarProperty Name="anx4a_dec_name" ColumnName="anx4a_dec_name" />
+          <ScalarProperty Name="anx4b_mxretlprice" ColumnName="anx4b_mxretlprice" />
+          <ScalarProperty Name="anx4c_datempi" ColumnName="anx4c_datempi" />
+          <ScalarProperty Name="anx4d_date_expiry" ColumnName="anx4d_date_expiry" />
+          <ScalarProperty Name="anx4e_netcontent" ColumnName="anx4e_netcontent" />
+          <ScalarProperty Name="anx4f_namecomodty" ColumnName="anx4f_namecomodty" />
+          <ScalarProperty Name="anx5_quantiywm" ColumnName="anx5_quantiywm" />
+          <ScalarProperty Name="anx6_stdqty" ColumnName="anx6_stdqty" />
+          <ScalarProperty Name="anx7_packtype1" ColumnName="anx7_packtype1" />
+          <ScalarProperty Name="anx8_packtype2" ColumnName="anx8_packtype2" />
+          <ScalarProperty Name="anx9_packperish" ColumnName="anx9_packperish" />
+          <ScalarProperty Name="anx10_exportcntry" ColumnName="anx10_exportcntry" />
+          <ScalarProperty Name="anx11_rawmtrl" ColumnName="anx11_rawmtrl" />
+          <ScalarProperty Name="anx11_rawmtrldetail" ColumnName="anx11_rawmtrldetail" />
+          <ScalarProperty Name="anx12_fastfood" ColumnName="anx12_fastfood" />
+          <ScalarProperty Name="anx13_drugaggri" ColumnName="anx13_drugaggri" />
+          <ScalarProperty Name="anx14_residential" ColumnName="anx14_residential" />
+          <ScalarProperty Name="anx15_commercial" ColumnName="anx15_commercial" />
+          <ScalarProperty Name="anx15_commercialdoc" ColumnName="anx15_commercialdoc" />
+          <ScalarProperty Name="anx15_commercialdocsize" ColumnName="anx15_commercialdocsize" />
+          <ScalarProperty Name="anx16_premisetype" ColumnName="anx16_premisetype" />
+          <ScalarProperty Name="anx17_inspectiondate" ColumnName="anx17_inspectiondate" />
+          <ScalarProperty Name="anx17_inspreprotdoc" ColumnName="anx17_inspreprotdoc" />
+          <ScalarProperty Name="anx17_inspreportdocsize" ColumnName="anx17_inspreportdocsize" />
+          <ScalarProperty Name="anx18_challaned" ColumnName="anx18_challaned" />
+          <ScalarProperty Name="anx18_datechallan" ColumnName="anx18_datechallan" />
+          <ScalarProperty Name="anx18_challannoticedoc" ColumnName="anx18_challannoticedoc" />
+          <ScalarProperty Name="anx18_challannoticedocsize" ColumnName="anx18_challannoticedocsize" />
+          <ScalarProperty Name="anx19_offences" ColumnName="anx19_offences" />
+          <ScalarProperty Name="anx19_iscompounded" ColumnName="anx19_iscompounded" />
+          <ScalarProperty Name="anx19_recieptdoc" ColumnName="anx19_recieptdoc" />
+          <ScalarProperty Name="anx19_recieptdocsize" ColumnName="anx19_recieptdocsize" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AnnexureRegb">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AnnexureRegb">
+        <MappingFragment StoreEntitySet="TA_FSLM_AnnexureRegb">
+          <ScalarProperty Name="anxreg_id" ColumnName="anxreg_id" />
+          <ScalarProperty Name="anx3_dateprepackimport" ColumnName="anx3_dateprepackimport" />
+          <ScalarProperty Name="anx4a_dec_name" ColumnName="anx4a_dec_name" />
+          <ScalarProperty Name="anx4b_mxretlprice" ColumnName="anx4b_mxretlprice" />
+          <ScalarProperty Name="anx4c_datempi" ColumnName="anx4c_datempi" />
+          <ScalarProperty Name="anx4d_date_expiry" ColumnName="anx4d_date_expiry" />
+          <ScalarProperty Name="anx4e_netcontent" ColumnName="anx4e_netcontent" />
+          <ScalarProperty Name="anx4f_namecomodty" ColumnName="anx4f_namecomodty" />
+          <ScalarProperty Name="anx5_quantiywm" ColumnName="anx5_quantiywm" />
+          <ScalarProperty Name="anx6_stdqty" ColumnName="anx6_stdqty" />
+          <ScalarProperty Name="anx7_packtype1" ColumnName="anx7_packtype1" />
+          <ScalarProperty Name="anx8_packtype2" ColumnName="anx8_packtype2" />
+          <ScalarProperty Name="anx9_packperish" ColumnName="anx9_packperish" />
+          <ScalarProperty Name="anx10_exportcntry" ColumnName="anx10_exportcntry" />
+          <ScalarProperty Name="anx11_rawmtrl" ColumnName="anx11_rawmtrl" />
+          <ScalarProperty Name="anx11_rawmtrldetail" ColumnName="anx11_rawmtrldetail" />
+          <ScalarProperty Name="anx12_fastfood" ColumnName="anx12_fastfood" />
+          <ScalarProperty Name="anx13_drugaggri" ColumnName="anx13_drugaggri" />
+          <ScalarProperty Name="anx14_residential" ColumnName="anx14_residential" />
+          <ScalarProperty Name="anx15_commercial" ColumnName="anx15_commercial" />
+          <ScalarProperty Name="anx15_commercialdoc" ColumnName="anx15_commercialdoc" />
+          <ScalarProperty Name="anx15_commercialdocsize" ColumnName="anx15_commercialdocsize" />
+          <ScalarProperty Name="anx16_premisetype" ColumnName="anx16_premisetype" />
+          <ScalarProperty Name="anx17_inspectiondate" ColumnName="anx17_inspectiondate" />
+          <ScalarProperty Name="anx17_inspreprotdoc" ColumnName="anx17_inspreprotdoc" />
+          <ScalarProperty Name="anx17_inspreportdocsize" ColumnName="anx17_inspreportdocsize" />
+          <ScalarProperty Name="anx18_challaned" ColumnName="anx18_challaned" />
+          <ScalarProperty Name="anx18_datechallan" ColumnName="anx18_datechallan" />
+          <ScalarProperty Name="anx18_challannoticedoc" ColumnName="anx18_challannoticedoc" />
+          <ScalarProperty Name="anx18_challannoticedocsize" ColumnName="anx18_challannoticedocsize" />
+          <ScalarProperty Name="anx19_offences" ColumnName="anx19_offences" />
+          <ScalarProperty Name="anx19_iscompounded" ColumnName="anx19_iscompounded" />
+          <ScalarProperty Name="anx19_recieptdoc" ColumnName="anx19_recieptdoc" />
+          <ScalarProperty Name="anx19_recieptdocsize" ColumnName="anx19_recieptdocsize" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AnnexureRegb_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AnnexureRegb_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_AnnexureRegb_REJ">
+          <ScalarProperty Name="anxreg_id" ColumnName="anxreg_id" />
+          <ScalarProperty Name="anx3_dateprepackimport" ColumnName="anx3_dateprepackimport" />
+          <ScalarProperty Name="anx4a_dec_name" ColumnName="anx4a_dec_name" />
+          <ScalarProperty Name="anx4b_mxretlprice" ColumnName="anx4b_mxretlprice" />
+          <ScalarProperty Name="anx4c_datempi" ColumnName="anx4c_datempi" />
+          <ScalarProperty Name="anx4d_date_expiry" ColumnName="anx4d_date_expiry" />
+          <ScalarProperty Name="anx4e_netcontent" ColumnName="anx4e_netcontent" />
+          <ScalarProperty Name="anx4f_namecomodty" ColumnName="anx4f_namecomodty" />
+          <ScalarProperty Name="anx5_quantiywm" ColumnName="anx5_quantiywm" />
+          <ScalarProperty Name="anx6_stdqty" ColumnName="anx6_stdqty" />
+          <ScalarProperty Name="anx7_packtype1" ColumnName="anx7_packtype1" />
+          <ScalarProperty Name="anx8_packtype2" ColumnName="anx8_packtype2" />
+          <ScalarProperty Name="anx9_packperish" ColumnName="anx9_packperish" />
+          <ScalarProperty Name="anx10_exportcntry" ColumnName="anx10_exportcntry" />
+          <ScalarProperty Name="anx11_rawmtrl" ColumnName="anx11_rawmtrl" />
+          <ScalarProperty Name="anx11_rawmtrldetail" ColumnName="anx11_rawmtrldetail" />
+          <ScalarProperty Name="anx12_fastfood" ColumnName="anx12_fastfood" />
+          <ScalarProperty Name="anx13_drugaggri" ColumnName="anx13_drugaggri" />
+          <ScalarProperty Name="anx14_residential" ColumnName="anx14_residential" />
+          <ScalarProperty Name="anx15_commercial" ColumnName="anx15_commercial" />
+          <ScalarProperty Name="anx15_commercialdoc" ColumnName="anx15_commercialdoc" />
+          <ScalarProperty Name="anx15_commercialdocsize" ColumnName="anx15_commercialdocsize" />
+          <ScalarProperty Name="anx16_premisetype" ColumnName="anx16_premisetype" />
+          <ScalarProperty Name="anx17_inspectiondate" ColumnName="anx17_inspectiondate" />
+          <ScalarProperty Name="anx17_inspreprotdoc" ColumnName="anx17_inspreprotdoc" />
+          <ScalarProperty Name="anx17_inspreportdocsize" ColumnName="anx17_inspreportdocsize" />
+          <ScalarProperty Name="anx18_challaned" ColumnName="anx18_challaned" />
+          <ScalarProperty Name="anx18_datechallan" ColumnName="anx18_datechallan" />
+          <ScalarProperty Name="anx18_challannoticedoc" ColumnName="anx18_challannoticedoc" />
+          <ScalarProperty Name="anx18_challannoticedocsize" ColumnName="anx18_challannoticedocsize" />
+          <ScalarProperty Name="anx19_offences" ColumnName="anx19_offences" />
+          <ScalarProperty Name="anx19_iscompounded" ColumnName="anx19_iscompounded" />
+          <ScalarProperty Name="anx19_recieptdoc" ColumnName="anx19_recieptdoc" />
+          <ScalarProperty Name="anx19_recieptdocsize" ColumnName="anx19_recieptdocsize" />
+          <ScalarProperty Name="localappversion" ColumnName="localappversion" />
+          <ScalarProperty Name="mainanxid" ColumnName="mainanxid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_App_Global_Local">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_App_Global_Local">
+        <MappingFragment StoreEntitySet="TA_FSLM_App_Global_Local">
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="local_app_id" ColumnName="local_app_id" />
+          <ScalarProperty Name="app_type" ColumnName="app_type" />
+          <ScalarProperty Name="templocal_app_id" ColumnName="templocal_app_id" />
+          <ScalarProperty Name="currentversion" ColumnName="currentversion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_App_Status">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_App_Status">
+        <MappingFragment StoreEntitySet="TA_FSLM_App_Status">
+          <ScalarProperty Name="app_status_id" ColumnName="app_status_id" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="received_date" ColumnName="received_date" />
+          <ScalarProperty Name="opened_date" ColumnName="opened_date" />
+          <ScalarProperty Name="reviewed_date" ColumnName="reviewed_date" />
+          <ScalarProperty Name="reviewed_type" ColumnName="reviewed_type" />
+          <ScalarProperty Name="forwarded_to" ColumnName="forwarded_to" />
+          <ScalarProperty Name="admin_type" ColumnName="admin_type" />
+          <ScalarProperty Name="initial_status" ColumnName="initial_status" />
+          <ScalarProperty Name="app_versionc" ColumnName="app_versionc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AreaCircle">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AreaCircle">
+        <MappingFragment StoreEntitySet="TA_FSLM_AreaCircle">
+          <ScalarProperty Name="areacircle_id" ColumnName="areacircle_id" />
+          <ScalarProperty Name="areacircle_name" ColumnName="areacircle_name" />
+          <ScalarProperty Name="trash" ColumnName="trash" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_CategoryWM">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_CategoryWM">
+        <MappingFragment StoreEntitySet="TA_FSLM_CategoryWM">
+          <ScalarProperty Name="cat_id" ColumnName="cat_id" />
+          <ScalarProperty Name="cat_name" ColumnName="cat_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Commodity">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Commodity">
+        <MappingFragment StoreEntitySet="TA_FSLM_Commodity">
+          <ScalarProperty Name="com_id" ColumnName="com_id" />
+          <ScalarProperty Name="com_name" ColumnName="com_name" />
+          <ScalarProperty Name="com_global_id" ColumnName="com_global_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Commodity_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Commodity_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_Commodity_REJ">
+          <ScalarProperty Name="com_id" ColumnName="com_id" />
+          <ScalarProperty Name="com_name" ColumnName="com_name" />
+          <ScalarProperty Name="com_global_id" ColumnName="com_global_id" />
+          <ScalarProperty Name="localappversion" ColumnName="localappversion" />
+          <ScalarProperty Name="delcomrej" ColumnName="delcomrej" />
+          <ScalarProperty Name="maincomid" ColumnName="maincomid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_DenominationWM">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_DenominationWM">
+        <MappingFragment StoreEntitySet="TA_FSLM_DenominationWM">
+          <ScalarProperty Name="denom_id" ColumnName="denom_id" />
+          <ScalarProperty Name="denmo_name" ColumnName="denmo_name" />
+          <ScalarProperty Name="denom_price" ColumnName="denom_price" />
+          <ScalarProperty Name="cat_id" ColumnName="cat_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_District">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_District">
+        <MappingFragment StoreEntitySet="TA_FSLM_District">
+          <ScalarProperty Name="district_id" ColumnName="district_id" />
+          <ScalarProperty Name="district_name" ColumnName="district_name" />
+          <ScalarProperty Name="areacircle_id" ColumnName="areacircle_id" />
+          <ScalarProperty Name="trash" ColumnName="trash" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Fees">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Fees">
+        <MappingFragment StoreEntitySet="TA_FSLM_Fees">
+          <ScalarProperty Name="feesid" ColumnName="feesid" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="feeamount" ColumnName="feeamount" />
+          <ScalarProperty Name="feedate" ColumnName="feedate" />
+          <ScalarProperty Name="feebank" ColumnName="feebank" />
+          <ScalarProperty Name="feemodeofpayment" ColumnName="feemodeofpayment" />
+          <ScalarProperty Name="feeverify" ColumnName="feeverify" />
+          <ScalarProperty Name="feechalannumber" ColumnName="feechalannumber" />
+          <ScalarProperty Name="feeDetailSubmitdate" ColumnName="feeDetailSubmitdate" />
+          <ScalarProperty Name="feeVerifyByUserDate" ColumnName="feeVerifyByUserDate" />
+          <ScalarProperty Name="feeVerifyByAdminDate" ColumnName="feeVerifyByAdminDate" />
+          <ScalarProperty Name="nfeeRecieptDoc" ColumnName="nfeeRecieptDoc" />
+          <ScalarProperty Name="nfeeRecieptDocSize" ColumnName="nfeeRecieptDocSize" />
+          <ScalarProperty Name="feeGenerateDate" ColumnName="feeGenerateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_ILM_Comments">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_ILM_Comments">
+        <MappingFragment StoreEntitySet="TA_FSLM_ILM_Comments">
+          <ScalarProperty Name="ilm_comment_id" ColumnName="ilm_comment_id" />
+          <ScalarProperty Name="ilmc_name_concern" ColumnName="ilmc_name_concern" />
+          <ScalarProperty Name="ilmc_address_concern" ColumnName="ilmc_address_concern" />
+          <ScalarProperty Name="ilmc_date_of_estblsmnt" ColumnName="ilmc_date_of_estblsmnt" />
+          <ScalarProperty Name="ilmc_partners" ColumnName="ilmc_partners" />
+          <ScalarProperty Name="ilmc_date_reg_no" ColumnName="ilmc_date_reg_no" />
+          <ScalarProperty Name="ilmc_nature_manfact" ColumnName="ilmc_nature_manfact" />
+          <ScalarProperty Name="ilmc_type_weights" ColumnName="ilmc_type_weights" />
+          <ScalarProperty Name="ilmc_type_measures" ColumnName="ilmc_type_measures" />
+          <ScalarProperty Name="ilmc_type_weighing_inst" ColumnName="ilmc_type_weighing_inst" />
+          <ScalarProperty Name="ilmc_type_msrng_inst" ColumnName="ilmc_type_msrng_inst" />
+          <ScalarProperty Name="ilmc_mp_skilled" ColumnName="ilmc_mp_skilled" />
+          <ScalarProperty Name="ilmc_mp_semiskilled" ColumnName="ilmc_mp_semiskilled" />
+          <ScalarProperty Name="ilmc_mp_unskilled" ColumnName="ilmc_mp_unskilled" />
+          <ScalarProperty Name="ilmc_mp_specialist" ColumnName="ilmc_mp_specialist" />
+          <ScalarProperty Name="ilmc_monogrm_trade" ColumnName="ilmc_monogrm_trade" />
+          <ScalarProperty Name="ilmc_detail_mchnry" ColumnName="ilmc_detail_mchnry" />
+          <ScalarProperty Name="ilmc_detail_wrkshp" ColumnName="ilmc_detail_wrkshp" />
+          <ScalarProperty Name="ilmc_facilities_tstng" ColumnName="ilmc_facilities_tstng" />
+          <ScalarProperty Name="ilmc_electric_enrgy" ColumnName="ilmc_electric_enrgy" />
+          <ScalarProperty Name="ilmc_loan_detail" ColumnName="ilmc_loan_detail" />
+          <ScalarProperty Name="ilmc_banker_name" ColumnName="ilmc_banker_name" />
+          <ScalarProperty Name="ilmc_tax_detail" ColumnName="ilmc_tax_detail" />
+          <ScalarProperty Name="ilmc_prvs_apply" ColumnName="ilmc_prvs_apply" />
+          <ScalarProperty Name="ilmc_withn_state_outsd" ColumnName="ilmc_withn_state_outsd" />
+          <ScalarProperty Name="ilmc_model_aprvl" ColumnName="ilmc_model_aprvl" />
+          <ScalarProperty Name="ilmc_inspection_date" ColumnName="ilmc_inspection_date" />
+          <ScalarProperty Name="ilmc_inspection_comments" ColumnName="ilmc_inspection_comments" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="cmnt_createDate" ColumnName="cmnt_createDate" />
+          <ScalarProperty Name="cmnt_updateDate" ColumnName="cmnt_updateDate" />
+          <ScalarProperty Name="ilmc_r_area_wish_to_operate" ColumnName="ilmc_r_area_wish_to_operate" />
+          <ScalarProperty Name="ilmc_r_PreviousExp" ColumnName="ilmc_r_PreviousExp" />
+          <ScalarProperty Name="ilmc_r_stockofloantest" ColumnName="ilmc_r_stockofloantest" />
+          <ScalarProperty Name="ilmc_r_premise_type_ndDOC" ColumnName="ilmc_r_premise_type_ndDOC" />
+          <ScalarProperty Name="ilmc_d_isimportw" ColumnName="ilmc_d_isimportw" />
+          <ScalarProperty Name="ilmc_d_regsimpoterwm" ColumnName="ilmc_d_regsimpoterwm" />
+          <ScalarProperty Name="ilmc_rpm_locaddress" ColumnName="ilmc_rpm_locaddress" />
+          <ScalarProperty Name="ilmc_rpm_comodity" ColumnName="ilmc_rpm_comodity" />
+          <ScalarProperty Name="ilmc_rpm_fees" ColumnName="ilmc_rpm_fees" />
+          <ScalarProperty Name="ilmc_remarks_all" ColumnName="ilmc_remarks_all" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_ILM_Comments_Rej">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_ILM_Comments_Rej">
+        <MappingFragment StoreEntitySet="TA_FSLM_ILM_Comments_Rej">
+          <ScalarProperty Name="ilm_comment_id" ColumnName="ilm_comment_id" />
+          <ScalarProperty Name="ilmc_name_concern" ColumnName="ilmc_name_concern" />
+          <ScalarProperty Name="ilmc_address_concern" ColumnName="ilmc_address_concern" />
+          <ScalarProperty Name="ilmc_date_of_estblsmnt" ColumnName="ilmc_date_of_estblsmnt" />
+          <ScalarProperty Name="ilmc_partners" ColumnName="ilmc_partners" />
+          <ScalarProperty Name="ilmc_date_reg_no" ColumnName="ilmc_date_reg_no" />
+          <ScalarProperty Name="ilmc_nature_manfact" ColumnName="ilmc_nature_manfact" />
+          <ScalarProperty Name="ilmc_type_weights" ColumnName="ilmc_type_weights" />
+          <ScalarProperty Name="ilmc_type_measures" ColumnName="ilmc_type_measures" />
+          <ScalarProperty Name="ilmc_type_weighing_inst" ColumnName="ilmc_type_weighing_inst" />
+          <ScalarProperty Name="ilmc_type_msrng_inst" ColumnName="ilmc_type_msrng_inst" />
+          <ScalarProperty Name="ilmc_mp_skilled" ColumnName="ilmc_mp_skilled" />
+          <ScalarProperty Name="ilmc_mp_semiskilled" ColumnName="ilmc_mp_semiskilled" />
+          <ScalarProperty Name="ilmc_mp_unskilled" ColumnName="ilmc_mp_unskilled" />
+          <ScalarProperty Name="ilmc_mp_specialist" ColumnName="ilmc_mp_specialist" />
+          <ScalarProperty Name="ilmc_monogrm_trade" ColumnName="ilmc_monogrm_trade" />
+          <ScalarProperty Name="ilmc_detail_mchnry" ColumnName="ilmc_detail_mchnry" />
+          <ScalarProperty Name="ilmc_detail_wrkshp" ColumnName="ilmc_detail_wrkshp" />
+          <ScalarProperty Name="ilmc_facilities_tstng" ColumnName="ilmc_facilities_tstng" />
+          <ScalarProperty Name="ilmc_electric_enrgy" ColumnName="ilmc_electric_enrgy" />
+          <ScalarProperty Name="ilmc_loan_detail" ColumnName="ilmc_loan_detail" />
+          <ScalarProperty Name="ilmc_banker_name" ColumnName="ilmc_banker_name" />
+          <ScalarProperty Name="ilmc_tax_detail" ColumnName="ilmc_tax_detail" />
+          <ScalarProperty Name="ilmc_prvs_apply" ColumnName="ilmc_prvs_apply" />
+          <ScalarProperty Name="ilmc_withn_state_outsd" ColumnName="ilmc_withn_state_outsd" />
+          <ScalarProperty Name="ilmc_model_aprvl" ColumnName="ilmc_model_aprvl" />
+          <ScalarProperty Name="ilmc_inspection_date" ColumnName="ilmc_inspection_date" />
+          <ScalarProperty Name="ilmc_inspection_comments" ColumnName="ilmc_inspection_comments" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="cmnt_createDate" ColumnName="cmnt_createDate" />
+          <ScalarProperty Name="cmnt_updateDate" ColumnName="cmnt_updateDate" />
+          <ScalarProperty Name="ilmc_r_area_wish_to_operate" ColumnName="ilmc_r_area_wish_to_operate" />
+          <ScalarProperty Name="ilmc_r_PreviousExp" ColumnName="ilmc_r_PreviousExp" />
+          <ScalarProperty Name="ilmc_r_stockofloantest" ColumnName="ilmc_r_stockofloantest" />
+          <ScalarProperty Name="ilmc_r_premise_type_ndDOC" ColumnName="ilmc_r_premise_type_ndDOC" />
+          <ScalarProperty Name="ilmc_d_isimportw" ColumnName="ilmc_d_isimportw" />
+          <ScalarProperty Name="ilmc_d_regsimpoterwm" ColumnName="ilmc_d_regsimpoterwm" />
+          <ScalarProperty Name="ilmc_rpm_locaddress" ColumnName="ilmc_rpm_locaddress" />
+          <ScalarProperty Name="ilmc_rpm_comodity" ColumnName="ilmc_rpm_comodity" />
+          <ScalarProperty Name="ilmc_rpm_fees" ColumnName="ilmc_rpm_fees" />
+          <ScalarProperty Name="ilmc_remarks_all" ColumnName="ilmc_remarks_all" />
+          <ScalarProperty Name="appVersion" ColumnName="appVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_ILMRPMI_Supplement">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_ILMRPMI_Supplement">
+        <MappingFragment StoreEntitySet="TA_FSLM_ILMRPMI_Supplement">
+          <ScalarProperty Name="ilmc_suplmnt_cmnt_id" ColumnName="ilmc_suplmnt_cmnt_id" />
+          <ScalarProperty Name="ilmc_cmt_id" ColumnName="ilmc_cmt_id" />
+          <ScalarProperty Name="ilmc_rpm_3_dateprepackimport" ColumnName="ilmc_rpm_3_dateprepackimport" />
+          <ScalarProperty Name="ilmc_rpm_4_Declarations" ColumnName="ilmc_rpm_4_Declarations" />
+          <ScalarProperty Name="ilmc_rpm_5_quantiywm" ColumnName="ilmc_rpm_5_quantiywm" />
+          <ScalarProperty Name="ilmc_rpm_6_stdqty" ColumnName="ilmc_rpm_6_stdqty" />
+          <ScalarProperty Name="ilmc_rpm_7_packtype1" ColumnName="ilmc_rpm_7_packtype1" />
+          <ScalarProperty Name="ilmc_rpm_8_packtype2" ColumnName="ilmc_rpm_8_packtype2" />
+          <ScalarProperty Name="ilmc_rpm_9_packperish" ColumnName="ilmc_rpm_9_packperish" />
+          <ScalarProperty Name="ilmc_rpm_10_exportcntry" ColumnName="ilmc_rpm_10_exportcntry" />
+          <ScalarProperty Name="ilmc_rpm_11_rawmtrl" ColumnName="ilmc_rpm_11_rawmtrl" />
+          <ScalarProperty Name="ilmc_rpm_12_fastfood" ColumnName="ilmc_rpm_12_fastfood" />
+          <ScalarProperty Name="ilmc_rpm_13_drugaggri" ColumnName="ilmc_rpm_13_drugaggri" />
+          <ScalarProperty Name="ilmc_rpm_14_residential" ColumnName="ilmc_rpm_14_residential" />
+          <ScalarProperty Name="ilmc_rpm_15_commercial" ColumnName="ilmc_rpm_15_commercial" />
+          <ScalarProperty Name="ilmc_rpm_16_premisetype" ColumnName="ilmc_rpm_16_premisetype" />
+          <ScalarProperty Name="ilmc_rpm_17_inspreprotdoc" ColumnName="ilmc_rpm_17_inspreprotdoc" />
+          <ScalarProperty Name="ilmc_rpm_18_challaned" ColumnName="ilmc_rpm_18_challaned" />
+          <ScalarProperty Name="ilmc_rpm_19_offences" ColumnName="ilmc_rpm_19_offences" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_ILMRPMI_Supplement_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_ILMRPMI_Supplement_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_ILMRPMI_Supplement_REJ">
+          <ScalarProperty Name="ilmc_suplmnt_cmnt_id" ColumnName="ilmc_suplmnt_cmnt_id" />
+          <ScalarProperty Name="ilmc_cmt_id" ColumnName="ilmc_cmt_id" />
+          <ScalarProperty Name="ilmc_rpm_3_dateprepackimport" ColumnName="ilmc_rpm_3_dateprepackimport" />
+          <ScalarProperty Name="ilmc_rpm_4_Declarations" ColumnName="ilmc_rpm_4_Declarations" />
+          <ScalarProperty Name="ilmc_rpm_5_quantiywm" ColumnName="ilmc_rpm_5_quantiywm" />
+          <ScalarProperty Name="ilmc_rpm_6_stdqty" ColumnName="ilmc_rpm_6_stdqty" />
+          <ScalarProperty Name="ilmc_rpm_7_packtype1" ColumnName="ilmc_rpm_7_packtype1" />
+          <ScalarProperty Name="ilmc_rpm_8_packtype2" ColumnName="ilmc_rpm_8_packtype2" />
+          <ScalarProperty Name="ilmc_rpm_9_packperish" ColumnName="ilmc_rpm_9_packperish" />
+          <ScalarProperty Name="ilmc_rpm_10_exportcntry" ColumnName="ilmc_rpm_10_exportcntry" />
+          <ScalarProperty Name="ilmc_rpm_11_rawmtrl" ColumnName="ilmc_rpm_11_rawmtrl" />
+          <ScalarProperty Name="ilmc_rpm_12_fastfood" ColumnName="ilmc_rpm_12_fastfood" />
+          <ScalarProperty Name="ilmc_rpm_13_drugaggri" ColumnName="ilmc_rpm_13_drugaggri" />
+          <ScalarProperty Name="ilmc_rpm_14_residential" ColumnName="ilmc_rpm_14_residential" />
+          <ScalarProperty Name="ilmc_rpm_15_commercial" ColumnName="ilmc_rpm_15_commercial" />
+          <ScalarProperty Name="ilmc_rpm_16_premisetype" ColumnName="ilmc_rpm_16_premisetype" />
+          <ScalarProperty Name="ilmc_rpm_17_inspreprotdoc" ColumnName="ilmc_rpm_17_inspreprotdoc" />
+          <ScalarProperty Name="ilmc_rpm_18_challaned" ColumnName="ilmc_rpm_18_challaned" />
+          <ScalarProperty Name="ilmc_rpm_19_offences" ColumnName="ilmc_rpm_19_offences" />
+          <ScalarProperty Name="appversion" ColumnName="appversion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence">
+          <ScalarProperty Name="licence_id" ColumnName="licence_id" />
+          <ScalarProperty Name="licence_number" ColumnName="licence_number" />
+          <ScalarProperty Name="licence_date" ColumnName="licence_date" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="licence_issued_by" ColumnName="licence_issued_by" />
+          <ScalarProperty Name="lplace" ColumnName="lplace" />
+          <ScalarProperty Name="licence_time_period" ColumnName="licence_time_period" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence_Dealer">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence_Dealer">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence_Dealer">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="date_of_establishment" ColumnName="date_of_establishment" />
+          <ScalarProperty Name="registration_type" ColumnName="registration_type" />
+          <ScalarProperty Name="registration_date" ColumnName="registration_date" />
+          <ScalarProperty Name="registration_number" ColumnName="registration_number" />
+          <ScalarProperty Name="type_wm" ColumnName="type_wm" />
+          <ScalarProperty Name="tax_reg_type" ColumnName="tax_reg_type" />
+          <ScalarProperty Name="tax_reg_no" ColumnName="tax_reg_no" />
+          <ScalarProperty Name="import_weights" ColumnName="import_weights" />
+          <ScalarProperty Name="manfac_monogram_trade_mark" ColumnName="manfac_monogram_trade_mark" />
+          <ScalarProperty Name="manfac_licence_number" ColumnName="manfac_licence_number" />
+          <ScalarProperty Name="reg_importer_wm" ColumnName="reg_importer_wm" />
+          <ScalarProperty Name="model_aprvl_goi" ColumnName="model_aprvl_goi" />
+          <ScalarProperty Name="previous_apply_details" ColumnName="previous_apply_details" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence_Dealer_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence_Dealer_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence_Dealer_REJ">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="date_of_establishment" ColumnName="date_of_establishment" />
+          <ScalarProperty Name="registration_type" ColumnName="registration_type" />
+          <ScalarProperty Name="registration_date" ColumnName="registration_date" />
+          <ScalarProperty Name="registration_number" ColumnName="registration_number" />
+          <ScalarProperty Name="type_wm" ColumnName="type_wm" />
+          <ScalarProperty Name="tax_reg_type" ColumnName="tax_reg_type" />
+          <ScalarProperty Name="tax_reg_no" ColumnName="tax_reg_no" />
+          <ScalarProperty Name="import_weights" ColumnName="import_weights" />
+          <ScalarProperty Name="manfac_monogram_trade_mark" ColumnName="manfac_monogram_trade_mark" />
+          <ScalarProperty Name="manfac_licence_number" ColumnName="manfac_licence_number" />
+          <ScalarProperty Name="reg_importer_wm" ColumnName="reg_importer_wm" />
+          <ScalarProperty Name="model_aprvl_goi" ColumnName="model_aprvl_goi" />
+          <ScalarProperty Name="previous_apply_details" ColumnName="previous_apply_details" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="appVersion" ColumnName="appVersion" />
+          <ScalarProperty Name="related_app" ColumnName="related_app" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence_Manufacturer">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence_Manufacturer">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence_Manufacturer">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="date_of_establishment" ColumnName="date_of_establishment" />
+          <ScalarProperty Name="registration_type" ColumnName="registration_type" />
+          <ScalarProperty Name="registration_date" ColumnName="registration_date" />
+          <ScalarProperty Name="registration_number" ColumnName="registration_number" />
+          <ScalarProperty Name="nature_manufctur_present" ColumnName="nature_manufctur_present" />
+          <ScalarProperty Name="type_wm" ColumnName="type_wm" />
+          <ScalarProperty Name="skilled_mp" ColumnName="skilled_mp" />
+          <ScalarProperty Name="semiskilled_mp" ColumnName="semiskilled_mp" />
+          <ScalarProperty Name="unskilled_mp" ColumnName="unskilled_mp" />
+          <ScalarProperty Name="specialist_mp" ColumnName="specialist_mp" />
+          <ScalarProperty Name="monogram_trade_mark" ColumnName="monogram_trade_mark" />
+          <ScalarProperty Name="detail_machinery" ColumnName="detail_machinery" />
+          <ScalarProperty Name="detail_workshop_facilty" ColumnName="detail_workshop_facilty" />
+          <ScalarProperty Name="facilities_testing" ColumnName="facilities_testing" />
+          <ScalarProperty Name="electric_energy" ColumnName="electric_energy" />
+          <ScalarProperty Name="banker_name" ColumnName="banker_name" />
+          <ScalarProperty Name="tax_reg_type" ColumnName="tax_reg_type" />
+          <ScalarProperty Name="tax_reg_no" ColumnName="tax_reg_no" />
+          <ScalarProperty Name="previous_apply_details" ColumnName="previous_apply_details" />
+          <ScalarProperty Name="within_state_outside" ColumnName="within_state_outside" />
+          <ScalarProperty Name="model_aprvl_goi" ColumnName="model_aprvl_goi" />
+          <ScalarProperty Name="desired_inspection_Date" ColumnName="desired_inspection_Date" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="detail_loan_amt" ColumnName="detail_loan_amt" />
+          <ScalarProperty Name="detail_loan_acount_no" ColumnName="detail_loan_acount_no" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="type_wm_weights" ColumnName="type_wm_weights" />
+          <ScalarProperty Name="type_wm_measures" ColumnName="type_wm_measures" />
+          <ScalarProperty Name="type_wm_weighnginstru" ColumnName="type_wm_weighnginstru" />
+          <ScalarProperty Name="type_wm_measurnginstru" ColumnName="type_wm_measurnginstru" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence_Manufacturer_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence_Manufacturer_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence_Manufacturer_REJ">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="date_of_establishment" ColumnName="date_of_establishment" />
+          <ScalarProperty Name="registration_type" ColumnName="registration_type" />
+          <ScalarProperty Name="registration_date" ColumnName="registration_date" />
+          <ScalarProperty Name="registration_number" ColumnName="registration_number" />
+          <ScalarProperty Name="nature_manufctur_present" ColumnName="nature_manufctur_present" />
+          <ScalarProperty Name="type_wm" ColumnName="type_wm" />
+          <ScalarProperty Name="skilled_mp" ColumnName="skilled_mp" />
+          <ScalarProperty Name="semiskilled_mp" ColumnName="semiskilled_mp" />
+          <ScalarProperty Name="unskilled_mp" ColumnName="unskilled_mp" />
+          <ScalarProperty Name="specialist_mp" ColumnName="specialist_mp" />
+          <ScalarProperty Name="monogram_trade_mark" ColumnName="monogram_trade_mark" />
+          <ScalarProperty Name="detail_machinery" ColumnName="detail_machinery" />
+          <ScalarProperty Name="detail_workshop_facilty" ColumnName="detail_workshop_facilty" />
+          <ScalarProperty Name="facilities_testing" ColumnName="facilities_testing" />
+          <ScalarProperty Name="electric_energy" ColumnName="electric_energy" />
+          <ScalarProperty Name="banker_name" ColumnName="banker_name" />
+          <ScalarProperty Name="tax_reg_type" ColumnName="tax_reg_type" />
+          <ScalarProperty Name="tax_reg_no" ColumnName="tax_reg_no" />
+          <ScalarProperty Name="previous_apply_details" ColumnName="previous_apply_details" />
+          <ScalarProperty Name="within_state_outside" ColumnName="within_state_outside" />
+          <ScalarProperty Name="model_aprvl_goi" ColumnName="model_aprvl_goi" />
+          <ScalarProperty Name="desired_inspection_Date" ColumnName="desired_inspection_Date" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="detail_loan_amt" ColumnName="detail_loan_amt" />
+          <ScalarProperty Name="detail_loan_acount_no" ColumnName="detail_loan_acount_no" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="type_wm_weights" ColumnName="type_wm_weights" />
+          <ScalarProperty Name="type_wm_measures" ColumnName="type_wm_measures" />
+          <ScalarProperty Name="type_wm_weighnginstru" ColumnName="type_wm_weighnginstru" />
+          <ScalarProperty Name="type_wm_measurnginstru" ColumnName="type_wm_measurnginstru" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="appVersion" ColumnName="appVersion" />
+          <ScalarProperty Name="related_app" ColumnName="related_app" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence_Repairer">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence_Repairer">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence_Repairer">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="date_of_establishment" ColumnName="date_of_establishment" />
+          <ScalarProperty Name="registration_type" ColumnName="registration_type" />
+          <ScalarProperty Name="registration_date" ColumnName="registration_date" />
+          <ScalarProperty Name="registration_number" ColumnName="registration_number" />
+          <ScalarProperty Name="type_wm" ColumnName="type_wm" />
+          <ScalarProperty Name="skilled_mp" ColumnName="skilled_mp" />
+          <ScalarProperty Name="semiskilled_mp" ColumnName="semiskilled_mp" />
+          <ScalarProperty Name="unskilled_mp" ColumnName="unskilled_mp" />
+          <ScalarProperty Name="specialist_mp" ColumnName="specialist_mp" />
+          <ScalarProperty Name="area_wish_to_operate" ColumnName="area_wish_to_operate" />
+          <ScalarProperty Name="PreviousExp" ColumnName="PreviousExp" />
+          <ScalarProperty Name="detail_machinery" ColumnName="detail_machinery" />
+          <ScalarProperty Name="electric_energy" ColumnName="electric_energy" />
+          <ScalarProperty Name="stockofloantest" ColumnName="stockofloantest" />
+          <ScalarProperty Name="tax_reg_type" ColumnName="tax_reg_type" />
+          <ScalarProperty Name="tax_reg_no" ColumnName="tax_reg_no" />
+          <ScalarProperty Name="previous_apply_details" ColumnName="previous_apply_details" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Licence_Repairer_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Licence_Repairer_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_Licence_Repairer_REJ">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="date_of_establishment" ColumnName="date_of_establishment" />
+          <ScalarProperty Name="registration_type" ColumnName="registration_type" />
+          <ScalarProperty Name="registration_date" ColumnName="registration_date" />
+          <ScalarProperty Name="registration_number" ColumnName="registration_number" />
+          <ScalarProperty Name="type_wm" ColumnName="type_wm" />
+          <ScalarProperty Name="skilled_mp" ColumnName="skilled_mp" />
+          <ScalarProperty Name="semiskilled_mp" ColumnName="semiskilled_mp" />
+          <ScalarProperty Name="unskilled_mp" ColumnName="unskilled_mp" />
+          <ScalarProperty Name="specialist_mp" ColumnName="specialist_mp" />
+          <ScalarProperty Name="area_wish_to_operate" ColumnName="area_wish_to_operate" />
+          <ScalarProperty Name="PreviousExp" ColumnName="PreviousExp" />
+          <ScalarProperty Name="detail_machinery" ColumnName="detail_machinery" />
+          <ScalarProperty Name="electric_energy" ColumnName="electric_energy" />
+          <ScalarProperty Name="stockofloantest" ColumnName="stockofloantest" />
+          <ScalarProperty Name="tax_reg_type" ColumnName="tax_reg_type" />
+          <ScalarProperty Name="tax_reg_no" ColumnName="tax_reg_no" />
+          <ScalarProperty Name="previous_apply_details" ColumnName="previous_apply_details" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="appVersion" ColumnName="appVersion" />
+          <ScalarProperty Name="related_app" ColumnName="related_app" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Reg_PM">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Reg_PM">
+        <MappingFragment StoreEntitySet="TA_FSLM_Reg_PM">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="Location_factory_address_id" ColumnName="Location_factory_address_id" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="app_fees_id" ColumnName="app_fees_id" />
+          <ScalarProperty Name="anxreg_id" ColumnName="anxreg_id" />
+          <ScalarProperty Name="reg_type" ColumnName="reg_type" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Reg_PM_REJ">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Reg_PM_REJ">
+        <MappingFragment StoreEntitySet="TA_FSLM_Reg_PM_REJ">
+          <ScalarProperty Name="Local_app_id" ColumnName="Local_app_id" />
+          <ScalarProperty Name="App_User_id" ColumnName="App_User_id" />
+          <ScalarProperty Name="Concern_address_id" ColumnName="Concern_address_id" />
+          <ScalarProperty Name="ConcernAddrsDoc" ColumnName="ConcernAddrsDoc" />
+          <ScalarProperty Name="ConcernAddrsDocSize" ColumnName="ConcernAddrsDocSize" />
+          <ScalarProperty Name="primise_type" ColumnName="primise_type" />
+          <ScalarProperty Name="Location_factory_address_id" ColumnName="Location_factory_address_id" />
+          <ScalarProperty Name="place" ColumnName="place" />
+          <ScalarProperty Name="app_date" ColumnName="app_date" />
+          <ScalarProperty Name="app_update_date" ColumnName="app_update_date" />
+          <ScalarProperty Name="app_fees_id" ColumnName="app_fees_id" />
+          <ScalarProperty Name="anxreg_id" ColumnName="anxreg_id" />
+          <ScalarProperty Name="reg_type" ColumnName="reg_type" />
+          <ScalarProperty Name="namesignapplicant" ColumnName="namesignapplicant" />
+          <ScalarProperty Name="designationapplicant" ColumnName="designationapplicant" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="appVersion" ColumnName="appVersion" />
+          <ScalarProperty Name="related_app" ColumnName="related_app" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_RowCreateDetail">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_RowCreateDetail">
+        <MappingFragment StoreEntitySet="TA_FSLM_RowCreateDetail">
+          <ScalarProperty Name="cu_id" ColumnName="cu_id" />
+          <ScalarProperty Name="cu_tablename" ColumnName="cu_tablename" />
+          <ScalarProperty Name="cu_rowid" ColumnName="cu_rowid" />
+          <ScalarProperty Name="cu_createby" ColumnName="cu_createby" />
+          <ScalarProperty Name="cu_createdatetime" ColumnName="cu_createdatetime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Search">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Search">
+        <MappingFragment StoreEntitySet="TA_FSLM_Search">
+          <ScalarProperty Name="search_id" ColumnName="search_id" />
+          <ScalarProperty Name="search_global_app_id" ColumnName="search_global_app_id" />
+          <ScalarProperty Name="search_keywords" ColumnName="search_keywords" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="search_keywords2" ColumnName="search_keywords2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_Trash">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_Trash">
+        <MappingFragment StoreEntitySet="TA_FSLM_Trash">
+          <ScalarProperty Name="trash_id" ColumnName="trash_id" />
+          <ScalarProperty Name="table_row_id" ColumnName="table_row_id" />
+          <ScalarProperty Name="table_name" ColumnName="table_name" />
+          <ScalarProperty Name="trash_date" ColumnName="trash_date" />
+          <ScalarProperty Name="trash_by_id" ColumnName="trash_by_id" />
+          <ScalarProperty Name="trash_by_usertype" ColumnName="trash_by_usertype" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_User">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_User">
+        <MappingFragment StoreEntitySet="TA_FSLM_User">
+          <ScalarProperty Name="guser_id" ColumnName="guser_id" />
+          <ScalarProperty Name="guser_name" ColumnName="guser_name" />
+          <ScalarProperty Name="guser_password" ColumnName="guser_password" />
+          <ScalarProperty Name="guser_address_id" ColumnName="guser_address_id" />
+          <ScalarProperty Name="gcode" ColumnName="gcode" />
+          <ScalarProperty Name="uniqueida" ColumnName="uniqueida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_FSLM_AttachedFile">
+      <EntityTypeMapping TypeName="foodsupplymvcModel.TA_FSLM_AttachedFile">
+        <MappingFragment StoreEntitySet="TA_FSLM_AttachedFile">
+          <ScalarProperty Name="ftext" ColumnName="ftext" />
+          <ScalarProperty Name="global_app_id" ColumnName="global_app_id" />
+          <ScalarProperty Name="fguid" ColumnName="fguid" />
+          <ScalarProperty Name="fsize" ColumnName="fsize" />
+          <ScalarProperty Name="fname" ColumnName="fname" />
+          <ScalarProperty Name="fid" ColumnName="fid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

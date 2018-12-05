@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="MenuItem">
+  <Element Name="MenuItemModelid" Type="Guid"></Element>
+  <Element Name="ItemTitle" Type="string"></Element>
+  <Element Name="ItemText" Type="string"></Element>
+  <Element Name="ItemLink" Type="string"></Element>
+  <Element Name="Classli" Type="string"></Element>
+  <Element Name="Classa" Type="string"></Element>
+  <Element Name="Parentid" Type="Guid"></Element>
+  <Element Name="MenuModel_MenuModelid" Type="Guid"></Element>
+</Root>

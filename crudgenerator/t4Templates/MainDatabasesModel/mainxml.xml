@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="MainDatabases">
+  <Element Name="MainDatabasesModelid" Type="Guid"></Element>
+  <Element Name="IDataSource" Type="string"></Element>
+  <Element Name="IInitialCatalog" Type="string"></Element>
+  <Element Name="IUsername" Type="string"></Element>
+  <Element Name="IPassword" Type="string"></Element>
+  <Element Name="IName" Type="string"></Element>
+  <Element Name="IUIDCode" Type="string"></Element>
+
+</Root>

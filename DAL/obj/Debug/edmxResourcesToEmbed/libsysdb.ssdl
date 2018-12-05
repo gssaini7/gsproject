@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="lybsysModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="lybsysModelStoreContainer">
+    <EntitySet Name="TA_lib_BinderMaster" EntityType="lybsysModel.Store.TA_lib_BinderMaster" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_lib_BookMaster" EntityType="lybsysModel.Store.TA_lib_BookMaster" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_lib_ListAuthor" EntityType="lybsysModel.Store.TA_lib_ListAuthor" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_lib_PublisherMaster" EntityType="lybsysModel.Store.TA_lib_PublisherMaster" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_lib_SourceMaster" EntityType="lybsysModel.Store.TA_lib_SourceMaster" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TA_lib_BinderMaster">
+    <Key>
+      <PropertyRef Name="BinderId" />
+    </Key>
+    <Property Name="BinderId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Zip" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Comments" Type="nvarchar" MaxLength="255" />
+    <Property Name="Deleted" Type="bit" Nullable="false" />
+    <Property Name="BLanguage" Type="nvarchar" MaxLength="50" />
+    <Property Name="FontName" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="TA_lib_BookMaster">
+    <Key>
+      <PropertyRef Name="Bookid" />
+    </Key>
+    <Property Name="Bookid" Type="int" Nullable="false" />
+    <Property Name="ReceiveDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="BookType" Type="nvarchar" MaxLength="50" />
+    <Property Name="AccessionId" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="BLanguage" Type="nvarchar" MaxLength="50" />
+    <Property Name="Class" Type="nvarchar" MaxLength="50" />
+    <Property Name="BookTitle" Type="nvarchar" MaxLength="255" />
+    <Property Name="Author1" Type="nvarchar" MaxLength="255" />
+    <Property Name="Author2" Type="nvarchar" MaxLength="255" />
+    <Property Name="Author3" Type="nvarchar" MaxLength="255" />
+    <Property Name="Author4" Type="nvarchar" MaxLength="255" />
+    <Property Name="Edition" Type="nvarchar" MaxLength="50" />
+    <Property Name="PublisherID" Type="int" />
+    <Property Name="YearOfPublication" Type="nvarchar" MaxLength="50" />
+    <Property Name="Pages" Type="nvarchar" MaxLength="50" />
+    <Property Name="Volume" Type="nvarchar" MaxLength="50" />
+    <Property Name="ISBN" Type="nvarchar" MaxLength="50" />
+    <Property Name="PurchaseOrGrant" Type="nvarchar" MaxLength="50" />
+    <Property Name="Source" Type="int" />
+    <Property Name="BillNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="BillDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="float" />
+    <Property Name="DicountPer" Type="float" />
+    <Property Name="DiscountAmnt" Type="float" />
+    <Property Name="Format" Type="nvarchar" MaxLength="50" />
+    <Property Name="Condition" Type="nvarchar" MaxLength="50" />
+    <Property Name="ClassificationNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="Classification" Type="nvarchar" MaxLength="255" />
+    <Property Name="BookCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="CollectionName" Type="nvarchar" MaxLength="255" />
+    <Property Name="Medium" Type="nvarchar" MaxLength="50" />
+    <Property Name="Height" Type="nvarchar" MaxLength="50" />
+    <Property Name="RackNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="ReceivedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="IssueAgainst" Type="nvarchar" MaxLength="255" />
+    <Property Name="MaxStudents" Type="int" />
+    <Property Name="MaxTeachers" Type="int" />
+    <Property Name="FineAfterDue" Type="float" />
+    <Property Name="Slab1st" Type="float" />
+    <Property Name="Slab2nd" Type="float" />
+    <Property Name="Slab3rd" Type="float" />
+    <Property Name="Slab4th" Type="float" />
+    <Property Name="OtherDetails" Type="nvarchar" MaxLength="255" />
+    <Property Name="TitlePagePic" Type="nvarchar" MaxLength="255" />
+    <Property Name="BackPagePic" Type="nvarchar" MaxLength="255" />
+    <Property Name="DisposalNo" Type="int" />
+    <Property Name="Library" Type="nvarchar" MaxLength="50" />
+    <Property Name="FontName" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="255" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="strAlmirahNo" Type="nvarchar" MaxLength="100" />
+    <Property Name="strSubTitle" Type="nvarchar" MaxLength="255" />
+    <Property Name="strEditor" Type="nvarchar" MaxLength="200" />
+    <Property Name="strAuthor5" Type="nvarchar" MaxLength="200" />
+    <Property Name="strAuthor6" Type="nvarchar" MaxLength="200" />
+    <Property Name="strAuthor7" Type="nvarchar" MaxLength="200" />
+    <Property Name="strAuthor8" Type="nvarchar" MaxLength="200" />
+    <Property Name="strCurrencyName" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="TA_lib_ListAuthor">
+    <Key>
+      <PropertyRef Name="authorid" />
+    </Key>
+    <Property Name="Authors" Type="nvarchar" MaxLength="255" />
+    <Property Name="FontName" Type="nvarchar" MaxLength="50" />
+    <Property Name="authorid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="TA_lib_PublisherMaster">
+    <Key>
+      <PropertyRef Name="PublisherID" />
+    </Key>
+    <Property Name="PublisherID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Zip" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Comments" Type="nvarchar" MaxLength="255" />
+    <Property Name="Deleted" Type="bit" Nullable="false" />
+    <Property Name="BLanguage" Type="nvarchar" MaxLength="50" />
+    <Property Name="FontName" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="TA_lib_SourceMaster">
+    <Key>
+      <PropertyRef Name="SourceId" />
+    </Key>
+    <Property Name="SourceId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Zip" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Comments" Type="nvarchar" MaxLength="255" />
+    <Property Name="Deleted" Type="bit" Nullable="false" />
+    <Property Name="BLanguage" Type="nvarchar" MaxLength="50" />
+    <Property Name="FontName" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+</Schema>

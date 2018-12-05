@@ -1,0 +1,14 @@
+﻿@model R.BusinessEntities.PageModelToDisplay
+
+@{
+
+    ViewBag.Title = Model.PageTitle;
+    Layout = "~/Views/Shared/_Layoutweb.cshtml";
+
+}
+
+@Html.Partial("_TopMenu", Model)
+
+@Html.Raw(Model.pagecontent)
+
+

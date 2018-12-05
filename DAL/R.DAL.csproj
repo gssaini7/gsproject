@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FF26B176-D6DB-4A12-8B98-B6BF0507DD7F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAL</RootNamespace>
+    <AssemblyName>DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.0.0\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GenericRepository\Genericrepository.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Migrations\201807200646078_initial db.cs" />
+    <Compile Include="Migrations\201807200646078_initial db.Designer.cs">
+      <DependentUpon>201807200646078_initial db.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807200719514_allowed null values.cs" />
+    <Compile Include="Migrations\201807200719514_allowed null values.Designer.cs">
+      <DependentUpon>201807200719514_allowed null values.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807200830535_date null.cs" />
+    <Compile Include="Migrations\201807200830535_date null.Designer.cs">
+      <DependentUpon>201807200830535_date null.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807240416441_class id changed.cs" />
+    <Compile Include="Migrations\201807240416441_class id changed.Designer.cs">
+      <DependentUpon>201807240416441_class id changed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807240910324_academic detail renamed.cs" />
+    <Compile Include="Migrations\201807240910324_academic detail renamed.Designer.cs">
+      <DependentUpon>201807240910324_academic detail renamed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807241109051_subject in blog.cs" />
+    <Compile Include="Migrations\201807241109051_subject in blog.Designer.cs">
+      <DependentUpon>201807241109051_subject in blog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201807310838561_student email, district, pin.cs" />
+    <Compile Include="Migrations\201807310838561_student email, district, pin.Designer.cs">
+      <DependentUpon>201807310838561_student email, district, pin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitOfWork\iUnitOfWork.cs" />
+    <Compile Include="UnitOfWork\UnitOfWork.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="usdb.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessEntities\R.BusinessEntities.csproj">
+      <Project>{c0391588-5534-474b-b060-820a1ba35b94}</Project>
+      <Name>R.BusinessEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Resolver\R.Resolver.csproj">
+      <Project>{a932c5ea-03f1-429f-8ce7-9b71fe7d5580}</Project>
+      <Name>R.Resolver</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201807200646078_initial db.resx">
+      <DependentUpon>201807200646078_initial db.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807200719514_allowed null values.resx">
+      <DependentUpon>201807200719514_allowed null values.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807200830535_date null.resx">
+      <DependentUpon>201807200830535_date null.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807240416441_class id changed.resx">
+      <DependentUpon>201807240416441_class id changed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807240910324_academic detail renamed.resx">
+      <DependentUpon>201807240910324_academic detail renamed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807241109051_subject in blog.resx">
+      <DependentUpon>201807241109051_subject in blog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201807310838561_student email, district, pin.resx">
+      <DependentUpon>201807310838561_student email, district, pin.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

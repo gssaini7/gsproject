@@ -1,0 +1,1019 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BusinessEntities.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\DAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\R.Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BusinessEntities.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\DAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\R.Resolver.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\obj\Debug\BAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\obj\Debug\BAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\AutoMapper.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\AutoMapper.Net4.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\BAL.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\BAL.pdb
+F:\Data\Templates\T2\Template\BAL\bin\Debug\AutoMapper.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\AutoMapper.Net4.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\BusinessEntities.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\DAL.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\R.Resolver.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Data\Templates\T2\Template\BAL\bin\Debug\BusinessEntities.pdb
+F:\Data\Templates\T2\Template\BAL\bin\Debug\DAL.pdb
+F:\Data\Templates\T2\Template\BAL\bin\Debug\R.Resolver.pdb
+F:\Data\Templates\T2\Template\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+F:\Data\Templates\T2\Template\BAL\obj\Debug\BAL.dll
+F:\Data\Templates\T2\Template\BAL\obj\Debug\BAL.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\R.BAL.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\R.BAL.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\AutoMapper.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\AutoMapper.Net4.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\BusinessEntities.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\DAL.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\R.Resolver.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\EntityFramework.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\BusinessEntities.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\DAL.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\R.Resolver.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\bin\Debug\EntityFramework.xml
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\obj\Debug\R.BAL.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\R.BAL.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\DAL.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\DAL.pdb
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Hartron\FSLM new\Template\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Hartron\FSLM new\Template\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Hartron\FSLM new\Template\BAL\obj\Debug\R.BAL.dll
+D:\gs\Hartron\FSLM new\Template\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\BAL\obj\Debug\R.BAL.pdb
+E:\13-7-16\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\13-7-16\Project\project\BAL\obj\Debug\R.BAL.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\R.BAL.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\R.BAL.pdb
+E:\13-7-16\Project\project\BAL\bin\Debug\AutoMapper.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\DAL.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\R.Resolver.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\EntityFramework.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\13-7-16\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\13-7-16\Project\project\BAL\bin\Debug\DAL.pdb
+E:\13-7-16\Project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\13-7-16\Project\project\BAL\bin\Debug\EntityFramework.xml
+E:\13-7-16\Project\project\BAL\obj\Debug\R.BAL.pdb
+E:\14-7-16\Project\project\BAL\bin\Debug\R.BAL.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\R.BAL.pdb
+E:\14-7-16\Project\project\BAL\bin\Debug\AutoMapper.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\DAL.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\R.Resolver.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\EntityFramework.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\14-7-16\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\14-7-16\Project\project\BAL\bin\Debug\DAL.pdb
+E:\14-7-16\Project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\14-7-16\Project\project\BAL\bin\Debug\EntityFramework.xml
+E:\14-7-16\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\14-7-16\Project\project\BAL\obj\Debug\R.BAL.dll
+E:\14-7-16\Project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\14-7-16 H\Project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\14-7-16 H\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\14-7-16 H\Project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\14-7-16 H\Project\project\BAL\obj\Debug\R.BAL.pdb
+E:\19-7-16\Project\project\BAL\bin\Debug\R.BAL.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\R.BAL.pdb
+E:\19-7-16\Project\project\BAL\bin\Debug\AutoMapper.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\DAL.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\R.Resolver.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\EntityFramework.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-7-16\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\19-7-16\Project\project\BAL\bin\Debug\DAL.pdb
+E:\19-7-16\Project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\19-7-16\Project\project\BAL\bin\Debug\EntityFramework.xml
+E:\19-7-16\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\19-7-16\Project\project\BAL\obj\Debug\R.BAL.dll
+E:\19-7-16\Project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\20-7-16\Project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\20-7-16\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\20-7-16\Project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\20-7-16\Project\project\BAL\obj\Debug\R.BAL.pdb
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\R.BAL.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\R.BAL.pdb
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\AutoMapper.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\DAL.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\R.Resolver.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\EntityFramework.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\DAL.pdb
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\20-7-16 Ofc\Project\project\BAL\bin\Debug\EntityFramework.xml
+E:\20-7-16 Ofc\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\20-7-16 Ofc\Project\project\BAL\obj\Debug\R.BAL.dll
+E:\20-7-16 Ofc\Project\project\BAL\obj\Debug\R.BAL.pdb
+E:\26-7-16\project\BAL\bin\Debug\R.BAL.dll
+E:\26-7-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\26-7-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\26-7-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\26-7-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\26-7-16\project\BAL\bin\Debug\DAL.dll
+E:\26-7-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\26-7-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\26-7-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\26-7-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\26-7-16\project\BAL\bin\Debug\DAL.pdb
+E:\26-7-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\26-7-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\26-7-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\26-7-16\project\BAL\obj\Debug\R.BAL.dll
+E:\26-7-16\project\BAL\obj\Debug\R.BAL.pdb
+E:\3-8-16\project\BAL\bin\Debug\R.BAL.dll
+E:\3-8-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\3-8-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\3-8-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\3-8-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\3-8-16\project\BAL\bin\Debug\DAL.dll
+E:\3-8-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\3-8-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\3-8-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\3-8-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\3-8-16\project\BAL\bin\Debug\DAL.pdb
+E:\3-8-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\3-8-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\3-8-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\3-8-16\project\BAL\obj\Debug\R.BAL.dll
+E:\3-8-16\project\BAL\obj\Debug\R.BAL.pdb
+E:\4-8-16\project\BAL\bin\Debug\R.BAL.dll
+E:\4-8-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\4-8-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\4-8-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\4-8-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\4-8-16\project\BAL\bin\Debug\DAL.dll
+E:\4-8-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\4-8-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\4-8-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\4-8-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\4-8-16\project\BAL\bin\Debug\DAL.pdb
+E:\4-8-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\4-8-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\4-8-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\4-8-16\project\BAL\obj\Debug\R.BAL.dll
+E:\4-8-16\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\back\5-8-16\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\back\5-8-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\back\5-8-16\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\back\5-8-16\project\BAL\obj\Debug\R.BAL.pdb
+E:\9-8-16\project\BAL\bin\Debug\R.BAL.dll
+E:\9-8-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\9-8-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\9-8-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\9-8-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\9-8-16\project\BAL\bin\Debug\DAL.dll
+E:\9-8-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\9-8-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\9-8-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\9-8-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\9-8-16\project\BAL\bin\Debug\DAL.pdb
+E:\9-8-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\9-8-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\9-8-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\9-8-16\project\BAL\obj\Debug\R.BAL.dll
+E:\9-8-16\project\BAL\obj\Debug\R.BAL.pdb
+E:\project\BAL\bin\Debug\R.BAL.dll
+E:\project\BAL\bin\Debug\R.BAL.pdb
+E:\project\BAL\bin\Debug\AutoMapper.dll
+E:\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\project\BAL\bin\Debug\BusinessEntities.dll
+E:\project\BAL\bin\Debug\DAL.dll
+E:\project\BAL\bin\Debug\R.Resolver.dll
+E:\project\BAL\bin\Debug\EntityFramework.dll
+E:\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\project\BAL\bin\Debug\DAL.pdb
+E:\project\BAL\bin\Debug\R.Resolver.pdb
+E:\project\BAL\bin\Debug\EntityFramework.xml
+E:\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\project\BAL\obj\Debug\R.BAL.dll
+E:\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\7-9-16 H\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\7-9-16 H\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\7-9-16 H\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\7-9-16 H\project\BAL\obj\Debug\R.BAL.pdb
+E:\8-9-16\project\BAL\bin\Debug\R.BAL.dll
+E:\8-9-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\8-9-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\8-9-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\8-9-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\8-9-16\project\BAL\bin\Debug\DAL.dll
+E:\8-9-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\8-9-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\8-9-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\8-9-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\8-9-16\project\BAL\bin\Debug\DAL.pdb
+E:\8-9-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\8-9-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\8-9-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\8-9-16\project\BAL\obj\Debug\R.BAL.dll
+E:\8-9-16\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\8916\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\8916\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\8916\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\8916\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\8916\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\8916\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\8916\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\8916\project\BAL\obj\Debug\R.BAL.pdb
+E:\19-9-16\project\BAL\bin\Debug\R.BAL.dll
+E:\19-9-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\19-9-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\19-9-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\19-9-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\19-9-16\project\BAL\bin\Debug\DAL.dll
+E:\19-9-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\19-9-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\19-9-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-9-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\19-9-16\project\BAL\bin\Debug\DAL.pdb
+E:\19-9-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\19-9-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\19-9-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\19-9-16\project\BAL\obj\Debug\R.BAL.dll
+E:\19-9-16\project\BAL\obj\Debug\R.BAL.pdb
+E:\10-4-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\10-4-16\project\BAL\bin\Debug\R.BAL.dll
+E:\10-4-16\project\BAL\bin\Debug\R.BAL.pdb
+E:\10-4-16\project\BAL\bin\Debug\AutoMapper.dll
+E:\10-4-16\project\BAL\bin\Debug\BusinessEntities.dll
+E:\10-4-16\project\BAL\bin\Debug\DAL.dll
+E:\10-4-16\project\BAL\bin\Debug\R.Resolver.dll
+E:\10-4-16\project\BAL\bin\Debug\EntityFramework.dll
+E:\10-4-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\10-4-16\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\10-4-16\project\BAL\bin\Debug\DAL.pdb
+E:\10-4-16\project\BAL\bin\Debug\R.Resolver.pdb
+E:\10-4-16\project\BAL\bin\Debug\AutoMapper.pdb
+E:\10-4-16\project\BAL\bin\Debug\AutoMapper.xml
+E:\10-4-16\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\10-4-16\project\BAL\bin\Debug\EntityFramework.xml
+E:\10-4-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\BAL\obj\Debug\R.BAL.dll
+E:\10-4-16\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\17-10-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\17-10-16\project\BAL\obj\Debug\R.BAL.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\18-10-16\project\project\BAL\bin\Debug\R.BAL.dll
+E:\18-10-16\project\project\BAL\bin\Debug\R.BAL.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\AutoMapper.dll
+E:\18-10-16\project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\18-10-16\project\project\BAL\bin\Debug\DAL.dll
+E:\18-10-16\project\project\BAL\bin\Debug\R.Resolver.dll
+E:\18-10-16\project\project\BAL\bin\Debug\EntityFramework.dll
+E:\18-10-16\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\18-10-16\project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\DAL.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\AutoMapper.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\AutoMapper.xml
+E:\18-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\18-10-16\project\project\BAL\bin\Debug\EntityFramework.xml
+E:\18-10-16\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\18-10-16\project\project\BAL\obj\Debug\R.BAL.dll
+E:\18-10-16\project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\19-10-16\project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\19-10-16\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16\project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\19-10-16\project\project\BAL\obj\Debug\R.BAL.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\19-10-16\project\project\BAL\bin\Debug\R.BAL.dll
+E:\19-10-16\project\project\BAL\bin\Debug\R.BAL.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\AutoMapper.dll
+E:\19-10-16\project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\19-10-16\project\project\BAL\bin\Debug\DAL.dll
+E:\19-10-16\project\project\BAL\bin\Debug\R.Resolver.dll
+E:\19-10-16\project\project\BAL\bin\Debug\EntityFramework.dll
+E:\19-10-16\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-10-16\project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\DAL.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\AutoMapper.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\AutoMapper.xml
+E:\19-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\19-10-16\project\project\BAL\bin\Debug\EntityFramework.xml
+E:\19-10-16\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\19-10-16\project\project\BAL\obj\Debug\R.BAL.dll
+E:\19-10-16\project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\19-10-16 H\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\obj\Debug\R.BAL.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\20-10-16\project\project\BAL\bin\Debug\R.BAL.dll
+E:\20-10-16\project\project\BAL\bin\Debug\R.BAL.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\AutoMapper.dll
+E:\20-10-16\project\project\BAL\bin\Debug\BusinessEntities.dll
+E:\20-10-16\project\project\BAL\bin\Debug\DAL.dll
+E:\20-10-16\project\project\BAL\bin\Debug\R.Resolver.dll
+E:\20-10-16\project\project\BAL\bin\Debug\EntityFramework.dll
+E:\20-10-16\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\20-10-16\project\project\BAL\bin\Debug\BusinessEntities.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\DAL.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\R.Resolver.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\AutoMapper.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\AutoMapper.xml
+E:\20-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\20-10-16\project\project\BAL\bin\Debug\EntityFramework.xml
+E:\20-10-16\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\20-10-16\project\project\BAL\obj\Debug\R.BAL.dll
+E:\20-10-16\project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\30-11-16\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\30-11-16\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\30-11-16\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\Base Template\project\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\Base Template\project\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\Base Template\project\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\DAL.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\Base Template\project\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\Base Template\project\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\Base Template\project\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\Base Template\project\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\Base Template\project\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\Base Template\project\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\Base Template\project\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\Base Template\project\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\DAL.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\Libsys\project elibsys\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\Libsys\project elibsys\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\Libsys\project elibsys\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\Libsys\project elibsys\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\19-7-17\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\19-7-17\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\19-7-17\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\19-7-17\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\Test\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\Test\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\Test\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\Test\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\Test\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\Test\token test\1\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\Test\token test\1\2015\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.Razor.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.Razor.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ng web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\ng web\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\Test\ng web\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\Test\ng web\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\R.BAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\R.BAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\AutoMapper.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\EntityFramework.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\AutoMapper.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\AutoMapper.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\EntityFramework.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\BAL\obj\Debug\R.BAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\R.BAL.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\R.BAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\AutoMapper.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\AutoMapper.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\AutoMapper.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\obj\Debug\R.BAL.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\R.BAL.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\R.BAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\AutoMapper.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\AutoMapper.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\AutoMapper.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\obj\Debug\R.BAL.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BAL\obj\Debug\R.BAL.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\R.BAL.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\R.BAL.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\AutoMapper.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\BusinessEntities.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\DAL.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\R.Resolver.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\EntityFramework.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.Razor.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\ea app\gsproject\BAL\bin\Debug\BusinessEntities.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\DAL.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\R.Resolver.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\AutoMapper.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\AutoMapper.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\EntityFramework.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.Razor.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ea app\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ea app\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\ea app\gsproject\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\Test\ea app\gsproject\BAL\obj\Debug\R.BAL.dll
+E:\Test\ea app\gsproject\BAL\obj\Debug\R.BAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\AutoMapper.Net4.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\R.BAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\R.BAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\AutoMapper.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\AutoMapper.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\AutoMapper.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\AutoMapper.Net4.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\obj\Debug\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\BAL\obj\Debug\R.BAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\obj\Debug\R.BAL.pdb

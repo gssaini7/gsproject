@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ussdbModelStoreContainer" CdmEntityContainer="ussdbEntities">
+    <EntitySetMapping Name="ta_ussbk_categoryMaster">
+      <EntityTypeMapping TypeName="ussdbModel.ta_ussbk_categoryMaster">
+        <MappingFragment StoreEntitySet="ta_ussbk_categoryMaster">
+          <ScalarProperty Name="catid" ColumnName="catid" />
+          <ScalarProperty Name="catname" ColumnName="catname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_ussbk_clientrecord">
+      <EntityTypeMapping TypeName="ussdbModel.ta_ussbk_clientrecord">
+        <MappingFragment StoreEntitySet="ta_ussbk_clientrecord">
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+          <ScalarProperty Name="upassword" ColumnName="upassword" />
+          <ScalarProperty Name="expirydate" ColumnName="expirydate" />
+          <ScalarProperty Name="userblocked" ColumnName="userblocked" />
+          <ScalarProperty Name="userrole" ColumnName="userrole" />
+          <ScalarProperty Name="recordid" ColumnName="recordid" />
+          <ScalarProperty Name="productname" ColumnName="productname" />
+          <ScalarProperty Name="productid" ColumnName="productid" />
+          <ScalarProperty Name="businessname" ColumnName="businessname" />
+          <ScalarProperty Name="clientname" ColumnName="clientname" />
+          <ScalarProperty Name="clientemail" ColumnName="clientemail" />
+          <ScalarProperty Name="contactmobile" ColumnName="contactmobile" />
+          <ScalarProperty Name="clientaddress" ColumnName="clientaddress" />
+          <ScalarProperty Name="formodule" ColumnName="formodule" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_ussbk_Description">
+      <EntityTypeMapping TypeName="ussdbModel.ta_ussbk_Description">
+        <MappingFragment StoreEntitySet="ta_ussbk_Description">
+          <ScalarProperty Name="descriptionid" ColumnName="descriptionid" />
+          <ScalarProperty Name="desctitile" ColumnName="desctitile" />
+          <ScalarProperty Name="desccategory" ColumnName="desccategory" />
+          <ScalarProperty Name="descvideolink" ColumnName="descvideolink" />
+          <ScalarProperty Name="websitemodule" ColumnName="websitemodule" />
+          <ScalarProperty Name="descanydescription" ColumnName="descanydescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_ussbk_TitleMaster">
+      <EntityTypeMapping TypeName="ussdbModel.ta_ussbk_TitleMaster">
+        <MappingFragment StoreEntitySet="ta_ussbk_TitleMaster">
+          <ScalarProperty Name="titleid" ColumnName="titleid" />
+          <ScalarProperty Name="titlename" ColumnName="titlename" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_ussbk_Coupons">
+      <EntityTypeMapping TypeName="ussdbModel.TA_ussbk_Coupons">
+        <MappingFragment StoreEntitySet="TA_ussbk_Coupons">
+          <ScalarProperty Name="camount" ColumnName="camount" />
+          <ScalarProperty Name="cblocked" ColumnName="cblocked" />
+          <ScalarProperty Name="cAdminRemarks" ColumnName="cAdminRemarks" />
+          <ScalarProperty Name="cmsgforuser" ColumnName="cmsgforuser" />
+          <ScalarProperty Name="couponcode" ColumnName="couponcode" />
+          <ScalarProperty Name="couponid" ColumnName="couponid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ta_Manager">
+      <EntityTypeMapping TypeName="ussdbModel.Ta_Manager">
+        <MappingFragment StoreEntitySet="Ta_Manager">
+          <ScalarProperty Name="mrowtype" ColumnName="mrowtype" />
+          <ScalarProperty Name="mcontent" ColumnName="mcontent" />
+          <ScalarProperty Name="mguid" ColumnName="mguid" />
+          <ScalarProperty Name="mid" ColumnName="mid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_ussbk_ProjectDetail">
+      <EntityTypeMapping TypeName="ussdbModel.ta_ussbk_ProjectDetail">
+        <MappingFragment StoreEntitySet="ta_ussbk_ProjectDetail">
+          <ScalarProperty Name="projectdetail" ColumnName="projectdetail" />
+          <ScalarProperty Name="amtdtid" ColumnName="amtdtid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

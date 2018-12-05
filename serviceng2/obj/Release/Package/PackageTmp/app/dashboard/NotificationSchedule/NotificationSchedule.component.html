@@ -1,0 +1,158 @@
+
+<div class=''>
+
+    <div class=''>
+        <div class="row">
+            <div class="col-4">
+                <div class="card" *ngIf="blogmodel!=null" style="max-height:300px;overflow-y:scroll">
+                    <img class="card-img-top" src="/ReadWrite/{{dbcodeid}}/{{blogmodel.imagepath}}" alt="{{blogmodel.title}}" *ngIf="blogmodel.imagepath!==null && blogmodel.filetype==='image/jpeg'">
+                    <a target="_blank" href="/ReadWrite/{{dbcodeid}}/{{blogmodel.imagepath}}" *ngIf="blogmodel.imagepath!==null && blogmodel.filetype!=='image/jpeg'">Attachment</a>
+                    
+                    <!--<em *ngIf="blogmodel.imagepath===null">File not added</em>-->
+                    <div class="card-body">
+                        <h5 class="card-title">{{blogmodel.title}}</h5>
+                        <p class="card-text" innerHTML={{blogmodel.description}}></p>
+                        <p class="card-text">{{blogmodel.BlogSubType}}</p>
+
+
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-8">
+
+                <div class="ui-widget-header" style="padding:4px 10px;border-bottom: 0 none">
+                    <i class="fa fa-search" style="margin:4px 4px 0 0"></i>
+                    <input #gbns type="text" pInputText size="50" placeholder="Global Filter">
+                </div>
+                <p-dataTable #dtns [value]="mainobjlist" [rows]="10" [paginator]="true" [pageLinks]="3" [rowsPerPageOptions]="[5,10,20]" [globalFilter]="gbns"
+                    selectionMode="single"     [(selection)]="mainobj" [contextMenu]="cm">
+                    <p-header>Notifications Sent Detail</p-header>
+                    <p-column field="notificationsentdate" header="Sent Date" [sortable]="true">
+                        <ng-template pTemplate="item" let-col="rowData">
+                            {{col.notificationsentdate| date:'medium' }}
+                        </ng-template>
+                    </p-column>
+                    <p-column field="classname" header="Sent To">
+                        <ng-template pTemplate="item" let-col="rowData">
+                            {{stringtojsondata(col.classname) }}
+                        </ng-template>
+                    </p-column>
+                    <!--<p-footer><div class="ui-helper-clearfix" style="width:100%"><button type="button" pButton icon="fa-plus" style="float:left" (click)="SendNotification()" label="Send" *ngIf="selectedStudents!==undefined"></button></div></p-footer>-->
+                </p-dataTable>
+                <p-contextMenu #cm [model]="cmitems" appendTo="body"></p-contextMenu>
+                <!--<p-dropdown [options]="classes" placeholder="Select class"  [autoWidth]="false"
+                            [style]="{'width':'100%'}"></p-dropdown>-->
+            </div>
+        </div>
+        <div class="ui-widget-header" style="padding:4px 10px;border-bottom: 0 none">
+            <!--<p-checkbox [(ngModel)]="NotificationTypeToStudent" binary="true" label="Students"></p-checkbox>-->
+
+          
+            <!--<p-multiSelect [options]="classes" defaultLabel="Classes" (onChange)="checkrecordsclasses($event.value)" ></p-multiSelect>-->
+
+
+            <i class="fa fa-search" style="margin:4px 4px 0 0"></i>
+            <input #gb type="text" pInputText size="50" placeholder="Global Filter">
+            <button type="button" pButton icon="fa-check-square" (click)="ShowAdvancedDialog()" class="btn-xs" label="Select" *ngIf="!isSingle"></button>
+
+            <div *ngIf="isSingle">
+                
+                    <p-dropdown [options]="classes" [(ngModel)]="selectedclass" placeholder="Select Class" (onChange)="OnClassChange()" [showClear]="true" ></p-dropdown>
+                    <p-dropdown [options]="filterdsectionslist" [(ngModel)]="selectedsection" placeholder="Select Section" [showClear]="true" ></p-dropdown>
+                    <button type="button" pButton icon="fa-check" (click)="SelectSingleStudents()" class="btn-xs" label="Select"
+                            [disabled]="!selectedsection"></button>
+                <button type="button" pButton icon="fa-check" (click)="DeSelectSelectSingleStudents()" class="btn-xs" label="De-Select All"
+                     *ngIf="selectedStudents"   [disabled]="selectedStudents.length===0"></button>
+                  
+            </div>
+
+
+        </div>
+        <p-dataTable #dt [value]="students" [rows]="10" [paginator]="true" [pageLinks]="3" [rowsPerPageOptions]="[5,10,20]" [globalFilter]="gb"
+                 [headerCheckboxToggleAllPages]="true" [(selection)]="selectedStudents"    >
+            <p-header>Students</p-header>
+            <p-column [style]="{'width':'38px'}" selectionMode="multiple" *ngIf="NotificationTypeToStudent"></p-column>
+            <p-column field="strAdmissionNo" header="Admission No." [sortable]="true"></p-column>
+            <p-column field="strStudentName" header="Name" [sortable]="true"></p-column>
+            <p-column field="strFatherName" header="Father Name" [sortable]="true"></p-column>
+            <p-column field="strMotherName" header="Mother Name" [sortable]="true"></p-column>
+            <p-column field="OfClass.ClassName" header="Class" [sortable]="true" [filter]="true" filterMatchMode="in">
+                <ng-template pTemplate="filter" let-col>
+                    <!--<p-multiSelect [options]="classes" defaultLabel="Classes" (onChange)="dt.filter($event.label,col.field,col.filterMatchMode)" styleClass="ui-column-filter"></p-multiSelect>-->
+                    
+                    <p-multiSelect [options]="classesfilter" defaultLabel="Classes" (onChange)="dt.filter($event.value,col.field,col.filterMatchMode)" styleClass="ui-column-filter"></p-multiSelect>
+                </ng-template>
+            </p-column>
+            <p-column field="OfSection.SectionName" header="Section" [sortable]="true" [filter]="true" filterMatchMode="in">
+                <ng-template pTemplate="filter" let-col>
+                    <p-multiSelect [options]="sectionsfilter" defaultLabel="Sections" (onChange)="dt.filter($event.value,col.field,col.filterMatchMode)" styleClass="ui-column-filter"></p-multiSelect>
+                </ng-template>
+            </p-column>
+            <p-column field="strSex" header="Sex" [sortable]="true"></p-column>
+            <p-column field="numMobileNoForSms" header="Mobile" [sortable]="true"></p-column>
+
+            <p-footer><div class="ui-helper-clearfix" style="width:100%" *ngIf="selectedStudents!==undefined"><button type="button" pButton icon="fa-paper-plane" style="float:left" (click)="SendNotification()" label="Send" 
+                                                                                 *ngIf="selectedStudents.length!==0"></button></div></p-footer>
+        </p-dataTable>
+
+        <p-dialog header="Advanced Selection" [(visible)]="displayDialog" [responsive]="true" showEffect="fade" [modal]="true" [width]="500">
+            <p-tree [value]="filesTree4" selectionMode="checkbox" [(selection)]="selectedFiles2"></p-tree>
+            <p-footer>
+                <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                    <button type="button" pButton icon="fa-check" label="OK" (click)="CheckAdvancedRecords()" ></button>
+                </div>
+            </p-footer>
+        </p-dialog>
+
+            <!--<p-dialog header="NotificationSchedule" [(visible)]="displayDialog" [responsive]="true" showEffect="fade" [modal]="true" [width]="500">
+            <form novalidate [formGroup]="mainFrm">
+
+                <div class="form-group">
+
+                    <label for="NotificationScheduleModelid">NotificationScheduleModelid</label>
+                    <input type="text" class="form-control" id="NotificationScheduleModelid" placeholder="Enter NotificationScheduleModelid" pInputText formControlName="NotificationScheduleModelid">
+                </div>
+
+                <div class="form-group">
+
+                    <label for="notificationsentdate">notificationsentdate</label>
+                    <input type="text" class="form-control" id="notificationsentdate" placeholder="Enter notificationsentdate" pInputText formControlName="notificationsentdate">
+                </div>
+
+                <div class="form-group">
+
+                    <label for="classname">classname</label>
+                    <input type="text" class="form-control" id="classname" placeholder="Enter classname" pInputText formControlName="classname">
+                </div>
+
+
+                <div class="form-group">
+                    <label for="Remarks">Remarks</label>
+                    <textarea class="form-control" id="Remarks" placeholder="Enter remarks" pInputText formControlName="remarks"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="isPublishedc">Published</label>
+                    <p-checkbox name="isPublishedc" value="isPublished" binary="true" formControlName="isPublished"></p-checkbox>
+
+                </div>
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                    </div>
+                </p-footer>
+            </form>
+        </p-dialog>-->
+
+
+
+            <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <span class="sr-only">Error:</span>
+                {{msg}}
+            </div>
+</div>
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+

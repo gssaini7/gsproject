@@ -1,0 +1,323 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\R.Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\R.Resolver.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\obj\Debug\R.Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\obj\Debug\R.Resolver.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Data\Templates\T2\Template\Resolver\bin\Debug\R.Resolver.dll
+F:\Data\Templates\T2\Template\Resolver\bin\Debug\R.Resolver.pdb
+F:\Data\Templates\T2\Template\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Data\Templates\T2\Template\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+F:\Data\Templates\T2\Template\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+F:\Data\Templates\T2\Template\Resolver\obj\Debug\R.Resolver.dll
+F:\Data\Templates\T2\Template\Resolver\obj\Debug\R.Resolver.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\Resolver\bin\Debug\R.Resolver.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\Resolver\bin\Debug\R.Resolver.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\Resolver\obj\Debug\R.Resolver.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Hartron\FSLM new\Template\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Hartron\FSLM new\Template\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Hartron\FSLM new\Template\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Hartron\FSLM new\Template\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Hartron\FSLM new\Template\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Hartron\FSLM new\Template\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\Resolver\obj\Debug\R.Resolver.pdb
+E:\13-7-16\Project\project\Resolver\bin\Debug\R.Resolver.dll
+E:\13-7-16\Project\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\13-7-16\Project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\13-7-16\Project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\13-7-16\Project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\13-7-16\Project\project\Resolver\obj\Debug\R.Resolver.dll
+E:\13-7-16\Project\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\14-7-16\Project\project\Resolver\bin\Debug\R.Resolver.dll
+E:\14-7-16\Project\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\14-7-16\Project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\14-7-16\Project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\14-7-16\Project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\14-7-16\Project\project\Resolver\obj\Debug\R.Resolver.dll
+E:\14-7-16\Project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\14-7-16 H\Project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\14-7-16 H\Project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\14-7-16 H\Project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\14-7-16 H\Project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\14-7-16 H\Project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\14-7-16 H\Project\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\19-7-16\Project\project\Resolver\bin\Debug\R.Resolver.dll
+E:\19-7-16\Project\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\19-7-16\Project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-7-16\Project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\19-7-16\Project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\19-7-16\Project\project\Resolver\obj\Debug\R.Resolver.dll
+E:\19-7-16\Project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\20-7-16\Project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\20-7-16\Project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\20-7-16\Project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\20-7-16\Project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\20-7-16\Project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\20-7-16\Project\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\3-8-16\project\Resolver\bin\Debug\R.Resolver.dll
+E:\3-8-16\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\3-8-16\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\3-8-16\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\3-8-16\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\3-8-16\project\Resolver\obj\Debug\R.Resolver.dll
+E:\3-8-16\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\4-8-16\project\Resolver\bin\Debug\R.Resolver.dll
+E:\4-8-16\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\4-8-16\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\4-8-16\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\4-8-16\project\Resolver\obj\Debug\R.Resolver.dll
+E:\4-8-16\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\8-9-16\project\Resolver\bin\Debug\R.Resolver.dll
+E:\8-9-16\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\8-9-16\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\8-9-16\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\8-9-16\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\8-9-16\project\Resolver\obj\Debug\R.Resolver.dll
+E:\8-9-16\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\8916\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\8916\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\8916\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\8916\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\8916\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\8916\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\19-9-16\project\Resolver\bin\Debug\R.Resolver.dll
+E:\19-9-16\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\19-9-16\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-9-16\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\19-9-16\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\19-9-16\project\Resolver\obj\Debug\R.Resolver.dll
+E:\19-9-16\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\10-4-16\project\Resolver\bin\Debug\R.Resolver.dll
+E:\10-4-16\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\10-4-16\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\10-4-16\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\10-4-16\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\Resolver\obj\Debug\R.Resolver.dll
+E:\10-4-16\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\17-10-16\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\17-10-16\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\17-10-16\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\17-10-16\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\18-10-16\project\project\Resolver\bin\Debug\R.Resolver.dll
+E:\18-10-16\project\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\18-10-16\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\18-10-16\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\18-10-16\project\project\Resolver\obj\Debug\R.Resolver.dll
+E:\18-10-16\project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16\project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16\project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\19-10-16\project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16\project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16\project\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\19-10-16\project\project\Resolver\bin\Debug\R.Resolver.dll
+E:\19-10-16\project\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\19-10-16\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-10-16\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\19-10-16\project\project\Resolver\obj\Debug\R.Resolver.dll
+E:\19-10-16\project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16 H\project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16 H\project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16 H\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16 H\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\19-10-16 H\project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16 H\project\project\Resolver\obj\Debug\R.Resolver.pdb
+E:\20-10-16\project\project\Resolver\bin\Debug\R.Resolver.dll
+E:\20-10-16\project\project\Resolver\bin\Debug\R.Resolver.pdb
+E:\20-10-16\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\20-10-16\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\20-10-16\project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\20-10-16\project\project\Resolver\obj\Debug\R.Resolver.dll
+E:\20-10-16\project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\project\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\project\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\project\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\project\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\project\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\Test\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\Test\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\Test\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\Test\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\ebrickkiln\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\token test\1\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\token test\1\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\Test\token test\1\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\Test\token test\1\ebrickkiln\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\ng web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\ng web\ebrickkiln\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\Test\ng web\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\Test\ng web\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\obj\Debug\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\obj\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\obj\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\Test\ea app\gsproject\Resolver\bin\Debug\R.Resolver.dll
+E:\Test\ea app\gsproject\Resolver\bin\Debug\R.Resolver.pdb
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\ea app\gsproject\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\ea app\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\ea app\gsproject\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache
+E:\Test\ea app\gsproject\Resolver\obj\Debug\R.Resolver.dll
+E:\Test\ea app\gsproject\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\obj\Debug\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\obj\Debug\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\obj\Debug\R.Resolver.csprojResolveAssemblyReference.cache

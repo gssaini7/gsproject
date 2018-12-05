@@ -1,0 +1,892 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="foodsupplymvcModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="foodsupplymvcModelStoreContainer">
+    <EntitySet Name="TA_FSLM_Address" EntityType="foodsupplymvcModel.Store.TA_FSLM_Address" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Address_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_Address_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Admin" EntityType="foodsupplymvcModel.Store.TA_FSLM_Admin" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AdminComments" EntityType="foodsupplymvcModel.Store.TA_FSLM_AdminComments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AdminCommentsFinal" EntityType="foodsupplymvcModel.Store.TA_FSLM_AdminCommentsFinal" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AdminRejectedStatus" EntityType="foodsupplymvcModel.Store.TA_FSLM_AdminRejectedStatus" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AnnexureReg" EntityType="foodsupplymvcModel.Store.TA_FSLM_AnnexureReg" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AnnexureRegb" EntityType="foodsupplymvcModel.Store.TA_FSLM_AnnexureRegb" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AnnexureRegb_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_AnnexureRegb_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_App_Global_Local" EntityType="foodsupplymvcModel.Store.TA_FSLM_App_Global_Local" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_App_Status" EntityType="foodsupplymvcModel.Store.TA_FSLM_App_Status" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AreaCircle" EntityType="foodsupplymvcModel.Store.TA_FSLM_AreaCircle" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_AttachedFile" EntityType="foodsupplymvcModel.Store.TA_FSLM_AttachedFile" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_CategoryWM" EntityType="foodsupplymvcModel.Store.TA_FSLM_CategoryWM" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Commodity" EntityType="foodsupplymvcModel.Store.TA_FSLM_Commodity" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Commodity_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_Commodity_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_DenominationWM" EntityType="foodsupplymvcModel.Store.TA_FSLM_DenominationWM" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_District" EntityType="foodsupplymvcModel.Store.TA_FSLM_District" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Fees" EntityType="foodsupplymvcModel.Store.TA_FSLM_Fees" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_ILM_Comments" EntityType="foodsupplymvcModel.Store.TA_FSLM_ILM_Comments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_ILM_Comments_Rej" EntityType="foodsupplymvcModel.Store.TA_FSLM_ILM_Comments_Rej" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_ILMRPMI_Supplement" EntityType="foodsupplymvcModel.Store.TA_FSLM_ILMRPMI_Supplement" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_ILMRPMI_Supplement_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_ILMRPMI_Supplement_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence_Dealer" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence_Dealer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence_Dealer_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence_Dealer_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence_Manufacturer" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence_Manufacturer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence_Manufacturer_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence_Manufacturer_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence_Repairer" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence_Repairer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Licence_Repairer_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_Licence_Repairer_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Reg_PM" EntityType="foodsupplymvcModel.Store.TA_FSLM_Reg_PM" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Reg_PM_REJ" EntityType="foodsupplymvcModel.Store.TA_FSLM_Reg_PM_REJ" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_RowCreateDetail" EntityType="foodsupplymvcModel.Store.TA_FSLM_RowCreateDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Search" EntityType="foodsupplymvcModel.Store.TA_FSLM_Search" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_Trash" EntityType="foodsupplymvcModel.Store.TA_FSLM_Trash" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TA_FSLM_User" EntityType="foodsupplymvcModel.Store.TA_FSLM_User" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_TA_FSLM_Admin_TA_FSLM_Address" Association="foodsupplymvcModel.Store.FK_TA_FSLM_Admin_TA_FSLM_Address">
+      <End Role="TA_FSLM_Address" EntitySet="TA_FSLM_Address" />
+      <End Role="TA_FSLM_Admin" EntitySet="TA_FSLM_Admin" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local" Association="foodsupplymvcModel.Store.FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local">
+      <End Role="TA_FSLM_App_Global_Local" EntitySet="TA_FSLM_App_Global_Local" />
+      <End Role="TA_FSLM_AttachedFile" EntitySet="TA_FSLM_AttachedFile" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TA_FSLM_District_TA_FSLM_AreaCircle" Association="foodsupplymvcModel.Store.FK_TA_FSLM_District_TA_FSLM_AreaCircle">
+      <End Role="TA_FSLM_AreaCircle" EntitySet="TA_FSLM_AreaCircle" />
+      <End Role="TA_FSLM_District" EntitySet="TA_FSLM_District" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address" Association="foodsupplymvcModel.Store.FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address">
+      <End Role="TA_FSLM_Address" EntitySet="TA_FSLM_Address" />
+      <End Role="TA_FSLM_Licence_Manufacturer" EntitySet="TA_FSLM_Licence_Manufacturer" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TA_FSLM_Address">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="a_name" Type="varchar" MaxLength="100" />
+    <Property Name="a_fathername" Type="varchar" MaxLength="100" />
+    <Property Name="address1" Type="varchar" MaxLength="100" />
+    <Property Name="address2" Type="varchar" MaxLength="100" />
+    <Property Name="a_city" Type="varchar" MaxLength="50" />
+    <Property Name="a_state" Type="varchar" MaxLength="50" />
+    <Property Name="a_pin" Type="varchar" MaxLength="6" />
+    <Property Name="a_mobile" Type="varchar" MaxLength="15" />
+    <Property Name="a_landline" Type="varchar" MaxLength="15" />
+    <Property Name="a_emailid" Type="varchar" MaxLength="50" />
+    <Property Name="address_type" Type="varchar" MaxLength="15" />
+    <Property Name="global_application_id" Type="bigint" />
+    <Property Name="a_aadharno" Type="varchar" MaxLength="13" />
+    <Property Name="guidid" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Address_REJ">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="a_name" Type="varchar" MaxLength="100" />
+    <Property Name="a_fathername" Type="varchar" MaxLength="100" />
+    <Property Name="address1" Type="varchar" MaxLength="100" />
+    <Property Name="address2" Type="varchar" MaxLength="100" />
+    <Property Name="a_city" Type="varchar" MaxLength="50" />
+    <Property Name="a_state" Type="varchar" MaxLength="50" />
+    <Property Name="a_pin" Type="varchar" MaxLength="6" />
+    <Property Name="a_mobile" Type="varchar" MaxLength="15" />
+    <Property Name="a_landline" Type="varchar" MaxLength="15" />
+    <Property Name="a_emailid" Type="varchar" MaxLength="50" />
+    <Property Name="address_type" Type="varchar" MaxLength="15" />
+    <Property Name="global_application_id" Type="bigint" />
+    <Property Name="a_aadharno" Type="varchar" MaxLength="13" />
+    <Property Name="mainaddressid" Type="bigint" />
+    <Property Name="appVersion" Type="int" />
+    <Property Name="deletedaddressrej" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Admin">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="admin_username" Type="varchar" MaxLength="50" />
+    <Property Name="admin_password" Type="varchar" MaxLength="200" />
+    <Property Name="admin_type" Type="varchar" MaxLength="5" />
+    <Property Name="admin_district_circle_id" Type="bigint" />
+    <Property Name="admin_address_id" Type="bigint" />
+    <Property Name="trash" Type="int" />
+    <Property Name="isActiveFlag" Type="int" />
+    <Property Name="uniqueida" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AdminComments">
+    <Key>
+      <PropertyRef Name="admin_cmnt_id" />
+    </Key>
+    <Property Name="admin_cmnt_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="admin_id" Type="bigint" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="admin_comments" Type="varchar" MaxLength="500" />
+    <Property Name="cmnt_createDate" Type="datetime" />
+    <Property Name="cmnt_updateDate" Type="datetime" />
+    <Property Name="cmnt_file" Type="varchar" MaxLength="50" />
+    <Property Name="cmnt_filesize" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AdminCommentsFinal">
+    <Key>
+      <PropertyRef Name="admin_cmnt_id" />
+    </Key>
+    <Property Name="admin_cmnt_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="admin_id" Type="bigint" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="admin_comments" Type="varchar" MaxLength="500" />
+    <Property Name="cmnt_createDate" Type="datetime" />
+    <Property Name="cmnt_updateDate" Type="datetime" />
+    <Property Name="cmnt_file" Type="varchar" MaxLength="50" />
+    <Property Name="cmnt_filesize" Type="int" />
+    <Property Name="cmnt_type" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AdminRejectedStatus">
+    <Key>
+      <PropertyRef Name="adminrej_id" />
+    </Key>
+    <Property Name="adminrej_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="rejected_by" Type="bigint" />
+    <Property Name="rejectionDate" Type="datetime" />
+    <Property Name="rejectedbyAdmintype" Type="varchar" MaxLength="50" />
+    <Property Name="globalAPPID" Type="bigint" />
+    <Property Name="rejectstatus" Type="int" />
+    <Property Name="send_to_id" Type="bigint" />
+    <Property Name="send_to_Admintype" Type="varchar" MaxLength="50" />
+    <Property Name="Adminresubmit_date" Type="datetime" />
+    <Property Name="Reject_admn_comment" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AnnexureReg">
+    <Key>
+      <PropertyRef Name="anxreg_id" />
+    </Key>
+    <Property Name="anxreg_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="anx3_dateprepackimport" Type="datetime" />
+    <Property Name="anx4a_dec_name" Type="int" />
+    <Property Name="anx4b_mxretlprice" Type="int" />
+    <Property Name="anx4c_datempi" Type="int" />
+    <Property Name="anx4d_date_expiry" Type="int" />
+    <Property Name="anx4e_netcontent" Type="int" />
+    <Property Name="anx4f_namecomodty" Type="int" />
+    <Property Name="anx5_quantiywm" Type="varchar(max)" />
+    <Property Name="anx6_stdqty" Type="int" />
+    <Property Name="anx7_packtype1" Type="varchar" MaxLength="50" />
+    <Property Name="anx8_packtype2" Type="varchar" MaxLength="50" />
+    <Property Name="anx9_packperish" Type="int" />
+    <Property Name="anx10_exportcntry" Type="int" />
+    <Property Name="anx11_rawmtrl" Type="int" />
+    <Property Name="anx11_rawmtrldetail" Type="varchar(max)" />
+    <Property Name="anx12_fastfood" Type="int" />
+    <Property Name="anx13_drugaggri" Type="int" />
+    <Property Name="anx14_residential" Type="int" />
+    <Property Name="anx15_commercial" Type="int" />
+    <Property Name="anx15_commercialdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx15_commercialdocsize" Type="int" />
+    <Property Name="anx16_premisetype" Type="varchar" MaxLength="50" />
+    <Property Name="anx17_inspectiondate" Type="datetime" />
+    <Property Name="anx17_inspreprotdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx17_inspreportdocsize" Type="int" />
+    <Property Name="anx18_challaned" Type="int" />
+    <Property Name="anx18_datechallan" Type="datetime" />
+    <Property Name="anx18_challannoticedoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx18_challannoticedocsize" Type="int" />
+    <Property Name="anx19_offences" Type="varchar(max)" />
+    <Property Name="anx19_iscompounded" Type="int" />
+    <Property Name="anx19_recieptdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx19_recieptdocsize" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AnnexureRegb">
+    <Key>
+      <PropertyRef Name="anxreg_id" />
+    </Key>
+    <Property Name="anxreg_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="anx3_dateprepackimport" Type="datetime" />
+    <Property Name="anx4a_dec_name" Type="bit" />
+    <Property Name="anx4b_mxretlprice" Type="bit" />
+    <Property Name="anx4c_datempi" Type="bit" />
+    <Property Name="anx4d_date_expiry" Type="bit" />
+    <Property Name="anx4e_netcontent" Type="bit" />
+    <Property Name="anx4f_namecomodty" Type="bit" />
+    <Property Name="anx5_quantiywm" Type="varchar(max)" />
+    <Property Name="anx6_stdqty" Type="bit" />
+    <Property Name="anx7_packtype1" Type="varchar" MaxLength="50" />
+    <Property Name="anx8_packtype2" Type="varchar" MaxLength="50" />
+    <Property Name="anx9_packperish" Type="bit" />
+    <Property Name="anx10_exportcntry" Type="bit" />
+    <Property Name="anx11_rawmtrl" Type="bit" />
+    <Property Name="anx11_rawmtrldetail" Type="varchar(max)" />
+    <Property Name="anx12_fastfood" Type="bit" />
+    <Property Name="anx13_drugaggri" Type="bit" />
+    <Property Name="anx14_residential" Type="bit" />
+    <Property Name="anx15_commercial" Type="bit" />
+    <Property Name="anx15_commercialdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx15_commercialdocsize" Type="int" />
+    <Property Name="anx16_premisetype" Type="varchar" MaxLength="50" />
+    <Property Name="anx17_inspectiondate" Type="datetime" />
+    <Property Name="anx17_inspreprotdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx17_inspreportdocsize" Type="int" />
+    <Property Name="anx18_challaned" Type="bit" />
+    <Property Name="anx18_datechallan" Type="datetime" />
+    <Property Name="anx18_challannoticedoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx18_challannoticedocsize" Type="int" />
+    <Property Name="anx19_offences" Type="varchar(max)" />
+    <Property Name="anx19_iscompounded" Type="bit" />
+    <Property Name="anx19_recieptdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx19_recieptdocsize" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AnnexureRegb_REJ">
+    <Key>
+      <PropertyRef Name="anxreg_id" />
+    </Key>
+    <Property Name="anxreg_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="anx3_dateprepackimport" Type="datetime" />
+    <Property Name="anx4a_dec_name" Type="bit" />
+    <Property Name="anx4b_mxretlprice" Type="bit" />
+    <Property Name="anx4c_datempi" Type="bit" />
+    <Property Name="anx4d_date_expiry" Type="bit" />
+    <Property Name="anx4e_netcontent" Type="bit" />
+    <Property Name="anx4f_namecomodty" Type="bit" />
+    <Property Name="anx5_quantiywm" Type="varchar(max)" />
+    <Property Name="anx6_stdqty" Type="bit" />
+    <Property Name="anx7_packtype1" Type="varchar" MaxLength="50" />
+    <Property Name="anx8_packtype2" Type="varchar" MaxLength="50" />
+    <Property Name="anx9_packperish" Type="bit" />
+    <Property Name="anx10_exportcntry" Type="bit" />
+    <Property Name="anx11_rawmtrl" Type="bit" />
+    <Property Name="anx11_rawmtrldetail" Type="varchar(max)" />
+    <Property Name="anx12_fastfood" Type="bit" />
+    <Property Name="anx13_drugaggri" Type="bit" />
+    <Property Name="anx14_residential" Type="bit" />
+    <Property Name="anx15_commercial" Type="bit" />
+    <Property Name="anx15_commercialdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx15_commercialdocsize" Type="int" />
+    <Property Name="anx16_premisetype" Type="varchar" MaxLength="50" />
+    <Property Name="anx17_inspectiondate" Type="datetime" />
+    <Property Name="anx17_inspreprotdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx17_inspreportdocsize" Type="int" />
+    <Property Name="anx18_challaned" Type="bit" />
+    <Property Name="anx18_datechallan" Type="datetime" />
+    <Property Name="anx18_challannoticedoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx18_challannoticedocsize" Type="int" />
+    <Property Name="anx19_offences" Type="varchar(max)" />
+    <Property Name="anx19_iscompounded" Type="bit" />
+    <Property Name="anx19_recieptdoc" Type="varchar" MaxLength="50" />
+    <Property Name="anx19_recieptdocsize" Type="int" />
+    <Property Name="localappversion" Type="int" />
+    <Property Name="mainanxid" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_App_Global_Local">
+    <Key>
+      <PropertyRef Name="global_app_id" />
+    </Key>
+    <Property Name="global_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="local_app_id" Type="bigint" />
+    <Property Name="app_type" Type="varchar" MaxLength="50" />
+    <Property Name="templocal_app_id" Type="bigint" />
+    <Property Name="currentversion" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_App_Status">
+    <Key>
+      <PropertyRef Name="app_status_id" />
+    </Key>
+    <Property Name="app_status_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="admin_id" Type="bigint" />
+    <Property Name="received_date" Type="datetime" />
+    <Property Name="opened_date" Type="datetime" />
+    <Property Name="reviewed_date" Type="datetime" />
+    <Property Name="reviewed_type" Type="varchar" MaxLength="20" />
+    <Property Name="forwarded_to" Type="bigint" />
+    <Property Name="admin_type" Type="varchar" MaxLength="5" />
+    <Property Name="initial_status" Type="varchar" MaxLength="50" />
+    <Property Name="app_versionc" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AreaCircle">
+    <Key>
+      <PropertyRef Name="areacircle_id" />
+    </Key>
+    <Property Name="areacircle_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="areacircle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="trash" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AttachedFile">
+    <Key>
+      <PropertyRef Name="fid" />
+    </Key>
+    <Property Name="fid" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="fname" Type="varchar" MaxLength="100" />
+    <Property Name="fsize" Type="int" />
+    <Property Name="fguid" Type="uniqueidentifier" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="ftext" Type="nvarchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_CategoryWM">
+    <Key>
+      <PropertyRef Name="cat_id" />
+    </Key>
+    <Property Name="cat_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="cat_name" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Commodity">
+    <Key>
+      <PropertyRef Name="com_id" />
+    </Key>
+    <Property Name="com_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="com_name" Type="varchar" MaxLength="100" />
+    <Property Name="com_global_id" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Commodity_REJ">
+    <Key>
+      <PropertyRef Name="com_id" />
+    </Key>
+    <Property Name="com_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="com_name" Type="varchar" MaxLength="100" />
+    <Property Name="com_global_id" Type="bigint" />
+    <Property Name="localappversion" Type="int" />
+    <Property Name="delcomrej" Type="int" />
+    <Property Name="maincomid" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_DenominationWM">
+    <Key>
+      <PropertyRef Name="denom_id" />
+    </Key>
+    <Property Name="denom_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="denmo_name" Type="varchar" MaxLength="100" />
+    <Property Name="denom_price" Type="numeric" Precision="9" Scale="2" />
+    <Property Name="cat_id" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_District">
+    <Key>
+      <PropertyRef Name="district_id" />
+    </Key>
+    <Property Name="district_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="district_name" Type="varchar" MaxLength="50" />
+    <Property Name="areacircle_id" Type="bigint" />
+    <Property Name="trash" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Fees">
+    <Key>
+      <PropertyRef Name="feesid" />
+    </Key>
+    <Property Name="feesid" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="feeamount" Type="bigint" />
+    <Property Name="feedate" Type="datetime" />
+    <Property Name="feebank" Type="varchar" MaxLength="100" />
+    <Property Name="feemodeofpayment" Type="varchar" MaxLength="50" />
+    <Property Name="feeverify" Type="int" />
+    <Property Name="feechalannumber" Type="varchar" MaxLength="50" />
+    <Property Name="feeDetailSubmitdate" Type="datetime" />
+    <Property Name="feeVerifyByUserDate" Type="datetime" />
+    <Property Name="feeVerifyByAdminDate" Type="datetime" />
+    <Property Name="nfeeRecieptDoc" Type="varchar" MaxLength="50" />
+    <Property Name="nfeeRecieptDocSize" Type="int" />
+    <Property Name="feeGenerateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILM_Comments">
+    <Key>
+      <PropertyRef Name="ilm_comment_id" />
+    </Key>
+    <Property Name="ilm_comment_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_name_concern" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_address_concern" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_date_of_estblsmnt" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_partners" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_date_reg_no" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_nature_manfact" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_weights" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_measures" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_weighing_inst" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_msrng_inst" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_skilled" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_semiskilled" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_unskilled" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_specialist" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_monogrm_trade" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_detail_mchnry" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_detail_wrkshp" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_facilities_tstng" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_electric_enrgy" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_loan_detail" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_banker_name" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_tax_detail" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_prvs_apply" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_withn_state_outsd" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_model_aprvl" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_inspection_date" Type="datetime" />
+    <Property Name="ilmc_inspection_comments" Type="varchar" MaxLength="100" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="admin_id" Type="bigint" />
+    <Property Name="cmnt_createDate" Type="datetime" />
+    <Property Name="cmnt_updateDate" Type="datetime" />
+    <Property Name="ilmc_r_area_wish_to_operate" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_r_PreviousExp" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_r_stockofloantest" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_r_premise_type_ndDOC" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_d_isimportw" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_d_regsimpoterwm" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_locaddress" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_comodity" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_fees" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_remarks_all" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILM_Comments_Rej">
+    <Key>
+      <PropertyRef Name="ilm_comment_id" />
+    </Key>
+    <Property Name="ilm_comment_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_name_concern" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_address_concern" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_date_of_estblsmnt" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_partners" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_date_reg_no" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_nature_manfact" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_weights" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_measures" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_weighing_inst" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_type_msrng_inst" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_skilled" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_semiskilled" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_unskilled" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_mp_specialist" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_monogrm_trade" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_detail_mchnry" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_detail_wrkshp" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_facilities_tstng" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_electric_enrgy" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_loan_detail" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_banker_name" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_tax_detail" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_prvs_apply" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_withn_state_outsd" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_model_aprvl" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_inspection_date" Type="datetime" />
+    <Property Name="ilmc_inspection_comments" Type="varchar" MaxLength="100" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="admin_id" Type="bigint" />
+    <Property Name="cmnt_createDate" Type="datetime" />
+    <Property Name="cmnt_updateDate" Type="datetime" />
+    <Property Name="ilmc_r_area_wish_to_operate" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_r_PreviousExp" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_r_stockofloantest" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_r_premise_type_ndDOC" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_d_isimportw" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_d_regsimpoterwm" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_locaddress" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_comodity" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_fees" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_remarks_all" Type="varchar" MaxLength="500" />
+    <Property Name="appVersion" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILMRPMI_Supplement">
+    <Key>
+      <PropertyRef Name="ilmc_suplmnt_cmnt_id" />
+    </Key>
+    <Property Name="ilmc_suplmnt_cmnt_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_cmt_id" Type="bigint" />
+    <Property Name="ilmc_rpm_3_dateprepackimport" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_4_Declarations" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_5_quantiywm" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_6_stdqty" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_7_packtype1" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_8_packtype2" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_9_packperish" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_10_exportcntry" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_11_rawmtrl" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_12_fastfood" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_13_drugaggri" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_14_residential" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_15_commercial" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_16_premisetype" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_17_inspreprotdoc" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_18_challaned" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_19_offences" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILMRPMI_Supplement_REJ">
+    <Key>
+      <PropertyRef Name="ilmc_suplmnt_cmnt_id" />
+    </Key>
+    <Property Name="ilmc_suplmnt_cmnt_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_cmt_id" Type="bigint" />
+    <Property Name="ilmc_rpm_3_dateprepackimport" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_4_Declarations" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_5_quantiywm" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_6_stdqty" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_7_packtype1" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_8_packtype2" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_9_packperish" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_10_exportcntry" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_11_rawmtrl" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_12_fastfood" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_13_drugaggri" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_14_residential" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_15_commercial" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_16_premisetype" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_17_inspreprotdoc" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_18_challaned" Type="varchar" MaxLength="100" />
+    <Property Name="ilmc_rpm_19_offences" Type="varchar" MaxLength="100" />
+    <Property Name="appversion" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence">
+    <Key>
+      <PropertyRef Name="licence_id" />
+    </Key>
+    <Property Name="licence_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="licence_number" Type="varchar" MaxLength="10" />
+    <Property Name="licence_date" Type="datetime" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="licence_issued_by" Type="bigint" />
+    <Property Name="lplace" Type="varchar" MaxLength="50" />
+    <Property Name="licence_time_period" Type="int" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Dealer">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="date_of_establishment" Type="date" />
+    <Property Name="registration_type" Type="varchar" MaxLength="50" />
+    <Property Name="registration_date" Type="datetime" />
+    <Property Name="registration_number" Type="varchar" MaxLength="25" />
+    <Property Name="type_wm" Type="varchar" MaxLength="500" />
+    <Property Name="tax_reg_type" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_no" Type="varchar" MaxLength="25" />
+    <Property Name="import_weights" Type="int" />
+    <Property Name="manfac_monogram_trade_mark" Type="text" />
+    <Property Name="manfac_licence_number" Type="varchar" MaxLength="50" />
+    <Property Name="reg_importer_wm" Type="varchar" MaxLength="50" />
+    <Property Name="model_aprvl_goi" Type="varchar" MaxLength="50" />
+    <Property Name="previous_apply_details" Type="varchar" MaxLength="150" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Dealer_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="date_of_establishment" Type="date" />
+    <Property Name="registration_type" Type="varchar" MaxLength="50" />
+    <Property Name="registration_date" Type="datetime" />
+    <Property Name="registration_number" Type="varchar" MaxLength="25" />
+    <Property Name="type_wm" Type="varchar" MaxLength="500" />
+    <Property Name="tax_reg_type" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_no" Type="varchar" MaxLength="25" />
+    <Property Name="import_weights" Type="int" />
+    <Property Name="manfac_monogram_trade_mark" Type="text" />
+    <Property Name="manfac_licence_number" Type="varchar" MaxLength="50" />
+    <Property Name="reg_importer_wm" Type="varchar" MaxLength="50" />
+    <Property Name="model_aprvl_goi" Type="varchar" MaxLength="50" />
+    <Property Name="previous_apply_details" Type="varchar" MaxLength="150" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="appVersion" Type="int" />
+    <Property Name="related_app" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Manufacturer">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="date_of_establishment" Type="date" />
+    <Property Name="registration_type" Type="varchar" MaxLength="50" />
+    <Property Name="registration_date" Type="datetime" />
+    <Property Name="registration_number" Type="varchar" MaxLength="25" />
+    <Property Name="nature_manufctur_present" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm" Type="varchar" MaxLength="20" />
+    <Property Name="skilled_mp" Type="int" />
+    <Property Name="semiskilled_mp" Type="int" />
+    <Property Name="unskilled_mp" Type="int" />
+    <Property Name="specialist_mp" Type="int" />
+    <Property Name="monogram_trade_mark" Type="varchar" MaxLength="50" />
+    <Property Name="detail_machinery" Type="text" />
+    <Property Name="detail_workshop_facilty" Type="text" />
+    <Property Name="facilities_testing" Type="text" />
+    <Property Name="electric_energy" Type="varchar" MaxLength="50" />
+    <Property Name="banker_name" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_type" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_no" Type="varchar" MaxLength="25" />
+    <Property Name="previous_apply_details" Type="varchar" MaxLength="150" />
+    <Property Name="within_state_outside" Type="varchar" MaxLength="50" />
+    <Property Name="model_aprvl_goi" Type="varchar" MaxLength="200" />
+    <Property Name="desired_inspection_Date" Type="date" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="detail_loan_amt" Type="varchar" MaxLength="11" />
+    <Property Name="detail_loan_acount_no" Type="varchar" MaxLength="25" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="type_wm_weights" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm_measures" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm_weighnginstru" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm_measurnginstru" Type="varchar" MaxLength="100" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Manufacturer_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="date_of_establishment" Type="date" />
+    <Property Name="registration_type" Type="varchar" MaxLength="50" />
+    <Property Name="registration_date" Type="datetime" />
+    <Property Name="registration_number" Type="varchar" MaxLength="25" />
+    <Property Name="nature_manufctur_present" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm" Type="varchar" MaxLength="20" />
+    <Property Name="skilled_mp" Type="int" />
+    <Property Name="semiskilled_mp" Type="int" />
+    <Property Name="unskilled_mp" Type="int" />
+    <Property Name="specialist_mp" Type="int" />
+    <Property Name="monogram_trade_mark" Type="varchar" MaxLength="50" />
+    <Property Name="detail_machinery" Type="text" />
+    <Property Name="detail_workshop_facilty" Type="text" />
+    <Property Name="facilities_testing" Type="text" />
+    <Property Name="electric_energy" Type="varchar" MaxLength="50" />
+    <Property Name="banker_name" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_type" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_no" Type="varchar" MaxLength="25" />
+    <Property Name="previous_apply_details" Type="varchar" MaxLength="150" />
+    <Property Name="within_state_outside" Type="varchar" MaxLength="50" />
+    <Property Name="model_aprvl_goi" Type="varchar" MaxLength="200" />
+    <Property Name="desired_inspection_Date" Type="date" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="detail_loan_amt" Type="varchar" MaxLength="11" />
+    <Property Name="detail_loan_acount_no" Type="varchar" MaxLength="25" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="type_wm_weights" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm_measures" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm_weighnginstru" Type="varchar" MaxLength="100" />
+    <Property Name="type_wm_measurnginstru" Type="varchar" MaxLength="100" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="appVersion" Type="int" />
+    <Property Name="related_app" Type="bigint" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Repairer">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="date_of_establishment" Type="date" />
+    <Property Name="registration_type" Type="varchar" MaxLength="50" />
+    <Property Name="registration_date" Type="datetime" />
+    <Property Name="registration_number" Type="varchar" MaxLength="25" />
+    <Property Name="type_wm" Type="varchar" MaxLength="500" />
+    <Property Name="skilled_mp" Type="int" />
+    <Property Name="semiskilled_mp" Type="int" />
+    <Property Name="unskilled_mp" Type="int" />
+    <Property Name="specialist_mp" Type="int" />
+    <Property Name="area_wish_to_operate" Type="text" />
+    <Property Name="PreviousExp" Type="text" />
+    <Property Name="detail_machinery" Type="text" />
+    <Property Name="electric_energy" Type="varchar" MaxLength="50" />
+    <Property Name="stockofloantest" Type="text" />
+    <Property Name="tax_reg_type" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_no" Type="varchar" MaxLength="25" />
+    <Property Name="previous_apply_details" Type="varchar" MaxLength="150" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Repairer_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="date_of_establishment" Type="date" />
+    <Property Name="registration_type" Type="varchar" MaxLength="50" />
+    <Property Name="registration_date" Type="datetime" />
+    <Property Name="registration_number" Type="varchar" MaxLength="25" />
+    <Property Name="type_wm" Type="varchar" MaxLength="500" />
+    <Property Name="skilled_mp" Type="int" />
+    <Property Name="semiskilled_mp" Type="int" />
+    <Property Name="unskilled_mp" Type="int" />
+    <Property Name="specialist_mp" Type="int" />
+    <Property Name="area_wish_to_operate" Type="text" />
+    <Property Name="PreviousExp" Type="text" />
+    <Property Name="detail_machinery" Type="text" />
+    <Property Name="electric_energy" Type="varchar" MaxLength="50" />
+    <Property Name="stockofloantest" Type="text" />
+    <Property Name="tax_reg_type" Type="varchar" MaxLength="50" />
+    <Property Name="tax_reg_no" Type="varchar" MaxLength="25" />
+    <Property Name="previous_apply_details" Type="varchar" MaxLength="150" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="appVersion" Type="int" />
+    <Property Name="related_app" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Reg_PM">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="Location_factory_address_id" Type="bigint" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="app_fees_id" Type="bigint" />
+    <Property Name="anxreg_id" Type="bigint" />
+    <Property Name="reg_type" Type="varchar" MaxLength="5" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Reg_PM_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="bigint" />
+    <Property Name="Concern_address_id" Type="bigint" />
+    <Property Name="ConcernAddrsDoc" Type="varchar" MaxLength="50" />
+    <Property Name="ConcernAddrsDocSize" Type="int" />
+    <Property Name="primise_type" Type="varchar" MaxLength="50" />
+    <Property Name="Location_factory_address_id" Type="bigint" />
+    <Property Name="place" Type="varchar" MaxLength="50" />
+    <Property Name="app_date" Type="datetime" />
+    <Property Name="app_update_date" Type="datetime" />
+    <Property Name="app_fees_id" Type="bigint" />
+    <Property Name="anxreg_id" Type="bigint" />
+    <Property Name="reg_type" Type="varchar" MaxLength="5" />
+    <Property Name="namesignapplicant" Type="varchar" MaxLength="100" />
+    <Property Name="designationapplicant" Type="varchar" MaxLength="50" />
+    <Property Name="global_app_id" Type="bigint" />
+    <Property Name="appVersion" Type="int" />
+    <Property Name="related_app" Type="bigint" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_RowCreateDetail">
+    <Key>
+      <PropertyRef Name="cu_id" />
+    </Key>
+    <Property Name="cu_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="cu_tablename" Type="varchar" MaxLength="50" />
+    <Property Name="cu_rowid" Type="bigint" />
+    <Property Name="cu_createby" Type="bigint" />
+    <Property Name="cu_createdatetime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Search">
+    <Key>
+      <PropertyRef Name="search_id" />
+    </Key>
+    <Property Name="search_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="search_global_app_id" Type="bigint" />
+    <Property Name="search_keywords" Type="varchar(max)" />
+    <Property Name="status" Type="int" />
+    <Property Name="search_keywords2" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Trash">
+    <Key>
+      <PropertyRef Name="trash_id" />
+    </Key>
+    <Property Name="trash_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="table_row_id" Type="bigint" />
+    <Property Name="table_name" Type="varchar" MaxLength="50" />
+    <Property Name="trash_date" Type="datetime" />
+    <Property Name="trash_by_id" Type="bigint" />
+    <Property Name="trash_by_usertype" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_User">
+    <Key>
+      <PropertyRef Name="guser_id" />
+    </Key>
+    <Property Name="guser_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="guser_name" Type="varchar" MaxLength="50" />
+    <Property Name="guser_password" Type="varchar" MaxLength="200" />
+    <Property Name="guser_address_id" Type="bigint" />
+    <Property Name="gcode" Type="varchar" MaxLength="50" />
+    <Property Name="uniqueida" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <Association Name="FK_TA_FSLM_Admin_TA_FSLM_Address">
+    <End Role="TA_FSLM_Address" Type="foodsupplymvcModel.Store.TA_FSLM_Address" Multiplicity="0..1" />
+    <End Role="TA_FSLM_Admin" Type="foodsupplymvcModel.Store.TA_FSLM_Admin" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_Address">
+        <PropertyRef Name="address_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_Admin">
+        <PropertyRef Name="admin_address_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local">
+    <End Role="TA_FSLM_App_Global_Local" Type="foodsupplymvcModel.Store.TA_FSLM_App_Global_Local" Multiplicity="0..1" />
+    <End Role="TA_FSLM_AttachedFile" Type="foodsupplymvcModel.Store.TA_FSLM_AttachedFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_App_Global_Local">
+        <PropertyRef Name="global_app_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_AttachedFile">
+        <PropertyRef Name="global_app_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TA_FSLM_District_TA_FSLM_AreaCircle">
+    <End Role="TA_FSLM_AreaCircle" Type="foodsupplymvcModel.Store.TA_FSLM_AreaCircle" Multiplicity="0..1" />
+    <End Role="TA_FSLM_District" Type="foodsupplymvcModel.Store.TA_FSLM_District" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_AreaCircle">
+        <PropertyRef Name="areacircle_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_District">
+        <PropertyRef Name="areacircle_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address">
+    <End Role="TA_FSLM_Address" Type="foodsupplymvcModel.Store.TA_FSLM_Address" Multiplicity="0..1" />
+    <End Role="TA_FSLM_Licence_Manufacturer" Type="foodsupplymvcModel.Store.TA_FSLM_Licence_Manufacturer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_Address">
+        <PropertyRef Name="address_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_Licence_Manufacturer">
+        <PropertyRef Name="Concern_address_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

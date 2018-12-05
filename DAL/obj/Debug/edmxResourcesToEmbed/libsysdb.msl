@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="lybsysModelStoreContainer" CdmEntityContainer="lybsysEntities">
+    <EntitySetMapping Name="TA_lib_ListAuthor">
+      <EntityTypeMapping TypeName="lybsysModel.TA_lib_ListAuthor">
+        <MappingFragment StoreEntitySet="TA_lib_ListAuthor">
+          <ScalarProperty Name="Authors" ColumnName="Authors" />
+          <ScalarProperty Name="FontName" ColumnName="FontName" />
+          <ScalarProperty Name="authorid" ColumnName="authorid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_lib_BinderMaster">
+      <EntityTypeMapping TypeName="lybsysModel.TA_lib_BinderMaster">
+        <MappingFragment StoreEntitySet="TA_lib_BinderMaster">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FontName" ColumnName="FontName" />
+          <ScalarProperty Name="BLanguage" ColumnName="BLanguage" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Zip" ColumnName="Zip" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="BinderId" ColumnName="BinderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_lib_PublisherMaster">
+      <EntityTypeMapping TypeName="lybsysModel.TA_lib_PublisherMaster">
+        <MappingFragment StoreEntitySet="TA_lib_PublisherMaster">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FontName" ColumnName="FontName" />
+          <ScalarProperty Name="BLanguage" ColumnName="BLanguage" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Zip" ColumnName="Zip" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="PublisherID" ColumnName="PublisherID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_lib_SourceMaster">
+      <EntityTypeMapping TypeName="lybsysModel.TA_lib_SourceMaster">
+        <MappingFragment StoreEntitySet="TA_lib_SourceMaster">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FontName" ColumnName="FontName" />
+          <ScalarProperty Name="BLanguage" ColumnName="BLanguage" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Zip" ColumnName="Zip" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="SourceId" ColumnName="SourceId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TA_lib_BookMaster">
+      <EntityTypeMapping TypeName="lybsysModel.TA_lib_BookMaster">
+        <MappingFragment StoreEntitySet="TA_lib_BookMaster">
+          <ScalarProperty Name="strCurrencyName" ColumnName="strCurrencyName" />
+          <ScalarProperty Name="strAuthor8" ColumnName="strAuthor8" />
+          <ScalarProperty Name="strAuthor7" ColumnName="strAuthor7" />
+          <ScalarProperty Name="strAuthor6" ColumnName="strAuthor6" />
+          <ScalarProperty Name="strAuthor5" ColumnName="strAuthor5" />
+          <ScalarProperty Name="strEditor" ColumnName="strEditor" />
+          <ScalarProperty Name="strSubTitle" ColumnName="strSubTitle" />
+          <ScalarProperty Name="strAlmirahNo" ColumnName="strAlmirahNo" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FontName" ColumnName="FontName" />
+          <ScalarProperty Name="Library" ColumnName="Library" />
+          <ScalarProperty Name="DisposalNo" ColumnName="DisposalNo" />
+          <ScalarProperty Name="BackPagePic" ColumnName="BackPagePic" />
+          <ScalarProperty Name="TitlePagePic" ColumnName="TitlePagePic" />
+          <ScalarProperty Name="OtherDetails" ColumnName="OtherDetails" />
+          <ScalarProperty Name="Slab4th" ColumnName="Slab4th" />
+          <ScalarProperty Name="Slab3rd" ColumnName="Slab3rd" />
+          <ScalarProperty Name="Slab2nd" ColumnName="Slab2nd" />
+          <ScalarProperty Name="Slab1st" ColumnName="Slab1st" />
+          <ScalarProperty Name="FineAfterDue" ColumnName="FineAfterDue" />
+          <ScalarProperty Name="MaxTeachers" ColumnName="MaxTeachers" />
+          <ScalarProperty Name="MaxStudents" ColumnName="MaxStudents" />
+          <ScalarProperty Name="IssueAgainst" ColumnName="IssueAgainst" />
+          <ScalarProperty Name="ReceivedBy" ColumnName="ReceivedBy" />
+          <ScalarProperty Name="RackNo" ColumnName="RackNo" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="Medium" ColumnName="Medium" />
+          <ScalarProperty Name="CollectionName" ColumnName="CollectionName" />
+          <ScalarProperty Name="BookCode" ColumnName="BookCode" />
+          <ScalarProperty Name="Classification" ColumnName="Classification" />
+          <ScalarProperty Name="ClassificationNo" ColumnName="ClassificationNo" />
+          <ScalarProperty Name="Condition" ColumnName="Condition" />
+          <ScalarProperty Name="Format" ColumnName="Format" />
+          <ScalarProperty Name="DiscountAmnt" ColumnName="DiscountAmnt" />
+          <ScalarProperty Name="DicountPer" ColumnName="DicountPer" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="BillDate" ColumnName="BillDate" />
+          <ScalarProperty Name="BillNo" ColumnName="BillNo" />
+          <ScalarProperty Name="Source" ColumnName="Source" />
+          <ScalarProperty Name="PurchaseOrGrant" ColumnName="PurchaseOrGrant" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="Volume" ColumnName="Volume" />
+          <ScalarProperty Name="Pages" ColumnName="Pages" />
+          <ScalarProperty Name="YearOfPublication" ColumnName="YearOfPublication" />
+          <ScalarProperty Name="PublisherID" ColumnName="PublisherID" />
+          <ScalarProperty Name="Edition" ColumnName="Edition" />
+          <ScalarProperty Name="Author4" ColumnName="Author4" />
+          <ScalarProperty Name="Author3" ColumnName="Author3" />
+          <ScalarProperty Name="Author2" ColumnName="Author2" />
+          <ScalarProperty Name="Author1" ColumnName="Author1" />
+          <ScalarProperty Name="BookTitle" ColumnName="BookTitle" />
+          <ScalarProperty Name="Class" ColumnName="Class" />
+          <ScalarProperty Name="BLanguage" ColumnName="BLanguage" />
+          <ScalarProperty Name="AccessionId" ColumnName="AccessionId" />
+          <ScalarProperty Name="BookType" ColumnName="BookType" />
+          <ScalarProperty Name="ReceiveDate" ColumnName="ReceiveDate" />
+          <ScalarProperty Name="Bookid" ColumnName="Bookid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

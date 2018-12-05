@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - uSofts : School software, College Software, Library Software, Brick kiln Software</title>
+    @*@Styles.Render("~/Content/css")*@
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/site.css" rel="stylesheet" />
+    @*@Scripts.Render("~/bundles/modernizr")*@
+    <script src="https://cdn.ckeditor.com/4.5.11/full-all/ckeditor.js"></script>
+    @*<script src="~/Scripts/ckeditor.js"></script>*@
+    @*<script src="https://cdn.ckeditor.com/4.9.2/standard/ckeditor.js"></script>*@
+    <script src="/node_modules/core-js/client/shim.min.js"></script>
+    <script src="/node_modules/zone.js/dist/zone.js"></script>
+    <script src="/node_modules/systemjs/dist/system.src.js"></script>
+    <script src="/systemjs.config.js"></script>
+  
+    <script>
+      System.import('app').catch(function(err){ console.error(err); });
+    </script>
+</head>
+<body>
+    <div class="container-fluid body-content">
+        @RenderBody()
+        @*<hr />*@
+        @*<footer>
+                <p>&copy; @DateTime.Now.Year - Angular 2 Application</p>
+            </footer>*@
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

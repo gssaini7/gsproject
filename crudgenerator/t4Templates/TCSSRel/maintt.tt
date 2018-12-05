@@ -1,0 +1,585 @@
+﻿<#@ template language="C#"  hostspecific="true" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Xml" #>
+<#@ assembly name="EnvDTE" #>  
+<#@ import namespace="EnvDTE" #>  
+<#@ import namespace="System.Xml" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.IO" #>
+<#@ include file="TemplateFileManagerV2.1.ttinclude" #>
+
+<#
+ XmlDocument doc = new XmlDocument();
+		string absolutePath = this.Host.ResolvePath("mainxml.xml");                
+        doc.Load(absolutePath);
+		var gs_mainname=doc.SelectSingleNode("/Root").Attributes["Value"].InnerText;
+		var gs_mainModel=gs_mainname+"Model";
+#>
+using System; 
+namespace R.BusinessEntities
+{ 
+    public class <#= gs_mainModel#> : EntityCommonModel
+    {
+        #region properties
+
+ <#   foreach (var item in this.GetNames(doc))   
+    {#>
+        public <#= item.Value  #> <#= item.Key  #> { get; set; }
+<#  } #>
+        #endregion
+    }
+}
+<#
+var manager = TemplateFileManager.Create(this);
+#>
+
+<#
+manager.StartNewFile("DAL_Unit of work.cs");
+#>
+
+private Genericrepository<<#= gs_mainModel #>> _Ta_<#= gs_mainModel #>;
+public Genericrepository<<#= gs_mainModel #>> <#= gs_mainname #>Repository
+{
+	get
+	{
+		if (this._Ta_<#= gs_mainModel #> == null) this._Ta_<#= gs_mainModel #> = new Genericrepository<<#= gs_mainModel #>>(_context);
+			return _Ta_<#= gs_mainModel #>;
+	}
+}
+
+<#
+
+manager.StartNewFile("DAL_ussdb.cs");
+	
+#>
+        public virtual DbSet<<#= gs_mainModel #>> <#= gs_mainname #>s { get; set; }
+
+
+		 modelBuilder.Entity<<#= gs_mainModel #>>()
+                  .ToTable("ta_<#= gs_mainname #>s", schemaName: UssSchemaName);
+
+
+<#
+
+manager.StartNewFile("BAL_interface.cs");
+	
+#>
+public interface i<#= gs_mainname #>Service : iCommon<<#= gs_mainModel #>>
+    {
+    }
+
+
+<#
+
+manager.StartNewFile("BAL_Service.cs");
+	
+#>
+ public class <#= gs_mainname #>Service : i<#= gs_mainname #>Service
+    {
+        private readonly cUnitOfWork _unitOfWork;
+        private commonclass clsobj;
+
+
+        public <#= gs_mainname #>Service(cUnitOfWork unitOfWork) 
+        {
+            this._unitOfWork = unitOfWork;
+			this.clsobj = new commonclass(this._unitOfWork);
+        }
+
+        public Guid Create(<#= gs_mainModel #> tentity)
+        {
+            using (var scope = new TransactionScope())
+            {
+                clsobj.SetDataBase(dbn);
+
+                _unitOfWork.<#= gs_mainname #>Repository.Insert(tentity);
+                _unitOfWork.Save();
+                scope.Complete();
+                return tentity.<#= gs_mainModel#>id;
+            }
+        }
+
+        public bool Delete(Guid tid)
+        {
+             var success = false;
+
+            using (var scope = new TransactionScope())
+            {
+               _unitOfWork.<#= gs_mainname #>Repository.Delete(tentity);
+                _unitOfWork.Save();
+                scope.Complete();
+                success = true;
+            }
+            return success;
+        }
+
+        public IEnumerable<<#= gs_mainModel #>> GetAll()
+        {
+                clsobj.SetDataBase(dbn);
+
+            var results = _unitOfWork.<#= gs_mainname #>Repository.GetAll();
+            if (results.Any())
+            {
+                return results;
+            }
+            return null;
+        }
+
+        public <#= gs_mainModel #> GetById(Guid tid)
+        {
+                clsobj.SetDataBase(dbn);
+
+            var result = _unitOfWork.<#= gs_mainname #>Repository.GetByID(tid);
+            if (result != null)
+            {
+                return result;
+            }
+            return null;
+        }
+
+        
+        public bool Update(<#= gs_mainModel #> tentity)
+        {
+            var success = false;
+            if (tentity != null)
+            {
+                using (var scope = new TransactionScope())
+                {
+                    _unitOfWork.<#= gs_mainname #>Repository.Update(tentity);
+                    _unitOfWork.Save();
+                    scope.Complete();
+                    success = true;
+                }
+            }
+
+            return success;
+        }
+
+        public bool Update(Guid tid, <#= gs_mainModel #> tentity)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+<#
+
+manager.StartNewFile("Web_APIController.cs");
+	
+#>
+ [Authorize]
+    [RoutePrefix("api/<#= gs_mainname #>")]
+    public class <#= gs_mainname #>Controller : BaseAPIController
+    {
+        i<#= gs_mainname #>Service _mainobj;
+      
+        public <#= gs_mainname #>Controller(i<#= gs_mainname #>Service imainobj)
+        {
+            this._mainobj = imainobj;
+        }
+
+        [Route("Create")]
+        [HttpPost]
+        public async Task<IHttpActionResult> SaveDetail(<#= gs_mainModel #> model)
+        {
+            try
+            {
+                if (model == null)
+                    return null;
+                ModelState.Remove("model.<#= gs_mainModel #>id");
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
+
+                model.<#= gs_mainModel #>id =Guid.NewGuid();
+
+                model.createdate = DateTime.Now;
+                model.LastUpdatedate = DateTime.Now;
+                model.createdBy = new Guid(User.Identity.GetUserId());
+
+                var webmanagerid = _mainobj.Create(model, GetDataBaseCode());
+                if (webmanagerid == Guid.Empty)
+                {
+                    ModelState.AddModelError("", "An error occured please contact administrator.");
+                    return BadRequest(ModelState);
+                }
+            }
+            catch(Exception ex) {
+                ModelState.AddModelError("", "An error occured please contact administrator.");
+                return BadRequest(ModelState);
+            }
+            return Ok();
+        }
+
+        [Route("Get")]
+        public HttpResponseMessage GetByID(string id)
+        {
+            var webmanager = _mainobj.GetById(new Guid(id), GetDataBaseCode());
+            if (webmanager!=null)
+            {
+                var deserializedProduct = JSONGS<<#= gs_mainModel #>>(webmanager);
+                return Request.CreateResponse(HttpStatusCode.OK, deserializedProduct);
+            }
+
+            return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No records found");
+        }
+
+        [Route("GetAll")]
+        public HttpResponseMessage GetDetail()
+        {
+            var webmanager = _mainobj.GetAll(GetDataBaseCode());
+            if (webmanager != null)
+            {
+                var deserializedProduct = JSONGS<IEnumerable<<#= gs_mainModel #>>>(webmanager);
+                return Request.CreateResponse(HttpStatusCode.OK, deserializedProduct);
+            }
+
+            return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No records found");
+        }
+        [Route("Edit")]
+        [HttpPost]
+        public async Task<IHttpActionResult> EditDetail(<#= gs_mainModel #> model)
+        {
+            var gid = model.<#= gs_mainModel #>id;
+            var dbmanager = _mainobj.GetById(gid, GetDataBaseCode());
+            if (dbmanager != null)
+            {
+			 <#   foreach (var item in this.GetNames(doc))   
+    {#>
+	 dbmanager.<#= item.Key  #> = model.<#= item.Key  #>;
+<#  } #>
+               
+                dbmanager.isPublished = model.isPublished;
+                dbmanager.LastUpdatedate = DateTime.Now;
+                dbmanager.remarks = model.remarks;
+
+                _mainobj.Update(dbmanager, GetDataBaseCode());
+                return Ok();
+            }
+            ModelState.AddModelError("", "An error occured please contact administrator.");
+            return BadRequest(ModelState);
+        }
+
+		 [Route("Delete")]
+        [HttpPost]
+        public bool Delete(<#= gs_mainModel #> model)
+        {
+            var gid = model.<#= gs_mainModel #>id;
+            var dbmanager = _mainobj.GetById(gid, GetDataBaseCode());
+            if (dbmanager != null)
+            {
+                
+                _mainobj.Delete(dbmanager, GetDataBaseCode());
+                return true;
+            }
+            return false;
+        }
+    }
+
+
+<#
+
+manager.StartNewFile("Web_APP_Model.cs");
+	
+#>
+
+export interface <#= gs_mainModel #> {
+   <#   foreach (var item in this.GetNames(doc))   
+    {#>
+	 <#= item.Key  #>: <#= item.Value  #>;
+<#  } #>
+ isPublished: boolean;
+    remarks: string;
+}
+
+
+<#
+
+manager.StartNewFile("Web_APP_Components.cs");
+	
+#>
+
+
+import { Component, OnInit } from '@angular/core';
+import { <#= gs_mainModel #> } from '../../Models/credentials.interface';
+import { AuthcrudService } from '../../Services/authcrud.service';
+import { Global } from '../../Shared/global';
+import { Message } from 'primeng/components/common/api';
+import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { DBOperation } from '../../Shared/enum';
+
+
+@Component({
+  //selector: 'app-register-form',
+    templateUrl: 'app/dashboard/<#= gs_mainname #>/<#= gs_mainname #>.component.html',
+  //styleUrls: ['./login-form.component.scss']
+})
+
+export class <#= gs_mainname #>Component implements OnInit {
+    msgs: Message[] = [];
+    msg: string;
+    mainFrm: FormGroup;
+    displayDialog: boolean;
+    mainobjlist: <#= gs_mainModel #>[];
+    mainobj: <#= gs_mainModel #>;
+    indLoading: boolean = false;
+    dbops: DBOperation;
+    isNewForm: boolean = false;
+    
+    constructor(private fb: FormBuilder, private _crudService: AuthcrudService) { }
+
+    ngOnInit(): void {
+        this.InitilizeFormItems();
+        this.LoadData();
+    }
+
+    InitilizeFormItems() {
+        this.mainFrm = this.fb.group({
+		 <#   foreach (var item in this.GetNames(doc))   
+    {#>
+	 <#= item.Key  #>: [''],
+<#  } #>
+ isPublished: [''],
+    remarks: [''],
+        });
+    }
+
+    LoadData(): void {
+        this.indLoading = true;
+        this.mainobjlist = null;
+        this._crudService.get(Global.BASE_USER_ENDPOINT + "<#= gs_mainname #>/GetAll")
+            .subscribe(records => {
+                this.mainobjlist = records;
+                this.indLoading = false;
+            },
+            error => this.msg = <any>error);
+    }
+
+
+    onSubmit(formData: any) {
+        this.msg = "";
+        switch (this.dbops) {
+            case DBOperation.create:
+			 if (formData._value.isPublished == null || formData._value.isPublished == '')
+                    formData._value.isPublished = false;
+                var curl = Global.BASE_USER_ENDPOINT + "<#= gs_mainname #>/Create";
+                this._crudService.post(curl, formData._value).subscribe(
+                    data => {
+                        if (data == 1) //Success
+                        {
+                            this.msg = "Data successfully added.";
+                            this.LoadData();
+                        }
+                        else {
+                            this.msg = "There is some issue in saving records, please contact to system administrator!"
+                        }
+                        this.displayDialog = false;
+                    },
+                    error => {
+                        this.msg = error;
+                        this.showError(this.msg);
+                    }
+                );
+                break;
+            case DBOperation.update:
+                var curl = Global.BASE_USER_ENDPOINT + "<#= gs_mainname #>/Edit";
+                this._crudService.post(curl, formData._value).subscribe(
+                    data => {
+                        if (data == 1) //Success
+                        {
+                            this.msg = "Data successfully updated.";
+                            this.LoadData();
+                        }
+                        else {
+                            this.msg = "There is some issue in saving records, please contact to system administrator!"
+                        }
+                        this.displayDialog = false;
+                    },
+                    error => {
+                        this.msg = error;
+                        this.showError(this.msg);
+                    }
+                );
+                break;
+            case DBOperation.delete:
+                var curl = Global.BASE_USER_ENDPOINT + "<#= gs_mainname #>/Delete";
+
+                this._crudService.post(curl, formData._value).subscribe(
+                    data => {
+                        if (data == 1) //Success
+                        {
+                            this.msg = "Data successfully deleted.";
+                            this.LoadData();
+                        }
+                        else {
+                            this.msg = "There is some issue in deleting records, please contact to system administrator!"
+                        }
+                        this.displayDialog = false;
+                    },
+                    error => {
+                        this.msg = error;
+                    }
+                );
+                break;
+
+        }
+    }
+
+    SetControlsState(isEnable: boolean) {
+        isEnable ? this.mainFrm.enable() : this.mainFrm.disable();
+    }
+
+    showDialogToAdd() {
+        this.isNewForm = true;
+        this.mainFrm.reset();
+        this.displayDialog = true;
+        this.dbops = DBOperation.create;
+    }
+
+    save(formData: any) {
+        this.SetControlsState(true);
+        this.onSubmit(formData);
+    }
+
+    onRowSelect(event: any) {
+        this.mainobj = event.data;
+        this.mainFrm.patchValue(this.mainobj);
+        this.displayDialog = true;
+        this.dbops = DBOperation.update;
+        this.isNewForm = false;
+
+    }
+
+    delete() {
+        if (confirm("Are you sure to delete ")) {
+            this.dbops = DBOperation.delete;
+            this.onSubmit(this.mainFrm);
+        }
+    }
+
+    showError(errormsg:any) {
+        this.msgs = [];
+        this.msgs.push({ severity: 'error', summary: 'Error Message', detail: errormsg });
+    }
+}
+
+
+<#
+
+manager.StartNewFile("Web_APP_HTML.cs");
+	
+#>
+
+<div class=''>
+   
+    <div class=''>
+        <div class="ui-widget-header" style="padding:4px 10px;border-bottom: 0 none">
+            <i class="fa fa-search" style="margin:4px 4px 0 0"></i>
+            <input #gb type="text" pInputText size="50" placeholder="Global Filter">
+        </div>
+        <p-dataTable #dt [value]="mainobjlist" [rows]="10" [paginator]="true" [pageLinks]="3" [rowsPerPageOptions]="[5,10,20]" [globalFilter]="gb"
+                     selectionMode="single" (onRowSelect)="onRowSelect($event)">
+ <#   foreach (var item in this.GetNames(doc))   
+    {#>
+	<p-column field="<#= item.Key  #>" header="<#= item.Key  #>" [sortable]="true"></p-column>
+	 
+<#  } #>
+           
+            <p-footer><div class="ui-helper-clearfix" style="width:100%"><button type="button" pButton icon="fa-plus" style="float:left" (click)="showDialogToAdd()" label="Add"></button></div></p-footer>
+        </p-dataTable>
+
+
+
+        <p-dialog header="<#= gs_mainname #>" [(visible)]="displayDialog" [responsive]="true" showEffect="fade" [modal]="true" [width]="500">
+            <form novalidate [formGroup]="mainFrm">
+
+			 <#   foreach (var item in this.GetNames(doc))   
+    {#>
+	 <div class="form-group">
+
+                    <label for="<#= item.Key  #>"><#= item.Key  #></label>
+                    <input type="text" class="form-control" id="<#= item.Key  #>"  placeholder="Enter <#= item.Key  #>" pInputText formControlName="<#= item.Key  #>">
+                </div>
+	 
+<#  } #>
+
+ <div class="form-group">
+                    <label for="Remarks">Remarks</label>
+                    <textarea class="form-control" id="Remarks" placeholder="Enter remarks" pInputText formControlName="remarks"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="isPublishedc">Published</label>
+                    <p-checkbox name="isPublishedc" value="isPublished" binary="true" formControlName="isPublished"></p-checkbox>
+
+                </div>
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                    </div>
+                </p-footer>
+            </form>
+        </p-dialog>
+
+
+
+        <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <span class="sr-only">Error:</span>
+            {{msg}}
+        </div>
+    </div>
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+
+<#
+
+manager.StartNewFile("Web_APP_Module_Route.cs");
+	
+#>
+import { <#= gs_mainname #>Component } from './<#= gs_mainname #>/<#= gs_mainname #>.component';
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<#
+manager.Process();
+#>
+
+
+
+<#+
+    public IDictionary<string, string> GetNames(XmlDocument doc)
+    {
+	 IDictionary<string, string> dict = new Dictionary<string, string>();
+        foreach (XmlNode node in doc.SelectNodes("/Root/Element"))
+        {
+			dict.Add(node.Attributes["Name"].InnerText,node.Attributes["Type"].InnerText);
+        }
+        return dict;
+    } 
+#>
+

@@ -1,0 +1,71 @@
+D:\gs\Project\8916\project\Resolver\bin\Release\R.Resolver.dll
+D:\gs\Project\8916\project\Resolver\bin\Release\R.Resolver.pdb
+D:\gs\Project\8916\project\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\8916\project\Resolver\bin\Release\System.ComponentModel.Composition.dll
+D:\gs\Project\8916\project\Resolver\obj\Release\R.Resolver.dll
+D:\gs\Project\8916\project\Resolver\obj\Release\R.Resolver.pdb
+D:\gs\Project\project\Resolver\bin\Release\R.Resolver.dll
+D:\gs\Project\project\Resolver\bin\Release\R.Resolver.pdb
+D:\gs\Project\project\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\Resolver\bin\Release\System.ComponentModel.Composition.dll
+D:\gs\Project\project\Resolver\obj\Release\R.Resolver.dll
+D:\gs\Project\project\Resolver\obj\Release\R.Resolver.pdb
+E:\10-4-16\project\Resolver\bin\Release\R.Resolver.dll
+E:\10-4-16\project\Resolver\bin\Release\R.Resolver.pdb
+E:\10-4-16\project\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+E:\10-4-16\project\Resolver\bin\Release\System.ComponentModel.Composition.dll
+E:\10-4-16\project\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\Resolver\obj\Release\R.Resolver.dll
+E:\10-4-16\project\Resolver\obj\Release\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\Resolver\bin\Release\R.Resolver.dll
+D:\gs\Project\17-10-16\project\Resolver\bin\Release\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\17-10-16\project\Resolver\bin\Release\System.ComponentModel.Composition.dll
+D:\gs\Project\17-10-16\project\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\Resolver\obj\Release\R.Resolver.dll
+D:\gs\Project\17-10-16\project\Resolver\obj\Release\R.Resolver.pdb
+D:\gs\Project\project\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\System.ComponentModel.Composition.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Release\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Release\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\bin\Release\System.ComponentModel.Composition.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Release\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\Resolver\obj\Release\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\System.ComponentModel.Composition.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\obj\Release\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\Resolver\obj\Release\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\System.ComponentModel.Composition.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\obj\Release\R.Resolver.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\obj\Release\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\Resolver\obj\Release\R.Resolver.pdb

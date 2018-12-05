@@ -1,0 +1,57 @@
+﻿<#@ template language="C#"  hostspecific="true" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Xml" #>
+<#@ assembly name="EnvDTE" #>  
+<#@ import namespace="EnvDTE" #>  
+<#@ import namespace="System.Xml" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.IO" #>
+
+<#
+ XmlDocument doc = new XmlDocument();
+    string absolutePath = this.Host.ResolvePath("BlogTitle.xml");                
+        doc.Load(absolutePath);
+		var gs_mainclass=doc.SelectSingleNode("/Root").Attributes["Value"].InnerText;
+		//var b=a.Attributes["Value"].InnerText;
+#>
+using System;
+
+namespace R.BusinessEntities
+{
+    public class <#= gs_mainclass #>
+    {
+        #region Enums
+ 
+        public string ItemTypesName { get; set; }
+
+
+ <#   foreach (var item in this.GetNames(doc))   
+    {#>
+
+        public <#= item.Value  #> <#= item.Key  #> { get; set; }
+       
+<#  } #>
+     
+	    
+        
+        #endregion
+    }
+}
+<#+
+    public IDictionary<string, string> GetNames(XmlDocument doc)
+    {
+	 IDictionary<string, string> dict = new Dictionary<string, string>();
+        //List<string> result = new List<string>(); 
+        //XmlDocument doc = new XmlDocument();
+		
+		  //string absolutePath = this.Host.ResolvePath("BlogTitle.xml");                
+       // doc.Load(absolutePath);
+      
+        foreach (XmlNode node in doc.SelectNodes("/Root/Element"))
+        {
+			dict.Add(node.Attributes["Name"].InnerText,node.Attributes["Type"].InnerText);
+          //result.Add(node.Attributes["Name"].InnerText);
+        }
+        return dict;
+    } 
+#>

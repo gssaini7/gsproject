@@ -1,0 +1,45 @@
+<div *ngIf="listadmins!==undefined">
+    <p-dropdown [options]="listadmins" [(ngModel)]="blogcreater" placeholder="Please Select" optionLabel="nameofuser" [autoWidth]="false"
+                [style]="{'width':'100%'}" (onChange)="OnChangeAdmin()"></p-dropdown>
+</div>
+
+<div class=''>
+    <ul class="nav nav-tabs">
+        <li class="nav-item" *ngFor="let blogtype of blogtypelist"><a class="nav-link" [ngClass]="{'active': blogtype.BlogTypeModelid===currentblogtype.BlogTypeModelid}" (click)="!!changetab(blogtype)" href="#">{{blogtype.BlogTypeDisplayName}}</a></li>
+    </ul>
+
+   
+
+</div>
+<div class=''>
+
+    <div class="ui-widget-header" style="padding:4px 10px;border-bottom: 0 none">
+        <i class="fa fa-search" style="margin:4px 4px 0 0"></i>
+        <input #gb type="text" pInputText size="50" placeholder="Global Filter">
+    </div>
+    <p-dataTable #dt [value]="mainobjlist" [rows]="10" [paginator]="true" [pageLinks]="3" [rowsPerPageOptions]="[5,10,20]" [globalFilter]="gb"
+                 selectionMode="single" [(selection)]="mainobj"  [contextMenu]="cm">
+
+        <p-column field="title" header="Title" [sortable]="true" ></p-column>
+        <p-column field="ForSubject.SubjectName" header="Subject" [sortable]="true" *ngIf="isAssignment" ></p-column>
+       
+        <p-column field="createdate" header="Date" [sortable]="true">
+            <ng-template pTemplate="item" let-col="rowData">
+                {{col.createdate| date:'medium' }}
+            </ng-template>
+        </p-column>
+         
+
+        <p-footer><div class="ui-helper-clearfix" style="width:100%"><button type="button" pButton icon="fa-plus" style="float:left" (click)="addNewPage()" label="Add"></button></div></p-footer>
+    </p-dataTable>
+    <p-contextMenu #cm [model]="cmitems" appendTo="body"></p-contextMenu>
+    <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <span class="sr-only">Error:</span>
+        {{msg}}
+    </div>
+
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+

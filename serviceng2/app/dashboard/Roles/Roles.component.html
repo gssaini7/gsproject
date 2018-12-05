@@ -1,0 +1,51 @@
+<div class='row'>
+   
+    <div class='col-3'>
+        <div class="ui-widget-header">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1"><i class="fa fa-search"></i></span>
+                </div>
+                <input #gb type="text" class="form-control" pInputText placeholder="Search..." aria-label="Menu" aria-describedby="basic-addon1">
+            </div>
+        </div>
+        <p-dataTable #dt [value]="mainobjlist"  [globalFilter]="gb"
+                     selectionMode="single" (onRowSelect)="onRowSelect($event)">
+            <p-column field="Name" header="Name" ></p-column>
+            <p-footer><div class="ui-helper-clearfix" style="width:100%"><button type="button" pButton icon="fa-plus" style="float:left" (click)="showDialogToAdd()" label="Add"></button></div></p-footer>
+        </p-dataTable>
+
+
+
+        <p-dialog header="Roles" [(visible)]="displayDialog" [responsive]="true" showEffect="fade" [modal]="true" [width]="500">
+            <form novalidate [formGroup]="mainFrm">
+                <div class="form-group">
+                    <label for="Name">Name</label>
+                    <input type="text" class="form-control" id="Name"  placeholder="Enter Name" pInputText formControlName="Name">
+                </div>
+               
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                        <button type="button" pButton icon="fa-times" label="Delete" (click)="delete(mainFrm)" *ngIf="!isNewForm" class="ui-button-danger"></button>
+
+                    </div>
+                </p-footer>
+            </form>
+        </p-dialog>
+
+
+
+        <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <span class="sr-only">Error:</span>
+            {{msg}}
+        </div>
+    </div>
+    <div class="col-9">
+        <role-assign></role-assign>
+    </div>
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+	

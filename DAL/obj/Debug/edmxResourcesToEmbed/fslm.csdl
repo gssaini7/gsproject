@@ -1,0 +1,900 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="foodsupplymvcModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="foodsupplymvcEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="TA_FSLM_Address" EntityType="foodsupplymvcModel.TA_FSLM_Address" />
+    <EntitySet Name="TA_FSLM_Address_REJ" EntityType="foodsupplymvcModel.TA_FSLM_Address_REJ" />
+    <EntitySet Name="TA_FSLM_Admin" EntityType="foodsupplymvcModel.TA_FSLM_Admin" />
+    <EntitySet Name="TA_FSLM_AdminComments" EntityType="foodsupplymvcModel.TA_FSLM_AdminComments" />
+    <EntitySet Name="TA_FSLM_AdminCommentsFinal" EntityType="foodsupplymvcModel.TA_FSLM_AdminCommentsFinal" />
+    <EntitySet Name="TA_FSLM_AdminRejectedStatus" EntityType="foodsupplymvcModel.TA_FSLM_AdminRejectedStatus" />
+    <EntitySet Name="TA_FSLM_AnnexureReg" EntityType="foodsupplymvcModel.TA_FSLM_AnnexureReg" />
+    <EntitySet Name="TA_FSLM_AnnexureRegb" EntityType="foodsupplymvcModel.TA_FSLM_AnnexureRegb" />
+    <EntitySet Name="TA_FSLM_AnnexureRegb_REJ" EntityType="foodsupplymvcModel.TA_FSLM_AnnexureRegb_REJ" />
+    <EntitySet Name="TA_FSLM_App_Global_Local" EntityType="foodsupplymvcModel.TA_FSLM_App_Global_Local" />
+    <EntitySet Name="TA_FSLM_App_Status" EntityType="foodsupplymvcModel.TA_FSLM_App_Status" />
+    <EntitySet Name="TA_FSLM_AreaCircle" EntityType="foodsupplymvcModel.TA_FSLM_AreaCircle" />
+    <EntitySet Name="TA_FSLM_CategoryWM" EntityType="foodsupplymvcModel.TA_FSLM_CategoryWM" />
+    <EntitySet Name="TA_FSLM_Commodity" EntityType="foodsupplymvcModel.TA_FSLM_Commodity" />
+    <EntitySet Name="TA_FSLM_Commodity_REJ" EntityType="foodsupplymvcModel.TA_FSLM_Commodity_REJ" />
+    <EntitySet Name="TA_FSLM_DenominationWM" EntityType="foodsupplymvcModel.TA_FSLM_DenominationWM" />
+    <EntitySet Name="TA_FSLM_District" EntityType="foodsupplymvcModel.TA_FSLM_District" />
+    <EntitySet Name="TA_FSLM_Fees" EntityType="foodsupplymvcModel.TA_FSLM_Fees" />
+    <EntitySet Name="TA_FSLM_ILM_Comments" EntityType="foodsupplymvcModel.TA_FSLM_ILM_Comments" />
+    <EntitySet Name="TA_FSLM_ILM_Comments_Rej" EntityType="foodsupplymvcModel.TA_FSLM_ILM_Comments_Rej" />
+    <EntitySet Name="TA_FSLM_ILMRPMI_Supplement" EntityType="foodsupplymvcModel.TA_FSLM_ILMRPMI_Supplement" />
+    <EntitySet Name="TA_FSLM_ILMRPMI_Supplement_REJ" EntityType="foodsupplymvcModel.TA_FSLM_ILMRPMI_Supplement_REJ" />
+    <EntitySet Name="TA_FSLM_Licence" EntityType="foodsupplymvcModel.TA_FSLM_Licence" />
+    <EntitySet Name="TA_FSLM_Licence_Dealer" EntityType="foodsupplymvcModel.TA_FSLM_Licence_Dealer" />
+    <EntitySet Name="TA_FSLM_Licence_Dealer_REJ" EntityType="foodsupplymvcModel.TA_FSLM_Licence_Dealer_REJ" />
+    <EntitySet Name="TA_FSLM_Licence_Manufacturer" EntityType="foodsupplymvcModel.TA_FSLM_Licence_Manufacturer" />
+    <EntitySet Name="TA_FSLM_Licence_Manufacturer_REJ" EntityType="foodsupplymvcModel.TA_FSLM_Licence_Manufacturer_REJ" />
+    <EntitySet Name="TA_FSLM_Licence_Repairer" EntityType="foodsupplymvcModel.TA_FSLM_Licence_Repairer" />
+    <EntitySet Name="TA_FSLM_Licence_Repairer_REJ" EntityType="foodsupplymvcModel.TA_FSLM_Licence_Repairer_REJ" />
+    <EntitySet Name="TA_FSLM_Reg_PM" EntityType="foodsupplymvcModel.TA_FSLM_Reg_PM" />
+    <EntitySet Name="TA_FSLM_Reg_PM_REJ" EntityType="foodsupplymvcModel.TA_FSLM_Reg_PM_REJ" />
+    <EntitySet Name="TA_FSLM_RowCreateDetail" EntityType="foodsupplymvcModel.TA_FSLM_RowCreateDetail" />
+    <EntitySet Name="TA_FSLM_Search" EntityType="foodsupplymvcModel.TA_FSLM_Search" />
+    <EntitySet Name="TA_FSLM_Trash" EntityType="foodsupplymvcModel.TA_FSLM_Trash" />
+    <EntitySet Name="TA_FSLM_User" EntityType="foodsupplymvcModel.TA_FSLM_User" />
+    <AssociationSet Name="FK_TA_FSLM_District_TA_FSLM_AreaCircle" Association="foodsupplymvcModel.FK_TA_FSLM_District_TA_FSLM_AreaCircle">
+      <End Role="TA_FSLM_AreaCircle" EntitySet="TA_FSLM_AreaCircle" />
+      <End Role="TA_FSLM_District" EntitySet="TA_FSLM_District" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TA_FSLM_Admin_TA_FSLM_Address" Association="foodsupplymvcModel.FK_TA_FSLM_Admin_TA_FSLM_Address">
+      <End Role="TA_FSLM_Address" EntitySet="TA_FSLM_Address" />
+      <End Role="TA_FSLM_Admin" EntitySet="TA_FSLM_Admin" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address" Association="foodsupplymvcModel.FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address">
+      <End Role="TA_FSLM_Address" EntitySet="TA_FSLM_Address" />
+      <End Role="TA_FSLM_Licence_Manufacturer" EntitySet="TA_FSLM_Licence_Manufacturer" />
+    </AssociationSet>
+    <EntitySet Name="TA_FSLM_AttachedFile" EntityType="foodsupplymvcModel.TA_FSLM_AttachedFile" />
+    <AssociationSet Name="FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local" Association="foodsupplymvcModel.FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local">
+      <End Role="TA_FSLM_App_Global_Local" EntitySet="TA_FSLM_App_Global_Local" />
+      <End Role="TA_FSLM_AttachedFile" EntitySet="TA_FSLM_AttachedFile" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TA_FSLM_Address">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="a_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="a_fathername" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="address1" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="address2" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="a_city" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_state" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_pin" Type="String" MaxLength="6" Unicode="false" FixedLength="false" />
+    <Property Name="a_mobile" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="a_landline" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="a_emailid" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="address_type" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="global_application_id" Type="Int64" />
+    <Property Name="a_aadharno" Type="String" MaxLength="13" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="TA_FSLM_Admin" Relationship="foodsupplymvcModel.FK_TA_FSLM_Admin_TA_FSLM_Address" FromRole="TA_FSLM_Address" ToRole="TA_FSLM_Admin" />
+    <Property Type="Guid" Name="guidid" />
+    <NavigationProperty Name="TA_FSLM_Licence_Manufacturer" Relationship="foodsupplymvcModel.FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address" FromRole="TA_FSLM_Address" ToRole="TA_FSLM_Licence_Manufacturer" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Address_REJ">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="a_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="a_fathername" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="address1" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="address2" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="a_city" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_state" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_pin" Type="String" MaxLength="6" Unicode="false" FixedLength="false" />
+    <Property Name="a_mobile" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="a_landline" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="a_emailid" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="address_type" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="global_application_id" Type="Int64" />
+    <Property Name="a_aadharno" Type="String" MaxLength="13" Unicode="false" FixedLength="false" />
+    <Property Name="mainaddressid" Type="Int64" />
+    <Property Name="appVersion" Type="Int32" />
+    <Property Name="deletedaddressrej" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Admin">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="admin_username" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="admin_password" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="admin_type" Type="String" MaxLength="5" Unicode="false" FixedLength="false" />
+    <Property Name="admin_district_circle_id" Type="Int64" />
+    <Property Name="admin_address_id" Type="Int64" />
+    <Property Name="trash" Type="Int32" />
+    <Property Name="isActiveFlag" Type="Int32" />
+    <Property Name="uniqueida" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="TA_FSLM_Address" Relationship="foodsupplymvcModel.FK_TA_FSLM_Admin_TA_FSLM_Address" FromRole="TA_FSLM_Admin" ToRole="TA_FSLM_Address" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AdminComments">
+    <Key>
+      <PropertyRef Name="admin_cmnt_id" />
+    </Key>
+    <Property Name="admin_cmnt_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="admin_id" Type="Int64" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="admin_comments" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="cmnt_createDate" Type="DateTime" Precision="3" />
+    <Property Name="cmnt_updateDate" Type="DateTime" Precision="3" />
+    <Property Name="cmnt_file" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="cmnt_filesize" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AdminCommentsFinal">
+    <Key>
+      <PropertyRef Name="admin_cmnt_id" />
+    </Key>
+    <Property Name="admin_cmnt_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="admin_id" Type="Int64" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="admin_comments" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="cmnt_createDate" Type="DateTime" Precision="3" />
+    <Property Name="cmnt_updateDate" Type="DateTime" Precision="3" />
+    <Property Name="cmnt_file" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="cmnt_filesize" Type="Int32" />
+    <Property Name="cmnt_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AdminRejectedStatus">
+    <Key>
+      <PropertyRef Name="adminrej_id" />
+    </Key>
+    <Property Name="adminrej_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="rejected_by" Type="Int64" />
+    <Property Name="rejectionDate" Type="DateTime" Precision="3" />
+    <Property Name="rejectedbyAdmintype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="globalAPPID" Type="Int64" />
+    <Property Name="rejectstatus" Type="Int32" />
+    <Property Name="send_to_id" Type="Int64" />
+    <Property Name="send_to_Admintype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Adminresubmit_date" Type="DateTime" Precision="3" />
+    <Property Name="Reject_admn_comment" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AnnexureReg">
+    <Key>
+      <PropertyRef Name="anxreg_id" />
+    </Key>
+    <Property Name="anxreg_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="anx3_dateprepackimport" Type="DateTime" Precision="3" />
+    <Property Name="anx4a_dec_name" Type="Int32" />
+    <Property Name="anx4b_mxretlprice" Type="Int32" />
+    <Property Name="anx4c_datempi" Type="Int32" />
+    <Property Name="anx4d_date_expiry" Type="Int32" />
+    <Property Name="anx4e_netcontent" Type="Int32" />
+    <Property Name="anx4f_namecomodty" Type="Int32" />
+    <Property Name="anx5_quantiywm" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx6_stdqty" Type="Int32" />
+    <Property Name="anx7_packtype1" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx8_packtype2" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx9_packperish" Type="Int32" />
+    <Property Name="anx10_exportcntry" Type="Int32" />
+    <Property Name="anx11_rawmtrl" Type="Int32" />
+    <Property Name="anx11_rawmtrldetail" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx12_fastfood" Type="Int32" />
+    <Property Name="anx13_drugaggri" Type="Int32" />
+    <Property Name="anx14_residential" Type="Int32" />
+    <Property Name="anx15_commercial" Type="Int32" />
+    <Property Name="anx15_commercialdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx15_commercialdocsize" Type="Int32" />
+    <Property Name="anx16_premisetype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx17_inspectiondate" Type="DateTime" Precision="3" />
+    <Property Name="anx17_inspreprotdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx17_inspreportdocsize" Type="Int32" />
+    <Property Name="anx18_challaned" Type="Int32" />
+    <Property Name="anx18_datechallan" Type="DateTime" Precision="3" />
+    <Property Name="anx18_challannoticedoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx18_challannoticedocsize" Type="Int32" />
+    <Property Name="anx19_offences" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx19_iscompounded" Type="Int32" />
+    <Property Name="anx19_recieptdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx19_recieptdocsize" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AnnexureRegb">
+    <Key>
+      <PropertyRef Name="anxreg_id" />
+    </Key>
+    <Property Name="anxreg_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="anx3_dateprepackimport" Type="DateTime" Precision="3" />
+    <Property Name="anx4a_dec_name" Type="Boolean" />
+    <Property Name="anx4b_mxretlprice" Type="Boolean" />
+    <Property Name="anx4c_datempi" Type="Boolean" />
+    <Property Name="anx4d_date_expiry" Type="Boolean" />
+    <Property Name="anx4e_netcontent" Type="Boolean" />
+    <Property Name="anx4f_namecomodty" Type="Boolean" />
+    <Property Name="anx5_quantiywm" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx6_stdqty" Type="Boolean" />
+    <Property Name="anx7_packtype1" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx8_packtype2" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx9_packperish" Type="Boolean" />
+    <Property Name="anx10_exportcntry" Type="Boolean" />
+    <Property Name="anx11_rawmtrl" Type="Boolean" />
+    <Property Name="anx11_rawmtrldetail" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx12_fastfood" Type="Boolean" />
+    <Property Name="anx13_drugaggri" Type="Boolean" />
+    <Property Name="anx14_residential" Type="Boolean" />
+    <Property Name="anx15_commercial" Type="Boolean" />
+    <Property Name="anx15_commercialdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx15_commercialdocsize" Type="Int32" />
+    <Property Name="anx16_premisetype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx17_inspectiondate" Type="DateTime" Precision="3" />
+    <Property Name="anx17_inspreprotdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx17_inspreportdocsize" Type="Int32" />
+    <Property Name="anx18_challaned" Type="Boolean" />
+    <Property Name="anx18_datechallan" Type="DateTime" Precision="3" />
+    <Property Name="anx18_challannoticedoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx18_challannoticedocsize" Type="Int32" />
+    <Property Name="anx19_offences" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx19_iscompounded" Type="Boolean" />
+    <Property Name="anx19_recieptdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx19_recieptdocsize" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AnnexureRegb_REJ">
+    <Key>
+      <PropertyRef Name="anxreg_id" />
+    </Key>
+    <Property Name="anxreg_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="anx3_dateprepackimport" Type="DateTime" Precision="3" />
+    <Property Name="anx4a_dec_name" Type="Boolean" />
+    <Property Name="anx4b_mxretlprice" Type="Boolean" />
+    <Property Name="anx4c_datempi" Type="Boolean" />
+    <Property Name="anx4d_date_expiry" Type="Boolean" />
+    <Property Name="anx4e_netcontent" Type="Boolean" />
+    <Property Name="anx4f_namecomodty" Type="Boolean" />
+    <Property Name="anx5_quantiywm" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx6_stdqty" Type="Boolean" />
+    <Property Name="anx7_packtype1" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx8_packtype2" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx9_packperish" Type="Boolean" />
+    <Property Name="anx10_exportcntry" Type="Boolean" />
+    <Property Name="anx11_rawmtrl" Type="Boolean" />
+    <Property Name="anx11_rawmtrldetail" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx12_fastfood" Type="Boolean" />
+    <Property Name="anx13_drugaggri" Type="Boolean" />
+    <Property Name="anx14_residential" Type="Boolean" />
+    <Property Name="anx15_commercial" Type="Boolean" />
+    <Property Name="anx15_commercialdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx15_commercialdocsize" Type="Int32" />
+    <Property Name="anx16_premisetype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx17_inspectiondate" Type="DateTime" Precision="3" />
+    <Property Name="anx17_inspreprotdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx17_inspreportdocsize" Type="Int32" />
+    <Property Name="anx18_challaned" Type="Boolean" />
+    <Property Name="anx18_datechallan" Type="DateTime" Precision="3" />
+    <Property Name="anx18_challannoticedoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx18_challannoticedocsize" Type="Int32" />
+    <Property Name="anx19_offences" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="anx19_iscompounded" Type="Boolean" />
+    <Property Name="anx19_recieptdoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="anx19_recieptdocsize" Type="Int32" />
+    <Property Name="localappversion" Type="Int32" />
+    <Property Name="mainanxid" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_App_Global_Local">
+    <Key>
+      <PropertyRef Name="global_app_id" />
+    </Key>
+    <Property Name="global_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="local_app_id" Type="Int64" />
+    <Property Name="app_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="templocal_app_id" Type="Int64" />
+    <Property Name="currentversion" Type="Int32" />
+    <NavigationProperty Name="TA_FSLM_AttachedFile" Relationship="foodsupplymvcModel.FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local" FromRole="TA_FSLM_App_Global_Local" ToRole="TA_FSLM_AttachedFile" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_App_Status">
+    <Key>
+      <PropertyRef Name="app_status_id" />
+    </Key>
+    <Property Name="app_status_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="admin_id" Type="Int64" />
+    <Property Name="received_date" Type="DateTime" Precision="3" />
+    <Property Name="opened_date" Type="DateTime" Precision="3" />
+    <Property Name="reviewed_date" Type="DateTime" Precision="3" />
+    <Property Name="reviewed_type" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="forwarded_to" Type="Int64" />
+    <Property Name="admin_type" Type="String" MaxLength="5" Unicode="false" FixedLength="false" />
+    <Property Name="initial_status" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_versionc" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_AreaCircle">
+    <Key>
+      <PropertyRef Name="areacircle_id" />
+    </Key>
+    <Property Name="areacircle_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="areacircle_name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="trash" Type="Int32" />
+    <NavigationProperty Name="TA_FSLM_District" Relationship="foodsupplymvcModel.FK_TA_FSLM_District_TA_FSLM_AreaCircle" FromRole="TA_FSLM_AreaCircle" ToRole="TA_FSLM_District" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_CategoryWM">
+    <Key>
+      <PropertyRef Name="cat_id" />
+    </Key>
+    <Property Name="cat_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="cat_name" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Commodity">
+    <Key>
+      <PropertyRef Name="com_id" />
+    </Key>
+    <Property Name="com_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="com_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="com_global_id" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Commodity_REJ">
+    <Key>
+      <PropertyRef Name="com_id" />
+    </Key>
+    <Property Name="com_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="com_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="com_global_id" Type="Int64" />
+    <Property Name="localappversion" Type="Int32" />
+    <Property Name="delcomrej" Type="Int32" />
+    <Property Name="maincomid" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_DenominationWM">
+    <Key>
+      <PropertyRef Name="denom_id" />
+    </Key>
+    <Property Name="denom_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="denmo_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="denom_price" Type="Decimal" Precision="9" Scale="2" />
+    <Property Name="cat_id" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_District">
+    <Key>
+      <PropertyRef Name="district_id" />
+    </Key>
+    <Property Name="district_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="district_name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="areacircle_id" Type="Int64" />
+    <Property Name="trash" Type="Int32" />
+    <NavigationProperty Name="TA_FSLM_AreaCircle" Relationship="foodsupplymvcModel.FK_TA_FSLM_District_TA_FSLM_AreaCircle" FromRole="TA_FSLM_District" ToRole="TA_FSLM_AreaCircle" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Fees">
+    <Key>
+      <PropertyRef Name="feesid" />
+    </Key>
+    <Property Name="feesid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="feeamount" Type="Int64" />
+    <Property Name="feedate" Type="DateTime" Precision="3" />
+    <Property Name="feebank" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="feemodeofpayment" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="feeverify" Type="Int32" />
+    <Property Name="feechalannumber" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="feeDetailSubmitdate" Type="DateTime" Precision="3" />
+    <Property Name="feeVerifyByUserDate" Type="DateTime" Precision="3" />
+    <Property Name="feeVerifyByAdminDate" Type="DateTime" Precision="3" />
+    <Property Name="nfeeRecieptDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="nfeeRecieptDocSize" Type="Int32" />
+    <Property Name="feeGenerateDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILM_Comments">
+    <Key>
+      <PropertyRef Name="ilm_comment_id" />
+    </Key>
+    <Property Name="ilm_comment_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_name_concern" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_address_concern" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_date_of_estblsmnt" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_partners" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_date_reg_no" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_nature_manfact" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_weights" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_measures" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_weighing_inst" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_msrng_inst" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_skilled" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_semiskilled" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_unskilled" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_specialist" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_monogrm_trade" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_detail_mchnry" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_detail_wrkshp" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_facilities_tstng" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_electric_enrgy" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_loan_detail" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_banker_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_tax_detail" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_prvs_apply" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_withn_state_outsd" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_model_aprvl" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_inspection_date" Type="DateTime" Precision="3" />
+    <Property Name="ilmc_inspection_comments" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="admin_id" Type="Int64" />
+    <Property Name="cmnt_createDate" Type="DateTime" Precision="3" />
+    <Property Name="cmnt_updateDate" Type="DateTime" Precision="3" />
+    <Property Name="ilmc_r_area_wish_to_operate" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_r_PreviousExp" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_r_stockofloantest" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_r_premise_type_ndDOC" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_d_isimportw" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_d_regsimpoterwm" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_locaddress" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_comodity" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_fees" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_remarks_all" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILM_Comments_Rej">
+    <Key>
+      <PropertyRef Name="ilm_comment_id" />
+    </Key>
+    <Property Name="ilm_comment_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_name_concern" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_address_concern" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_date_of_estblsmnt" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_partners" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_date_reg_no" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_nature_manfact" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_weights" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_measures" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_weighing_inst" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_type_msrng_inst" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_skilled" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_semiskilled" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_unskilled" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_mp_specialist" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_monogrm_trade" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_detail_mchnry" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_detail_wrkshp" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_facilities_tstng" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_electric_enrgy" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_loan_detail" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_banker_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_tax_detail" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_prvs_apply" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_withn_state_outsd" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_model_aprvl" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_inspection_date" Type="DateTime" Precision="3" />
+    <Property Name="ilmc_inspection_comments" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="admin_id" Type="Int64" />
+    <Property Name="cmnt_createDate" Type="DateTime" Precision="3" />
+    <Property Name="cmnt_updateDate" Type="DateTime" Precision="3" />
+    <Property Name="ilmc_r_area_wish_to_operate" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_r_PreviousExp" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_r_stockofloantest" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_r_premise_type_ndDOC" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_d_isimportw" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_d_regsimpoterwm" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_locaddress" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_comodity" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_fees" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_remarks_all" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="appVersion" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILMRPMI_Supplement">
+    <Key>
+      <PropertyRef Name="ilmc_suplmnt_cmnt_id" />
+    </Key>
+    <Property Name="ilmc_suplmnt_cmnt_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_cmt_id" Type="Int64" />
+    <Property Name="ilmc_rpm_3_dateprepackimport" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_4_Declarations" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_5_quantiywm" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_6_stdqty" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_7_packtype1" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_8_packtype2" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_9_packperish" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_10_exportcntry" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_11_rawmtrl" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_12_fastfood" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_13_drugaggri" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_14_residential" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_15_commercial" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_16_premisetype" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_17_inspreprotdoc" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_18_challaned" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_19_offences" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_ILMRPMI_Supplement_REJ">
+    <Key>
+      <PropertyRef Name="ilmc_suplmnt_cmnt_id" />
+    </Key>
+    <Property Name="ilmc_suplmnt_cmnt_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ilmc_cmt_id" Type="Int64" />
+    <Property Name="ilmc_rpm_3_dateprepackimport" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_4_Declarations" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_5_quantiywm" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_6_stdqty" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_7_packtype1" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_8_packtype2" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_9_packperish" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_10_exportcntry" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_11_rawmtrl" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_12_fastfood" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_13_drugaggri" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_14_residential" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_15_commercial" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_16_premisetype" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_17_inspreprotdoc" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_18_challaned" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="ilmc_rpm_19_offences" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="appversion" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence">
+    <Key>
+      <PropertyRef Name="licence_id" />
+    </Key>
+    <Property Name="licence_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="licence_number" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="licence_date" Type="DateTime" Precision="3" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="licence_issued_by" Type="Int64" />
+    <Property Name="lplace" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="licence_time_period" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Dealer">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="date_of_establishment" Type="DateTime" Precision="0" />
+    <Property Name="registration_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="registration_date" Type="DateTime" Precision="3" />
+    <Property Name="registration_number" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="import_weights" Type="Int32" />
+    <Property Name="manfac_monogram_trade_mark" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="manfac_licence_number" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="reg_importer_wm" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="model_aprvl_goi" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="previous_apply_details" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Dealer_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="date_of_establishment" Type="DateTime" Precision="0" />
+    <Property Name="registration_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="registration_date" Type="DateTime" Precision="3" />
+    <Property Name="registration_number" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="import_weights" Type="Int32" />
+    <Property Name="manfac_monogram_trade_mark" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="manfac_licence_number" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="reg_importer_wm" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="model_aprvl_goi" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="previous_apply_details" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="appVersion" Type="Int32" />
+    <Property Name="related_app" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Manufacturer">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="date_of_establishment" Type="DateTime" Precision="0" />
+    <Property Name="registration_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="registration_date" Type="DateTime" Precision="3" />
+    <Property Name="registration_number" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="nature_manufctur_present" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="skilled_mp" Type="Int32" />
+    <Property Name="semiskilled_mp" Type="Int32" />
+    <Property Name="unskilled_mp" Type="Int32" />
+    <Property Name="specialist_mp" Type="Int32" />
+    <Property Name="monogram_trade_mark" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="detail_machinery" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="detail_workshop_facilty" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="facilities_testing" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="electric_energy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="banker_name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="previous_apply_details" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="within_state_outside" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="model_aprvl_goi" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="desired_inspection_Date" Type="DateTime" Precision="0" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="detail_loan_amt" Type="String" MaxLength="11" Unicode="false" FixedLength="false" />
+    <Property Name="detail_loan_acount_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="type_wm_weights" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm_measures" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm_weighnginstru" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm_measurnginstru" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="TA_FSLM_Address" Relationship="foodsupplymvcModel.FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address" FromRole="TA_FSLM_Licence_Manufacturer" ToRole="TA_FSLM_Address" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Manufacturer_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="date_of_establishment" Type="DateTime" Precision="0" />
+    <Property Name="registration_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="registration_date" Type="DateTime" Precision="3" />
+    <Property Name="registration_number" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="nature_manufctur_present" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="skilled_mp" Type="Int32" />
+    <Property Name="semiskilled_mp" Type="Int32" />
+    <Property Name="unskilled_mp" Type="Int32" />
+    <Property Name="specialist_mp" Type="Int32" />
+    <Property Name="monogram_trade_mark" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="detail_machinery" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="detail_workshop_facilty" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="facilities_testing" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="electric_energy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="banker_name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="previous_apply_details" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="within_state_outside" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="model_aprvl_goi" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="desired_inspection_Date" Type="DateTime" Precision="0" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="detail_loan_amt" Type="String" MaxLength="11" Unicode="false" FixedLength="false" />
+    <Property Name="detail_loan_acount_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="type_wm_weights" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm_measures" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm_weighnginstru" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm_measurnginstru" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="appVersion" Type="Int32" />
+    <Property Name="related_app" Type="Int64" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Repairer">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="date_of_establishment" Type="DateTime" Precision="0" />
+    <Property Name="registration_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="registration_date" Type="DateTime" Precision="3" />
+    <Property Name="registration_number" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="skilled_mp" Type="Int32" />
+    <Property Name="semiskilled_mp" Type="Int32" />
+    <Property Name="unskilled_mp" Type="Int32" />
+    <Property Name="specialist_mp" Type="Int32" />
+    <Property Name="area_wish_to_operate" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="PreviousExp" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="detail_machinery" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="electric_energy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="stockofloantest" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="previous_apply_details" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Licence_Repairer_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="date_of_establishment" Type="DateTime" Precision="0" />
+    <Property Name="registration_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="registration_date" Type="DateTime" Precision="3" />
+    <Property Name="registration_number" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="type_wm" Type="String" MaxLength="500" Unicode="false" FixedLength="false" />
+    <Property Name="skilled_mp" Type="Int32" />
+    <Property Name="semiskilled_mp" Type="Int32" />
+    <Property Name="unskilled_mp" Type="Int32" />
+    <Property Name="specialist_mp" Type="Int32" />
+    <Property Name="area_wish_to_operate" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="PreviousExp" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="detail_machinery" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="electric_energy" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="stockofloantest" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="tax_reg_no" Type="String" MaxLength="25" Unicode="false" FixedLength="false" />
+    <Property Name="previous_apply_details" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="appVersion" Type="Int32" />
+    <Property Name="related_app" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Reg_PM">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Location_factory_address_id" Type="Int64" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="app_fees_id" Type="Int64" />
+    <Property Name="anxreg_id" Type="Int64" />
+    <Property Name="reg_type" Type="String" MaxLength="5" Unicode="false" FixedLength="false" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Reg_PM_REJ">
+    <Key>
+      <PropertyRef Name="Local_app_id" />
+    </Key>
+    <Property Name="Local_app_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="App_User_id" Type="Int64" />
+    <Property Name="Concern_address_id" Type="Int64" />
+    <Property Name="ConcernAddrsDoc" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ConcernAddrsDocSize" Type="Int32" />
+    <Property Name="primise_type" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Location_factory_address_id" Type="Int64" />
+    <Property Name="place" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="app_date" Type="DateTime" Precision="3" />
+    <Property Name="app_update_date" Type="DateTime" Precision="3" />
+    <Property Name="app_fees_id" Type="Int64" />
+    <Property Name="anxreg_id" Type="Int64" />
+    <Property Name="reg_type" Type="String" MaxLength="5" Unicode="false" FixedLength="false" />
+    <Property Name="namesignapplicant" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="designationapplicant" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="global_app_id" Type="Int64" />
+    <Property Name="appVersion" Type="Int32" />
+    <Property Name="related_app" Type="Int64" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_RowCreateDetail">
+    <Key>
+      <PropertyRef Name="cu_id" />
+    </Key>
+    <Property Name="cu_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="cu_tablename" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="cu_rowid" Type="Int64" />
+    <Property Name="cu_createby" Type="Int64" />
+    <Property Name="cu_createdatetime" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Search">
+    <Key>
+      <PropertyRef Name="search_id" />
+    </Key>
+    <Property Name="search_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="search_global_app_id" Type="Int64" />
+    <Property Name="search_keywords" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+    <Property Name="status" Type="Int32" />
+    <Property Name="search_keywords2" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_Trash">
+    <Key>
+      <PropertyRef Name="trash_id" />
+    </Key>
+    <Property Name="trash_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="table_row_id" Type="Int64" />
+    <Property Name="table_name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="trash_date" Type="DateTime" Precision="3" />
+    <Property Name="trash_by_id" Type="Int64" />
+    <Property Name="trash_by_usertype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TA_FSLM_User">
+    <Key>
+      <PropertyRef Name="guser_id" />
+    </Key>
+    <Property Name="guser_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="guser_name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="guser_password" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="guser_address_id" Type="Int64" />
+    <Property Name="gcode" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="uniqueida" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_TA_FSLM_District_TA_FSLM_AreaCircle">
+    <End Role="TA_FSLM_AreaCircle" Type="foodsupplymvcModel.TA_FSLM_AreaCircle" Multiplicity="0..1" />
+    <End Role="TA_FSLM_District" Type="foodsupplymvcModel.TA_FSLM_District" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_AreaCircle">
+        <PropertyRef Name="areacircle_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_District">
+        <PropertyRef Name="areacircle_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TA_FSLM_Admin_TA_FSLM_Address">
+    <End Type="foodsupplymvcModel.TA_FSLM_Address" Role="TA_FSLM_Address" Multiplicity="0..1" />
+    <End Type="foodsupplymvcModel.TA_FSLM_Admin" Role="TA_FSLM_Admin" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_Address">
+        <PropertyRef Name="address_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_Admin">
+        <PropertyRef Name="admin_address_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TA_FSLM_Licence_Manufacturer_TA_FSLM_Address">
+    <End Type="foodsupplymvcModel.TA_FSLM_Address" Role="TA_FSLM_Address" Multiplicity="0..1" />
+    <End Type="foodsupplymvcModel.TA_FSLM_Licence_Manufacturer" Role="TA_FSLM_Licence_Manufacturer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_Address">
+        <PropertyRef Name="address_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_Licence_Manufacturer">
+        <PropertyRef Name="Concern_address_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TA_FSLM_AttachedFile">
+    <Key>
+      <PropertyRef Name="fid" />
+    </Key>
+    <Property Type="Int64" Name="fid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="fname" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="fsize" />
+    <Property Type="Guid" Name="fguid" />
+    <Property Type="Int64" Name="global_app_id" />
+    <Property Type="String" Name="ftext" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TA_FSLM_App_Global_Local" Relationship="foodsupplymvcModel.FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local" FromRole="TA_FSLM_AttachedFile" ToRole="TA_FSLM_App_Global_Local" />
+  </EntityType>
+  <Association Name="FK_TA_FSLM_AttachedFile_TA_FSLM_App_Global_Local">
+    <End Type="foodsupplymvcModel.TA_FSLM_App_Global_Local" Role="TA_FSLM_App_Global_Local" Multiplicity="0..1" />
+    <End Type="foodsupplymvcModel.TA_FSLM_AttachedFile" Role="TA_FSLM_AttachedFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TA_FSLM_App_Global_Local">
+        <PropertyRef Name="global_app_id" />
+      </Principal>
+      <Dependent Role="TA_FSLM_AttachedFile">
+        <PropertyRef Name="global_app_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

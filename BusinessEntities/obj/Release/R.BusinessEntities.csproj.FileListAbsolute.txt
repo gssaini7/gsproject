@@ -1,0 +1,92 @@
+D:\gs\Project\8916\project\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\8916\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\8916\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\8916\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+D:\gs\Project\project\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+E:\10-4-16\project\BusinessEntities\bin\Release\BusinessEntities.dll
+E:\10-4-16\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+E:\10-4-16\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\BusinessEntities\obj\Release\BusinessEntities.dll
+E:\10-4-16\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+D:\gs\Project\17-10-16\project\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\17-10-16\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\17-10-16\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\17-10-16\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+D:\gs\Project\30-11-16\project\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\30-11-16\project\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\30-11-16\project\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\30-11-16\project\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\30-11-16\project\BusinessEntities\obj\Release\BusinessEntities.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Release\BusinessEntities.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Release\BusinessEntities.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Release\BusinessEntities.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Release\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Release\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Release\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Release\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Release\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\obj\Release\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\obj\Release\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\Newtonsoft.Json.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Release\Newtonsoft.Json.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Newtonsoft.Json.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Newtonsoft.Json.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\obj\Release\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\obj\Release\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\obj\Release\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\BusinessEntities.dll.config
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\EntityFramework.SqlServer.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Microsoft.AspNet.Identity.Core.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\EntityFramework.SqlServer.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Microsoft.AspNet.Identity.Core.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml

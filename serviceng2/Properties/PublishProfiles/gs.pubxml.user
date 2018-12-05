@@ -1,0 +1,1087 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\b\Project\eacademics\APP\web\Published</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app/account/account.module.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/account.module.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/account.routing.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/account.routing.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/login-form/login-form.component.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/login-form/login-form.component.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/login-form/login-form.component.spec.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/login-form/login-form.component.spec.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/register/register.component.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/register/register.component.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/register/register.component.spec.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/account/register/register.component.spec.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/app.component.html">
+      <publishTime>11/03/2017 12:29:27</publishTime>
+    </File>
+    <File Include="app/app.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/app.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/app.module.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/app.module.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/app.routing.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/app.routing.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/auth.guard.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/auth.guard.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Admins/Admins.component.html">
+      <publishTime>04/12/2018 14:07:32</publishTime>
+    </File>
+    <File Include="app/dashboard/Admins/Admins.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Admins/Admins.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Album/Album.component.html">
+      <publishTime>06/27/2018 11:08:03</publishTime>
+    </File>
+    <File Include="app/dashboard/Album/Album.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/Album/Album.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/Blog/Blog.component.html">
+      <publishTime>05/11/2018 09:25:09</publishTime>
+    </File>
+    <File Include="app/dashboard/Blog/Blog.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Blog/Blog.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/BlogType/BlogType.component.html">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="app/dashboard/BlogType/BlogType.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/BlogType/BlogType.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/CRUDType/DetailType/DetailType.component.html">
+      <publishTime>07/26/2018 09:48:32</publishTime>
+    </File>
+    <File Include="app/dashboard/CRUDType/DetailType/DetailType.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/CRUDType/DetailType/DetailType.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/CRUDType/ListType/ListType.component.html">
+      <publishTime>07/25/2018 10:02:42</publishTime>
+    </File>
+    <File Include="app/dashboard/CRUDType/ListType/ListType.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/CRUDType/ListType/ListType.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/dashboard.module.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/dashboard.module.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/dashboard.routing.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/dashboard.routing.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/Feedback/Feedback.component.html">
+      <publishTime>07/24/2018 10:03:48</publishTime>
+    </File>
+    <File Include="app/dashboard/Feedback/Feedback.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/Feedback/Feedback.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/header/header.component.html">
+      <publishTime>06/27/2018 10:51:49</publishTime>
+    </File>
+    <File Include="app/dashboard/header/header.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/header/header.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/header/header.component.scss">
+      <publishTime>11/02/2017 16:09:06</publishTime>
+    </File>
+    <File Include="app/dashboard/header/header.component.spec.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/header/header.component.spec.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/home/home.component.html">
+      <publishTime>06/26/2018 17:32:43</publishTime>
+    </File>
+    <File Include="app/dashboard/home/home.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/home/home.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/home/home.component.scss">
+      <publishTime>09/13/2017 15:01:57</publishTime>
+    </File>
+    <File Include="app/dashboard/home/home.component.spec.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/home/home.component.spec.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/ImageGallery/ImageGallery.component.html">
+      <publishTime>04/18/2018 15:14:43</publishTime>
+    </File>
+    <File Include="app/dashboard/ImageGallery/ImageGallery.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/ImageGallery/ImageGallery.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/item/item.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/item/item.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/item/item.template.html">
+      <publishTime>11/21/2017 11:19:46</publishTime>
+    </File>
+    <File Include="app/dashboard/itemdetail/itemdetail.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/itemdetail/itemdetail.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/itemdetail/itemdetail.template.html">
+      <publishTime>11/28/2017 15:43:48</publishTime>
+    </File>
+    <File Include="app/dashboard/itemtypes/itemtypes.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/itemtypes/itemtypes.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/itemtypes/itemtypes.template.html">
+      <publishTime>11/28/2017 10:59:50</publishTime>
+    </File>
+    <File Include="app/dashboard/manager/manager.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/manager/manager.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/manager/manager.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/dashboard/manager/manager.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/dashboard/manager/manager.template.html">
+      <publishTime>11/07/2017 15:10:55</publishTime>
+    </File>
+    <File Include="app/dashboard/models/home.details.interface.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/models/home.details.interface.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/NotificationSchedule/NotificationSchedule.component.html">
+      <publishTime>07/25/2018 15:44:27</publishTime>
+    </File>
+    <File Include="app/dashboard/NotificationSchedule/NotificationSchedule.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/NotificationSchedule/NotificationSchedule.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/onlineorder - Copy/onlineorder.component.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/dashboard/onlineorder - Copy/onlineorder.component.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/dashboard/onlineorder/onlineorder.component.js">
+      <publishTime>11/23/2017 08:55:23</publishTime>
+    </File>
+    <File Include="app/dashboard/onlineorder/onlineorder.component.js.map">
+      <publishTime>11/23/2017 08:55:22</publishTime>
+    </File>
+    <File Include="app/dashboard/onlineorder/onlineorder.template.html">
+      <publishTime>11/13/2017 15:42:19</publishTime>
+    </File>
+    <File Include="app/dashboard/order/order.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/order/order.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/order/order.template.html">
+      <publishTime>11/28/2017 15:10:55</publishTime>
+    </File>
+    <File Include="app/dashboard/orderdetail/orderdetail.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/orderdetail/orderdetail.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/orderdetail/orderdetail.template.html">
+      <publishTime>11/28/2017 15:54:47</publishTime>
+    </File>
+    <File Include="app/dashboard/Page/Page.component.html">
+      <publishTime>04/19/2018 09:22:08</publishTime>
+    </File>
+    <File Include="app/dashboard/Page/Page.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Page/Page.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/PageDetail/PageDetail.component.html">
+      <publishTime>04/19/2018 09:22:08</publishTime>
+    </File>
+    <File Include="app/dashboard/PageDetail/PageDetail.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/PageDetail/PageDetail.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/PopupDialog/PopupDialog.component.html">
+      <publishTime>02/21/2018 12:55:53</publishTime>
+    </File>
+    <File Include="app/dashboard/PopupDialog/PopupDialog.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/PopupDialog/PopupDialog.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/profile/profile.component.html">
+      <publishTime>04/25/2018 09:48:58</publishTime>
+    </File>
+    <File Include="app/dashboard/profile/profile.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/profile/profile.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/RoleAssign/RoleAssign.component.html">
+      <publishTime>03/07/2018 11:04:54</publishTime>
+    </File>
+    <File Include="app/dashboard/RoleAssign/RoleAssign.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/RoleAssign/RoleAssign.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/Roles/Roles.component.html">
+      <publishTime>04/12/2018 10:58:49</publishTime>
+    </File>
+    <File Include="app/dashboard/Roles/Roles.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Roles/Roles.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/root/root.component.html">
+      <publishTime>11/21/2017 11:21:20</publishTime>
+    </File>
+    <File Include="app/dashboard/root/root.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/root/root.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/root/root.component.scss">
+      <publishTime>09/13/2017 15:01:57</publishTime>
+    </File>
+    <File Include="app/dashboard/root/root.component.spec.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/root/root.component.spec.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/services/dashboard.service.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/services/dashboard.service.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/dashboard/Settings/Settings.component.html">
+      <publishTime>07/17/2018 12:31:04</publishTime>
+    </File>
+    <File Include="app/dashboard/Settings/Settings.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/Settings/Settings.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/dashboard/SuperAdmin/MainDatabases.component.html">
+      <publishTime>04/20/2018 11:05:52</publishTime>
+    </File>
+    <File Include="app/dashboard/SuperAdmin/MainDatabases.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/SuperAdmin/MainDatabases.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/SupportAdmin/adminmanager.component.html">
+      <publishTime>01/18/2018 11:20:24</publishTime>
+    </File>
+    <File Include="app/dashboard/SupportAdmin/adminmanager.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/SupportAdmin/adminmanager.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/TeacherClassRel/TeacherClassRel.component.html">
+      <publishTime>07/20/2018 15:53:41</publishTime>
+    </File>
+    <File Include="app/dashboard/TeacherClassRel/TeacherClassRel.component.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/dashboard/TeacherClassRel/TeacherClassRel.component.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/header/header.component.html">
+      <publishTime>11/02/2017 12:06:06</publishTime>
+    </File>
+    <File Include="app/header/header.component.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/header/header.component.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/header/header.component.scss">
+      <publishTime>10/16/2017 17:31:44</publishTime>
+    </File>
+    <File Include="app/header/header.component.spec.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/header/header.component.spec.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/main.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/main.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/models/credentials.interface.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/models/credentials.interface.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/models/managermodel.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/models/managermodel.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/models/user.registration.interface.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/models/user.registration.interface.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/authcrud.service.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/authcrud.service.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/base.service.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/base.service.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/equals.validators.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/equals.validators.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/user.service.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Services/user.service.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Shared/config.service.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/Shared/config.service.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/Shared/enum.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Shared/enum.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Shared/global.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Shared/global.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Shared/groupby.pipe.js">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/Shared/groupby.pipe.js.map">
+      <publishTime>08/01/2018 14:22:05</publishTime>
+    </File>
+    <File Include="app/Shared/sortby.pipe.js">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/Shared/sortby.pipe.js.map">
+      <publishTime>08/01/2018 14:22:04</publishTime>
+    </File>
+    <File Include="app/web/home/home.component.html">
+      <publishTime>11/02/2017 14:48:19</publishTime>
+    </File>
+    <File Include="app/web/home/home.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/home/home.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/login-form/login-form.component.html">
+      <publishTime>11/02/2017 15:28:54</publishTime>
+    </File>
+    <File Include="app/web/login-form/login-form.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/login-form/login-form.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/login-form/login-form.component.scss">
+      <publishTime>11/02/2017 15:28:54</publishTime>
+    </File>
+    <File Include="app/web/login-form/login-form.component.spec.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/login-form/login-form.component.spec.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/register/register.component.html">
+      <publishTime>11/03/2017 14:30:28</publishTime>
+    </File>
+    <File Include="app/web/register/register.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/register/register.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/register/register.component.scss">
+      <publishTime>11/02/2017 15:28:54</publishTime>
+    </File>
+    <File Include="app/web/register/register.component.spec.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/register/register.component.spec.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/root/root.component.html">
+      <publishTime>11/03/2017 14:27:05</publishTime>
+    </File>
+    <File Include="app/web/root/root.component.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/root/root.component.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/root/root.component.scss">
+      <publishTime>11/02/2017 14:52:46</publishTime>
+    </File>
+    <File Include="app/web/root/root.component.spec.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/root/root.component.spec.js.map">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/web.module.js">
+      <publishTime>11/29/2017 12:00:55</publishTime>
+    </File>
+    <File Include="app/web/web.module.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/web.routing.js">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="app/web/web.routing.js.map">
+      <publishTime>11/29/2017 12:00:54</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>08/10/2017 10:24:39</publishTime>
+    </File>
+    <File Include="bin/BusinessEntities.dll">
+      <publishTime>08/01/2018 12:30:04</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>08/01/2018 12:30:07</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/09/2017 14:01:20</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/09/2017 14:01:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>08/10/2017 10:23:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>08/10/2017 10:23:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>08/10/2017 10:23:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/10/2017 10:23:55</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>04/05/2017 11:53:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>04/05/2017 11:53:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>08/10/2017 10:24:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>08/10/2017 10:24:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>08/10/2017 10:24:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>08/10/2017 10:24:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>08/10/2017 10:24:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>08/10/2017 10:24:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>08/10/2017 10:24:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>08/10/2017 10:24:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>08/10/2017 12:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Configuration.dll">
+      <publishTime>08/10/2017 12:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>08/10/2017 12:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <publishTime>08/10/2017 12:37:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/14/2017 11:49:50</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/10/2017 10:24:29</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>08/10/2017 10:24:31</publishTime>
+    </File>
+    <File Include="bin/R.BAL.dll">
+      <publishTime>08/01/2018 12:30:08</publishTime>
+    </File>
+    <File Include="bin/R.Resolver.dll">
+      <publishTime>07/27/2018 11:02:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/10/2017 10:24:03</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>08/10/2017 10:23:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>01/28/2015 04:01:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>01/28/2015 04:03:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>08/10/2017 10:23:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>08/10/2017 10:23:51</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>08/10/2017 10:23:53</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>08/10/2017 10:23:40</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/Unity.Mvc4.dll">
+      <publishTime>07/26/2016 12:42:16</publishTime>
+    </File>
+    <File Include="bin/Unity.WebApi.dll">
+      <publishTime>08/10/2017 12:37:37</publishTime>
+    </File>
+    <File Include="bin/USoftEducation.dll">
+      <publishTime>01/08/2018 14:11:20</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>08/10/2017 10:24:35</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>08/10/2017 10:24:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>08/10/2017 10:24:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>08/10/2017 10:24:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>08/10/2017 10:24:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>11/02/2017 17:33:54</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>08/10/2017 10:24:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>02/07/2018 15:45:54</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>08/10/2017 10:24:44</publishTime>
+    </File>
+    <File Include="Content/css/bootstrap.min.css">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/css/font-awesome.min.css">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/css/loading-bar.css">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/css/loading-bar.min.css">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/css/site.css">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/css/social-buttons.css">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/datatable/datatables.bootstrap.min.css">
+      <publishTime>08/18/2017 15:58:22</publishTime>
+    </File>
+    <File Include="Content/font-awesome.min.css">
+      <publishTime>11/02/2017 11:24:50</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.eot">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.svg">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.ttf">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/FontAwesome.otf">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/18/2017 10:41:42</publishTime>
+    </File>
+    <File Include="Content/loginform.css">
+      <publishTime>01/29/2018 11:02:41</publishTime>
+    </File>
+    <File Include="Content/sbadmin/sb-admin.css">
+      <publishTime>11/03/2017 12:36:38</publishTime>
+    </File>
+    <File Include="Content/sbadmin/sb-admin.min.css">
+      <publishTime>11/03/2017 12:37:40</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>07/05/2018 12:03:19</publishTime>
+    </File>
+    <File Include="Content/ui-bootstrap-csp.css">
+      <publishTime>04/27/2017 08:07:52</publishTime>
+    </File>
+    <File Include="css/animate.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/flexslider.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/icomoon.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/magnific-popup.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/owl.carousel.min.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/owl.theme.default.min.css">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>06/26/2018 16:37:29</publishTime>
+    </File>
+    <File Include="css/style.css.map">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/25/2017 07:27:30</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>11/02/2017 11:17:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>11/02/2017 11:17:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>11/02/2017 11:17:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>11/02/2017 11:17:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>11/02/2017 11:17:54</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>11/02/2017 11:17:54</publishTime>
+    </File>
+    <File Include="fonts/swinlanedatatable/data-table.eot">
+      <publishTime>10/26/2017 12:12:16</publishTime>
+    </File>
+    <File Include="fonts/swinlanedatatable/data-table.svg">
+      <publishTime>10/26/2017 12:12:16</publishTime>
+    </File>
+    <File Include="fonts/swinlanedatatable/data-table.ttf">
+      <publishTime>10/26/2017 12:12:16</publishTime>
+    </File>
+    <File Include="fonts/swinlanedatatable/data-table.woff">
+      <publishTime>10/26/2017 12:12:16</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/25/2017 07:27:30</publishTime>
+    </File>
+    <File Include="Images/17.jpg">
+      <publishTime>09/21/2017 15:27:52</publishTime>
+    </File>
+    <File Include="Images/23.jpg">
+      <publishTime>09/08/2017 10:33:24</publishTime>
+    </File>
+    <File Include="Images/ajax-loader1.gif">
+      <publishTime>09/08/2017 14:57:05</publishTime>
+    </File>
+    <File Include="Images/img_1.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/img_bg_1.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/img_bg_2.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/img_bg_3.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/line.gif">
+      <publishTime>03/14/2018 15:52:16</publishTime>
+    </File>
+    <File Include="Images/loader.gif">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>06/26/2018 17:08:04</publishTime>
+    </File>
+    <File Include="Images/person_1.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/person_2.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="Images/person_3.jpg">
+      <publishTime>02/22/2018 10:18:01</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>02/22/2018 08:58:06</publishTime>
+    </File>
+    <File Include="js/google_map.js">
+      <publishTime>02/22/2018 08:58:06</publishTime>
+    </File>
+    <File Include="js/jquery.countTo.js">
+      <publishTime>02/22/2018 08:58:06</publishTime>
+    </File>
+    <File Include="js/jquery.easing.1.3.js">
+      <publishTime>02/22/2018 08:58:06</publishTime>
+    </File>
+    <File Include="js/jquery.easypiechart.min.js">
+      <publishTime>02/22/2018 08:58:06</publishTime>
+    </File>
+    <File Include="js/jquery.magnific-popup.min.js">
+      <publishTime>02/22/2018 08:58:06</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/jquery.stellar.min.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/jquery.waypoints.min.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/magnific-popup-options.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/modernizr-2.6.2.min.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/owl.carousel.min.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="js/respond.min.js">
+      <publishTime>02/22/2018 08:58:07</publishTime>
+    </File>
+    <File Include="package.json">
+      <publishTime>03/13/2018 17:50:04</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/19/2018 15:14:11</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.js">
+      <publishTime>11/03/2017 09:37:13</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.bundle.min.js">
+      <publishTime>11/03/2017 09:37:13</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/02/2017 17:34:13</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/02/2017 17:34:13</publishTime>
+    </File>
+    <File Include="Scripts/ckeditor.js">
+      <publishTime>04/25/2018 10:33:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.2.1.js">
+      <publishTime>09/08/2017 16:54:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.2.1.min.js">
+      <publishTime>09/08/2017 16:54:21</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/08/2017 10:57:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/08/2017 10:57:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/08/2017 10:57:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/08/2017 10:57:06</publishTime>
+    </File>
+    <File Include="Scripts/loginform.js">
+      <publishTime>04/27/2018 09:54:48</publishTime>
+    </File>
+    <File Include="Scripts/sbadmin/sb-admin.js">
+      <publishTime>11/02/2017 16:51:30</publishTime>
+    </File>
+    <File Include="Scripts/sbadmin/sb-admin.min.js">
+      <publishTime>11/02/2017 16:51:30</publishTime>
+    </File>
+    <File Include="systemjs.config.js">
+      <publishTime>04/20/2018 16:09:44</publishTime>
+    </File>
+    <File Include="tsconfig.json">
+      <publishTime>01/24/2018 13:18:12</publishTime>
+    </File>
+    <File Include="Unity.Mvc4.README.txt">
+      <publishTime>02/19/2018 15:13:25</publishTime>
+    </File>
+    <File Include="Views/Home/Account.cshtml">
+      <publishTime>04/13/2018 15:10:10</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>02/22/2018 09:00:54</publishTime>
+    </File>
+    <File Include="Views/Home/Manager.cshtml">
+      <publishTime>06/26/2018 16:33:25</publishTime>
+    </File>
+    <File Include="Views/Home/ResetPassword.cshtml">
+      <publishTime>04/17/2018 09:51:44</publishTime>
+    </File>
+    <File Include="Views/Home/Return.cshtml">
+      <publishTime>08/01/2018 12:21:28</publishTime>
+    </File>
+    <File Include="Views/Main/Index.cshtml">
+      <publishTime>02/22/2018 10:05:36</publishTime>
+    </File>
+    <File Include="Views/Manager/Index.cshtml">
+      <publishTime>06/27/2018 12:18:58</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>07/26/2018 11:01:21</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>06/22/2018 11:57:17</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutLogin.cshtml">
+      <publishTime>06/22/2018 11:57:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutNg.cshtml">
+      <publishTime>06/22/2018 11:57:28</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutTest.cshtml">
+      <publishTime>02/06/2018 10:38:58</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layoutweb.cshtml">
+      <publishTime>06/22/2018 11:57:42</publishTime>
+    </File>
+    <File Include="Views/Shared/_TopMenu.cshtml">
+      <publishTime>02/22/2018 15:40:56</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/25/2017 07:27:30</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/25/2017 07:27:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/01/2018 12:30:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

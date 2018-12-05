@@ -1,0 +1,342 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+F:\Data\Templates\T2\Template\BusinessEntities\bin\Debug\BusinessEntities.dll
+F:\Data\Templates\T2\Template\BusinessEntities\bin\Debug\BusinessEntities.pdb
+F:\Data\Templates\T2\Template\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+F:\Data\Templates\T2\Template\BusinessEntities\obj\Debug\BusinessEntities.dll
+F:\Data\Templates\T2\Template\BusinessEntities\obj\Debug\BusinessEntities.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BusinessEntities\bin\Debug\BusinessEntities.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BusinessEntities\bin\Debug\BusinessEntities.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BusinessEntities\obj\Debug\BusinessEntities.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BusinessEntities\obj\Debug\BusinessEntities.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Hartron\FSLM new\Template\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Hartron\FSLM new\Template\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Hartron\FSLM new\Template\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Hartron\FSLM new\Template\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Hartron\FSLM new\Template\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\13-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\13-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\13-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\13-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\14-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\14-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\14-7-16\Project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\14-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\14-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\14-7-16 H\Project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\14-7-16 H\Project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\14-7-16 H\Project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\14-7-16 H\Project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\14-7-16 H\Project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\19-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\19-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\19-7-16\Project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\19-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\19-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\20-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\20-7-16\Project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\20-7-16\Project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\20-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\20-7-16\Project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\3-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\3-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\3-8-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\3-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\3-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\4-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\4-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\4-8-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\4-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\4-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\back\5-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\back\5-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\back\5-8-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\back\5-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\back\5-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\9-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\9-8-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\9-8-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\9-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\9-8-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\7-9-16 H\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\7-9-16 H\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\7-9-16 H\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\7-9-16 H\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\7-9-16 H\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\8-9-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\8-9-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\8-9-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\8-9-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\8-9-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\8916\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\8916\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\8916\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\8916\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\19-9-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\19-9-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\19-9-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\19-9-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\19-9-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\10-4-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\10-4-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\10-4-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\10-4-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\17-10-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\17-10-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\17-10-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\17-10-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\18-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\18-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\18-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\18-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\18-10-16\project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\19-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\19-10-16\project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\19-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\19-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\19-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\19-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\19-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\19-10-16\project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\19-10-16 H\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\20-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\20-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\20-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\20-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\30-11-16\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\30-11-16\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\30-11-16\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\30-11-16\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\30-11-16\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\Base Template\project\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\Base Template\project\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\Base Template\project\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\Base Template\project\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\Base Template\project\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\Libsys\project elibsys\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\Libsys\project elibsys\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\Libsys\project elibsys\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\Libsys\project elibsys\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\Libsys\project elibsys\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\30-3-17\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\19-7-17\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\19-7-17\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\19-7-17\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Test\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Test\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Test\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Test\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Test\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Test\token test\1\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Test\token test\1\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\ng web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\ng web\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Test\ng web\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Test\ng web\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\ea app\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\ea app\gsproject\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Test\ea app\gsproject\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Newtonsoft.Json.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\BusinessEntities.dll.config
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\EntityFramework.SqlServer.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\EntityFramework.SqlServer.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\BusinessEntities\obj\Debug\R.BusinessEntities.csprojResolveAssemblyReference.cache

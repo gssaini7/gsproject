@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="ImageGallery">
+  <Element Name="ImageGalleryModelid" Type="Guid"></Element>
+  <Element Name="ImageName" Type="string"></Element>
+</Root>

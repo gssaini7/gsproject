@@ -1,0 +1,61 @@
+
+<div class=''>
+    
+    <div class='' >
+        <div class="ui-widget-header">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1"><i class="fa fa-search"></i></span>
+                </div>
+                <input #gb type="text" class="form-control" pInputText placeholder="Search menu..." aria-label="Menu" aria-describedby="basic-addon1">
+            </div>
+        </div>
+        <p-dataTable #dt [value]="mainobjlist" [globalFilter]="gb" [contextMenu]="cm"
+                     selectionMode="single" [(selection)]="mainobj" (onRowSelect)="onRowSelect($event)">
+            <p-column field="AlbumName" header="Album Name" [sortable]="true"></p-column>
+            <p-footer><div class="ui-helper-clearfix" style="width:100%"><button type="button" pButton icon="fa-plus" style="float:left" (click)="showDialogToAdd()" label="Add"></button></div></p-footer>
+        </p-dataTable>
+
+        <p-contextMenu #cm [model]="cmitems" appendTo="body"></p-contextMenu>
+
+
+
+        <p-dialog header="Album" [(visible)]="displayDialog" [responsive]="true" showEffect="fade" [modal]="true" [width]="500">
+            <form novalidate [formGroup]="mainFrm">
+
+                <div class="form-group">
+                    <label for="AlbumName">Album Name</label>
+                    <input type="text" class="form-control" id="AlbumName" placeholder="Enter Album Name" pInputText formControlName="AlbumName">
+                </div>
+
+
+                <div class="form-group">
+                    <label for="Remarks">Remarks</label>
+                    <textarea class="form-control" id="Remarks" placeholder="Enter remarks" pInputText formControlName="remarks"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="isPublishedc">Published</label>
+                    <p-checkbox name="isPublishedc" value="isPublished" binary="true" formControlName="isPublished"></p-checkbox>
+
+                </div>
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                        <button type="button" pButton icon="fa-close" (click)="delete()" label="Delete" *ngIf="!isNewForm" class="ui-button-danger"></button>
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                    </div>
+                </p-footer>
+            </form>
+        </p-dialog>
+
+
+
+        <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <span class="sr-only">Error:</span>
+            {{msg}}
+        </div>
+    </div>
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+

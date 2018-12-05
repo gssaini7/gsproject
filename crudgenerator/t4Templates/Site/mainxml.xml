@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="Site">
+  <Element Name="SiteModelid" Type="Guid"></Element>
+  <Element Name="SiteLogo" Type="string"></Element>
+</Root>

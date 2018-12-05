@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+@*<html lang="en">*@
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>@ViewBag.Title - uSofts : School software, College Software, Library Software, Brick kiln Software</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="uSofts : Brick kiln Software, Library Software, School software, College Software" />
+    <meta name="keywords" content="uSofts, Unique Software Solution, Brick kiln Software, brick-kiln, Library Software, School software, College Software" />
+    <meta name="author" content="uSofts  " />
+    @Html.Raw(ViewBag.Metatagscustom)
+    @Styles.Render("~/Content/animate")
+    @Styles.Render("~/Content/icomoon")
+    @Styles.Render("~/Content/bootstrap")
+    @Styles.Render("~/Content/superfish")
+    <link href="~/Content/magnific-popup.css" rel="stylesheet" />
+    @Styles.Render("~/Content/ussstyle")
+    @RenderSection("headerscript", required: false)
+
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    <div id="uss-wrapper">
+        <div id="uss-page">
+            <div id="uss-header">
+                @*@Html.Partial("_TopMenu")*@
+            </div>
+
+            <!-- end:header-top -->
+            <div>
+                @RenderSection("featured", required: false)
+                <section>
+                    @RenderBody()
+                </section>
+            </div>
+
+        </div>
+        <!-- END uss-page -->
+
+    </div>
+
+    <div id="back-top" style="display: none;">
+        <a href="#" title="Go to top"><i class="icon-arrow-with-circle-up "></i></a>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @*@Scripts.Render("~/bundles/jqueryval")
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/waypoint")
+    @Scripts.Render("~/bundles/steller")
+    @Scripts.Render("~/bundles/ussmainscript")*@
+
+
+    @RenderSection("scripts", required: false)
+
+
+    <!--Start of Tawk.to Script-->
+    @*<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a437537f4461b0b4ef8acff/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+    </script>*@
+    <!--End of Tawk.to Script-->
+</body>
+</html>

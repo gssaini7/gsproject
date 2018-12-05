@@ -1,0 +1,5 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\Resolver.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\obj\Debug\Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\Resolver\obj\Debug\Resolver.pdb

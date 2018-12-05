@@ -1,0 +1,126 @@
+<div class=''>
+   
+
+    <form novalidate [formGroup]="mainFrm">
+        <div class="row">
+            <div class="col-5">
+                <div class="form-group">
+                    <label for="PageTitle">Page Title</label>
+                    <input type="text" class="form-control" id="PageTitle" placeholder="Enter Title" pInputText formControlName="PageTitle" (blur)="onBlurTitle($event.target.value)">
+                </div>
+            </div>
+            <div class="col-5">
+                <div class="form-group">
+                    <label for="pageurl">Page URL</label>
+                    <input type="text" class="form-control" id="pageurl" placeholder="Enter Url" pInputText formControlName="pageurl" (blur)="onBlurURL($event.target.value)">
+                    <em (click)="seturl()"> {{urltext}}</em>
+                </div>
+            </div>
+            <div class="col-2">
+                <div class="form-group">
+                    <label for="isPublishedc">Published</label><br />
+                    <p-checkbox name="isPublishedc" value="isPublished" binary="true" formControlName="isPublished"></p-checkbox>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div formArrayName="pcontents">
+                <div *ngFor="let pc of mainFrm.controls.pcontents.controls; let i=index" class="card card-primary">
+                    <!--<div class="card-header">
+                        <span>Section {{i + 1}}</span>
+                        <span class="fa fa-times pull-right" *ngIf="mainFrm.controls.pcontents.controls.length > 1" (click)="removeContentForm(i)"></span>
+                    </div>-->
+                    <div class="card-body" [formGroupName]="i">
+                        <div>
+                            <!--<div class="form-group col-xs-6">
+                                <label>Type</label>
+                                <input type="text" class="form-control" formControlName="PCType">
+                            {{ mainFrm.controls.pcontents.at(i).get('PCType').value }}
+                              </div>-->
+                            <div class="form-group col-xs-6">
+                                <div class="form-group col-xs-6">
+                                    <ckeditor formControlName="PContent" debounce="500" *ngIf="mainFrm.controls.pcontents.at(i).get('PCType').value===2">
+                                        
+                                    </ckeditor>
+                                    <!--<p-editor formControlName="PContent" [style]="{'height':'320px'}" *ngIf="mainFrm.controls.pcontents.at(i).get('PCType').value===2">
+                                        <p-header>
+                                            <span class="ql-formats">
+                                                <button class="ql-header" value="1"></button>
+                                                <button class="ql-header" value="2"></button>
+                                            </span>
+                                            <span class="ql-formats">
+                                                <button class="ql-bold" aria-label="Bold"></button>
+                                                <button class="ql-italic" aria-label="Italic"></button>
+                                                <button class="ql-underline" aria-label="Underline"></button>
+                                            </span>
+                                            <span class="ql-formats">
+                                                <button class="ql-list" value="ordered" aria-label="List"></button>
+                                                <button class="ql-list" value="bullet" aria-label="List"></button>
+                                            </span>
+                                            <span class="ql-formats">
+                                                <button class="ql-link"></button>
+
+                                            </span>
+
+                                        </p-header>
+                                    </p-editor>-->
+                                    <input type="text" class="form-control" formControlName="PContent" *ngIf="mainFrm.controls.pcontents.at(i).get('PCType').value===1">
+                                    <input type="color" class="form-control" formControlName="PContent" *ngIf="mainFrm.controls.pcontents.at(i).get('PCType').value===3">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="margin-20" *ngIf="isMultipleContent">
+                    <p-dropdown [options]="conrentoptions" (onChange)="addAnotherContentFormd($event.value,'')" #dropDownPCType></p-dropdown>
+                    <!--<a (click)="addAnotherContentForm()" style="cursor: default" class="btn btn-primary btn-sm">
+                        Add another +
+                    </a>-->
+                </div>
+            </div>
+            <!--<div class="col-12">
+                <div class="form-group">
+                    <label for="pagecontent">Page Content </label>
+                    <input type="text" class="form-control" id="pagecontent" aria-describedby="emailHelp" placeholder="Enter Content" pInputText formControlName="pagecontent">
+                </div>
+            </div>-->
+            <!--<div class="col-12">
+                <div class="form-group">
+                    <label for="pagecontent">Page Content </label>
+                    <input type="text" class="form-control" id="pagecontent" aria-describedby="emailHelp" placeholder="Enter Content" pInputText formControlName="pagecontent">
+                </div>
+            </div>-->
+            <div class="col-12">
+                <div class="form-group">
+                    <label for="Remarks">Remarks</label>
+                    <textarea class="form-control" id="Remarks" aria-describedby="emailHelp" placeholder="Enter remarks" pInputText formControlName="remarks"></textarea>
+                </div>
+
+            </div>
+
+            <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                <!--<button type="button" pButton icon="fa-close" (click)="delete()" label="Delete" *ngIf="!isNewForm"></button>-->
+                <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+            </div>
+        </div>
+    </form>
+
+    <!--<div class="margin-20">
+
+        <pre>form value: <br>{{mainFrm.value | json}}</pre>
+
+    </div>-->
+
+
+
+    <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <span class="sr-only">Error:</span>
+        {{msg}}
+    </div>
+
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+

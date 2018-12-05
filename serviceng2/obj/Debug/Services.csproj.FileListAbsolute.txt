@@ -1,0 +1,284 @@
+E:\Test\ebrickkiln\USoftEducation\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\csc.exe
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\System.Collections.Immutable.dll
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\System.Reflection.Metadata.dll
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\vbc.exe
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\VBCSCompiler.exe
+E:\Test\ebrickkiln\USoftEducation\bin\roslyn\VBCSCompiler.exe.config
+E:\Test\ebrickkiln\USoftEducation\bin\USoftEducation.dll
+E:\Test\ebrickkiln\USoftEducation\bin\USoftEducation.pdb
+E:\Test\ebrickkiln\USoftEducation\bin\Antlr3.Runtime.dll
+E:\Test\ebrickkiln\USoftEducation\bin\BusinessEntities.dll
+E:\Test\ebrickkiln\USoftEducation\bin\EntityFramework.dll
+E:\Test\ebrickkiln\USoftEducation\bin\EntityFramework.SqlServer.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Google.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Web.Infrastructure.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Newtonsoft.Json.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Owin.dll
+E:\Test\ebrickkiln\USoftEducation\bin\R.BAL.dll
+E:\Test\ebrickkiln\USoftEducation\bin\R.Resolver.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Net.Http.Formatting.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Helpers.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Http.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Http.Owin.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Http.WebHost.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Mvc.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Optimization.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Razor.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Deployment.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.WebPages.dll
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Razor.dll
+E:\Test\ebrickkiln\USoftEducation\bin\Unity.WebApi.dll
+E:\Test\ebrickkiln\USoftEducation\bin\WebGrease.dll
+E:\Test\ebrickkiln\USoftEducation\bin\DAL.dll
+E:\Test\ebrickkiln\USoftEducation\bin\R.BAL.pdb
+E:\Test\ebrickkiln\USoftEducation\bin\BusinessEntities.pdb
+E:\Test\ebrickkiln\USoftEducation\bin\R.Resolver.pdb
+E:\Test\ebrickkiln\USoftEducation\bin\Antlr3.Runtime.pdb
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Newtonsoft.Json.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Net.Http.Formatting.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Helpers.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Http.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Http.WebHost.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Mvc.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Optimization.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Razor.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.WebPages.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Deployment.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Razor.xml
+E:\Test\ebrickkiln\USoftEducation\bin\EntityFramework.xml
+E:\Test\ebrickkiln\USoftEducation\bin\EntityFramework.SqlServer.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Google.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Test\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Test\ebrickkiln\USoftEducation\bin\System.Web.Http.Owin.xml
+E:\Test\ebrickkiln\USoftEducation\bin\DAL.pdb
+E:\Test\ebrickkiln\USoftEducation\obj\Debug\USoftEducation.dll
+E:\Test\ebrickkiln\USoftEducation\obj\Debug\USoftEducation.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\AutoMapper.Net4.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\csc.exe
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\System.Collections.Immutable.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\System.Reflection.Metadata.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\vbc.exe
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\VBCSCompiler.exe
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\roslyn\VBCSCompiler.exe.config
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\USoftEducation.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\USoftEducation.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Antlr3.Runtime.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\BusinessEntities.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\EntityFramework.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\EntityFramework.SqlServer.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Google.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Newtonsoft.Json.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Owin.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\R.BAL.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\R.Resolver.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Net.Http.Formatting.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Helpers.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Http.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Http.Owin.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Http.WebHost.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Mvc.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Optimization.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Razor.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.WebPages.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Unity.WebApi.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\WebGrease.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\DAL.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\R.BAL.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\BusinessEntities.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\R.Resolver.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Antlr3.Runtime.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Newtonsoft.Json.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Net.Http.Formatting.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Helpers.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Http.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Http.WebHost.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Mvc.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Optimization.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Razor.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.WebPages.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\EntityFramework.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\EntityFramework.SqlServer.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Google.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\System.Web.Http.Owin.xml
+E:\Test\token test\1\ebrickkiln\USoftEducation\bin\DAL.pdb
+E:\Test\token test\1\ebrickkiln\USoftEducation\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\ebrickkiln\USoftEducation\obj\Debug\USoftEducation.dll
+E:\Test\token test\1\ebrickkiln\USoftEducation\obj\Debug\USoftEducation.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\csc.exe
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\System.Collections.Immutable.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\System.Reflection.Metadata.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\vbc.exe
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\VBCSCompiler.exe
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\roslyn\VBCSCompiler.exe.config
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\USoftEducation.dll.config
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\USoftEducation.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\USoftEducation.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Antlr3.Runtime.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\EntityFramework.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\EntityFramework.SqlServer.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Google.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Newtonsoft.Json.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Owin.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\R.BAL.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\R.Resolver.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Net.Http.Formatting.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Helpers.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Http.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Http.Owin.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Http.WebHost.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Optimization.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Unity.WebApi.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\WebGrease.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\DAL.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\R.BAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\R.Resolver.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Antlr3.Runtime.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Newtonsoft.Json.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Net.Http.Formatting.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Helpers.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Http.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Http.WebHost.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Optimization.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\EntityFramework.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\EntityFramework.SqlServer.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Google.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\System.Web.Http.Owin.xml
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\bin\DAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\obj\Debug\USoftEducation.dll
+E:\Test\token test\1\2015\ebrickkiln\USoftEducation\obj\Debug\USoftEducation.pdb

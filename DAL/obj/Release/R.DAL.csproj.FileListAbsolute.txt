@@ -1,0 +1,198 @@
+D:\gs\Project\8916\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\8916\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\8916\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\8916\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\8916\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\8916\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\8916\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\8916\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\8916\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\8916\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\project\DAL\obj\Release\DAL.pdb
+E:\10-4-16\project\DAL\bin\Release\DAL.dll.config
+E:\10-4-16\project\DAL\bin\Release\DAL.dll
+E:\10-4-16\project\DAL\bin\Release\DAL.pdb
+E:\10-4-16\project\DAL\bin\Release\EntityFramework.dll
+E:\10-4-16\project\DAL\bin\Release\R.Resolver.dll
+E:\10-4-16\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\10-4-16\project\DAL\bin\Release\R.Resolver.pdb
+E:\10-4-16\project\DAL\bin\Release\EntityFramework.xml
+E:\10-4-16\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\DAL\obj\Release\DAL.dll
+E:\10-4-16\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\17-10-16\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\17-10-16\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\17-10-16\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\17-10-16\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\17-10-16\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\19-10-16 H\project\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\obj\Release\DAL.pdb
+E:\20-10-16\project\project\DAL\bin\Release\DAL.dll.config
+E:\20-10-16\project\project\DAL\bin\Release\DAL.dll
+E:\20-10-16\project\project\DAL\bin\Release\DAL.pdb
+E:\20-10-16\project\project\DAL\bin\Release\EntityFramework.dll
+E:\20-10-16\project\project\DAL\bin\Release\R.Resolver.dll
+E:\20-10-16\project\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\20-10-16\project\project\DAL\bin\Release\R.Resolver.pdb
+E:\20-10-16\project\project\DAL\bin\Release\EntityFramework.xml
+E:\20-10-16\project\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+E:\20-10-16\project\project\DAL\obj\Release\DAL.dll
+E:\20-10-16\project\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\project\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\project\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\project\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\project\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\project\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\project\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\project\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\project\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\project\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\30-11-16\project\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\30-11-16\project\DAL\bin\Release\DAL.dll
+D:\gs\Project\30-11-16\project\DAL\bin\Release\DAL.pdb
+D:\gs\Project\30-11-16\project\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\30-11-16\project\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\30-11-16\project\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\30-11-16\project\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\30-11-16\project\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\30-11-16\project\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\30-11-16\project\DAL\obj\Release\DAL.dll
+D:\gs\Project\30-11-16\project\DAL\obj\Release\DAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\DAL.dll.config
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\DAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\DAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\EntityFramework.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\EntityFramework.xml
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Release\DAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Release\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\DAL.dll.config
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\EntityFramework.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Release\EntityFramework.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Release\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Release\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\DAL.dll.config
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\EntityFramework.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\EntityFramework.SqlServer.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\EntityFramework.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\EntityFramework.SqlServer.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Release\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\R.DAL.csproj.GenerateResource.Cache
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\DAL.Migrations.anotherinitialmigration.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\DAL.Migrations.currentminmaxpricesaddedtoitem.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\DAL.Migrations.ordertableanduuidcoladded.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Release\DAL.Migrations.itemorderedpricecoladded.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\DAL.dll.config
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\EntityFramework.SqlServer.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\EntityFramework.SqlServer.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\R.DAL.csproj.GenerateResource.Cache
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.AspNet.Identity.Core.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Release\Microsoft.AspNet.Identity.Core.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.initialdb.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.allowednullvalues.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.datenull.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.classidchanged.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.academicdetailrenamed.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.subjectinblog.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Release\DAL.Migrations.studentemaildistrictpin.resources

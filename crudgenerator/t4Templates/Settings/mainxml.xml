@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="Settings">
+  <Element Name="SettingsModelid" Type="Guid"></Element>
+  <Element Name="SettingsType" Type="string"></Element>
+  <Element Name="SettingsContent" Type="string"></Element>
+</Root>

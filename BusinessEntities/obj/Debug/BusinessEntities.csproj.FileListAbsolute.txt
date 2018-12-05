@@ -1,0 +1,4 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BusinessEntities\obj\Debug\BusinessEntities.pdb

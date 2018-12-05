@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="lybsysModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="lybsysEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="TA_lib_ListAuthor" EntityType="lybsysModel.TA_lib_ListAuthor" />
+    <EntitySet Name="TA_lib_BinderMaster" EntityType="lybsysModel.TA_lib_BinderMaster" />
+    <EntitySet Name="TA_lib_PublisherMaster" EntityType="lybsysModel.TA_lib_PublisherMaster" />
+    <EntitySet Name="TA_lib_SourceMaster" EntityType="lybsysModel.TA_lib_SourceMaster" />
+    <EntitySet Name="TA_lib_BookMaster" EntityType="lybsysModel.TA_lib_BookMaster" />
+  </EntityContainer>
+  <EntityType Name="TA_lib_ListAuthor">
+    <Key>
+      <PropertyRef Name="authorid" />
+    </Key>
+    <Property Name="Authors" Type="String" MaxLength="255" Unicode="true" FixedLength="false" />
+    <Property Name="FontName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="authorid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="TA_lib_BinderMaster">
+    <Key>
+      <PropertyRef Name="BinderId" />
+    </Key>
+    <Property Type="Int32" Name="BinderId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="PName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Address" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="City" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="State" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Zip" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Phone" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Mobile" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Comments" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Deleted" Nullable="false" />
+    <Property Type="String" Name="BLanguage" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FontName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UserName" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TA_lib_PublisherMaster">
+    <Key>
+      <PropertyRef Name="PublisherID" />
+    </Key>
+    <Property Type="Int32" Name="PublisherID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="PName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Address" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="City" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="State" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Zip" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Phone" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Mobile" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Comments" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Deleted" Nullable="false" />
+    <Property Type="String" Name="BLanguage" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FontName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UserName" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TA_lib_SourceMaster">
+    <Key>
+      <PropertyRef Name="SourceId" />
+    </Key>
+    <Property Type="Int32" Name="SourceId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="PName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Address" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="City" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="State" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Zip" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Phone" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Mobile" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Email" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Comments" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Boolean" Name="Deleted" Nullable="false" />
+    <Property Type="String" Name="BLanguage" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FontName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UserName" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TA_lib_BookMaster">
+    <Key>
+      <PropertyRef Name="Bookid" />
+    </Key>
+    <Property Type="Int32" Name="Bookid" Nullable="false" />
+    <Property Type="String" Name="ReceiveDate" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BookType" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="AccessionId" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BLanguage" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Class" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BookTitle" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Author1" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Author2" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Author3" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Author4" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Edition" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="PublisherID" />
+    <Property Type="String" Name="YearOfPublication" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Pages" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Volume" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ISBN" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PurchaseOrGrant" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="Source" />
+    <Property Type="String" Name="BillNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BillDate" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Double" Name="Price" />
+    <Property Type="Double" Name="DicountPer" />
+    <Property Type="Double" Name="DiscountAmnt" />
+    <Property Type="String" Name="Format" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Condition" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ClassificationNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Classification" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BookCode" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CollectionName" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Medium" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Height" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="RackNo" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ReceivedBy" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="IssueAgainst" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="MaxStudents" />
+    <Property Type="Int32" Name="MaxTeachers" />
+    <Property Type="Double" Name="FineAfterDue" />
+    <Property Type="Double" Name="Slab1st" />
+    <Property Type="Double" Name="Slab2nd" />
+    <Property Type="Double" Name="Slab3rd" />
+    <Property Type="Double" Name="Slab4th" />
+    <Property Type="String" Name="OtherDetails" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TitlePagePic" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="BackPagePic" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="DisposalNo" />
+    <Property Type="String" Name="Library" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FontName" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UserName" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Status" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strAlmirahNo" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strSubTitle" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strEditor" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strAuthor5" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strAuthor6" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strAuthor7" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strAuthor8" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="strCurrencyName" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,12 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BusinessEntities.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\DAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\BusinessEntities.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\DAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\obj\Debug\BAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\obj\Debug\BAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\R.Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\BAL\bin\Debug\R.Resolver.pdb

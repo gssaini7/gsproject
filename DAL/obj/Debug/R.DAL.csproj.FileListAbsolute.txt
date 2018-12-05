@@ -1,0 +1,713 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\DAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\DAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\R.Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\R.Resolver.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\obj\Debug\DAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\obj\Debug\DAL.pdb
+F:\Data\Templates\T2\Template\DAL\bin\Debug\DAL.dll
+F:\Data\Templates\T2\Template\DAL\bin\Debug\DAL.pdb
+F:\Data\Templates\T2\Template\DAL\bin\Debug\R.Resolver.dll
+F:\Data\Templates\T2\Template\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Data\Templates\T2\Template\DAL\bin\Debug\R.Resolver.pdb
+F:\Data\Templates\T2\Template\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+F:\Data\Templates\T2\Template\DAL\obj\Debug\DAL.dll
+F:\Data\Templates\T2\Template\DAL\obj\Debug\DAL.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\DAL.dll.config
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\DAL.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\DAL.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\EntityFramework.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\R.Resolver.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\R.Resolver.pdb
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\bin\Debug\EntityFramework.xml
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\obj\Debug\DAL.dll
+F:\Hartron\Food Supply\Weighs and measures\MVC website\Template\DAL\obj\Debug\DAL.pdb
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\DAL.dll.config
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\DAL.dll
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\DAL.pdb
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Hartron\FSLM new\Template\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Hartron\FSLM new\Template\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Hartron\FSLM new\Template\DAL\obj\Debug\DAL.dll
+D:\gs\Hartron\FSLM new\Template\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\DAL\obj\Debug\DAL.pdb
+E:\13-7-16\Project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\13-7-16\Project\project\DAL\obj\Debug\DAL.dll
+E:\13-7-16\Project\project\DAL\obj\Debug\DAL.pdb
+E:\13-7-16\Project\project\DAL\bin\Debug\DAL.dll.config
+E:\13-7-16\Project\project\DAL\bin\Debug\DAL.dll
+E:\13-7-16\Project\project\DAL\bin\Debug\DAL.pdb
+E:\13-7-16\Project\project\DAL\bin\Debug\EntityFramework.dll
+E:\13-7-16\Project\project\DAL\bin\Debug\R.Resolver.dll
+E:\13-7-16\Project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\13-7-16\Project\project\DAL\bin\Debug\R.Resolver.pdb
+E:\13-7-16\Project\project\DAL\bin\Debug\EntityFramework.xml
+E:\14-7-16\Project\project\DAL\bin\Debug\DAL.dll.config
+E:\14-7-16\Project\project\DAL\bin\Debug\DAL.dll
+E:\14-7-16\Project\project\DAL\bin\Debug\DAL.pdb
+E:\14-7-16\Project\project\DAL\bin\Debug\EntityFramework.dll
+E:\14-7-16\Project\project\DAL\bin\Debug\R.Resolver.dll
+E:\14-7-16\Project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\14-7-16\Project\project\DAL\bin\Debug\R.Resolver.pdb
+E:\14-7-16\Project\project\DAL\bin\Debug\EntityFramework.xml
+E:\14-7-16\Project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\14-7-16\Project\project\DAL\obj\Debug\DAL.dll
+E:\14-7-16\Project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\14-7-16 H\Project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\14-7-16 H\Project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\14-7-16 H\Project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\14-7-16 H\Project\project\DAL\obj\Debug\DAL.pdb
+E:\19-7-16\Project\project\DAL\bin\Debug\DAL.dll.config
+E:\19-7-16\Project\project\DAL\bin\Debug\DAL.dll
+E:\19-7-16\Project\project\DAL\bin\Debug\DAL.pdb
+E:\19-7-16\Project\project\DAL\bin\Debug\EntityFramework.dll
+E:\19-7-16\Project\project\DAL\bin\Debug\R.Resolver.dll
+E:\19-7-16\Project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-7-16\Project\project\DAL\bin\Debug\R.Resolver.pdb
+E:\19-7-16\Project\project\DAL\bin\Debug\EntityFramework.xml
+E:\19-7-16\Project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\19-7-16\Project\project\DAL\obj\Debug\DAL.dll
+E:\19-7-16\Project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\20-7-16\Project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\20-7-16\Project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\20-7-16\Project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\20-7-16\Project\project\DAL\obj\Debug\DAL.pdb
+E:\3-8-16\project\DAL\bin\Debug\DAL.dll.config
+E:\3-8-16\project\DAL\bin\Debug\DAL.dll
+E:\3-8-16\project\DAL\bin\Debug\DAL.pdb
+E:\3-8-16\project\DAL\bin\Debug\EntityFramework.dll
+E:\3-8-16\project\DAL\bin\Debug\R.Resolver.dll
+E:\3-8-16\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\3-8-16\project\DAL\bin\Debug\R.Resolver.pdb
+E:\3-8-16\project\DAL\bin\Debug\EntityFramework.xml
+E:\3-8-16\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\3-8-16\project\DAL\obj\Debug\DAL.dll
+E:\3-8-16\project\DAL\obj\Debug\DAL.pdb
+E:\4-8-16\project\DAL\bin\Debug\DAL.dll.config
+E:\4-8-16\project\DAL\bin\Debug\DAL.dll
+E:\4-8-16\project\DAL\bin\Debug\DAL.pdb
+E:\4-8-16\project\DAL\bin\Debug\EntityFramework.dll
+E:\4-8-16\project\DAL\bin\Debug\R.Resolver.dll
+E:\4-8-16\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\4-8-16\project\DAL\bin\Debug\R.Resolver.pdb
+E:\4-8-16\project\DAL\bin\Debug\EntityFramework.xml
+E:\4-8-16\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\4-8-16\project\DAL\obj\Debug\DAL.dll
+E:\4-8-16\project\DAL\obj\Debug\DAL.pdb
+E:\project\DAL\bin\Debug\DAL.dll.config
+E:\project\DAL\bin\Debug\DAL.dll
+E:\project\DAL\bin\Debug\DAL.pdb
+E:\project\DAL\bin\Debug\EntityFramework.dll
+E:\project\DAL\bin\Debug\R.Resolver.dll
+E:\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\project\DAL\bin\Debug\R.Resolver.pdb
+E:\project\DAL\bin\Debug\EntityFramework.xml
+E:\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\project\DAL\obj\Debug\DAL.dll
+E:\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\7-9-16 H\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\7-9-16 H\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\7-9-16 H\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\7-9-16 H\project\DAL\obj\Debug\DAL.pdb
+E:\8-9-16\project\DAL\bin\Debug\DAL.dll.config
+E:\8-9-16\project\DAL\bin\Debug\DAL.dll
+E:\8-9-16\project\DAL\bin\Debug\DAL.pdb
+E:\8-9-16\project\DAL\bin\Debug\EntityFramework.dll
+E:\8-9-16\project\DAL\bin\Debug\R.Resolver.dll
+E:\8-9-16\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\8-9-16\project\DAL\bin\Debug\R.Resolver.pdb
+E:\8-9-16\project\DAL\bin\Debug\EntityFramework.xml
+E:\8-9-16\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\8-9-16\project\DAL\obj\Debug\DAL.dll
+E:\8-9-16\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\8916\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\8916\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\8916\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\8916\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\8916\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\8916\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\8916\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\8916\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\8916\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\8916\project\DAL\obj\Debug\DAL.pdb
+E:\19-9-16\project\DAL\bin\Debug\DAL.dll.config
+E:\19-9-16\project\DAL\bin\Debug\DAL.dll
+E:\19-9-16\project\DAL\bin\Debug\DAL.pdb
+E:\19-9-16\project\DAL\bin\Debug\EntityFramework.dll
+E:\19-9-16\project\DAL\bin\Debug\R.Resolver.dll
+E:\19-9-16\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-9-16\project\DAL\bin\Debug\R.Resolver.pdb
+E:\19-9-16\project\DAL\bin\Debug\EntityFramework.xml
+E:\19-9-16\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\19-9-16\project\DAL\obj\Debug\DAL.dll
+E:\19-9-16\project\DAL\obj\Debug\DAL.pdb
+E:\10-4-16\project\DAL\bin\Debug\DAL.dll.config
+E:\10-4-16\project\DAL\bin\Debug\DAL.dll
+E:\10-4-16\project\DAL\bin\Debug\DAL.pdb
+E:\10-4-16\project\DAL\bin\Debug\EntityFramework.dll
+E:\10-4-16\project\DAL\bin\Debug\R.Resolver.dll
+E:\10-4-16\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\10-4-16\project\DAL\bin\Debug\R.Resolver.pdb
+E:\10-4-16\project\DAL\bin\Debug\EntityFramework.xml
+E:\10-4-16\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\DAL\obj\Debug\DAL.dll
+E:\10-4-16\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\17-10-16\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\17-10-16\project\DAL\obj\Debug\DAL.pdb
+E:\18-10-16\project\project\DAL\bin\Debug\DAL.dll.config
+E:\18-10-16\project\project\DAL\bin\Debug\DAL.dll
+E:\18-10-16\project\project\DAL\bin\Debug\DAL.pdb
+E:\18-10-16\project\project\DAL\bin\Debug\EntityFramework.dll
+E:\18-10-16\project\project\DAL\bin\Debug\R.Resolver.dll
+E:\18-10-16\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\18-10-16\project\project\DAL\bin\Debug\R.Resolver.pdb
+E:\18-10-16\project\project\DAL\bin\Debug\EntityFramework.xml
+E:\18-10-16\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\18-10-16\project\project\DAL\obj\Debug\DAL.dll
+E:\18-10-16\project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16\project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\19-10-16\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16\project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\19-10-16\project\project\DAL\obj\Debug\DAL.pdb
+E:\19-10-16\project\project\DAL\bin\Debug\DAL.dll.config
+E:\19-10-16\project\project\DAL\bin\Debug\DAL.dll
+E:\19-10-16\project\project\DAL\bin\Debug\DAL.pdb
+E:\19-10-16\project\project\DAL\bin\Debug\EntityFramework.dll
+E:\19-10-16\project\project\DAL\bin\Debug\R.Resolver.dll
+E:\19-10-16\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-10-16\project\project\DAL\bin\Debug\R.Resolver.pdb
+E:\19-10-16\project\project\DAL\bin\Debug\EntityFramework.xml
+E:\19-10-16\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\19-10-16\project\project\DAL\obj\Debug\DAL.dll
+E:\19-10-16\project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\19-10-16 H\project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\19-10-16 H\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\19-10-16 H\project\project\DAL\obj\Debug\DAL.pdb
+E:\20-10-16\project\project\DAL\bin\Debug\DAL.dll.config
+E:\20-10-16\project\project\DAL\bin\Debug\DAL.dll
+E:\20-10-16\project\project\DAL\bin\Debug\DAL.pdb
+E:\20-10-16\project\project\DAL\bin\Debug\EntityFramework.dll
+E:\20-10-16\project\project\DAL\bin\Debug\R.Resolver.dll
+E:\20-10-16\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\20-10-16\project\project\DAL\bin\Debug\R.Resolver.pdb
+E:\20-10-16\project\project\DAL\bin\Debug\EntityFramework.xml
+E:\20-10-16\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\20-10-16\project\project\DAL\obj\Debug\DAL.dll
+E:\20-10-16\project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\Base Template\project\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\Base Template\project\DAL\bin\Debug\DAL.dll
+D:\gs\Project\Base Template\project\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\Base Template\project\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\Base Template\project\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\Base Template\project\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\Base Template\project\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\Base Template\project\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\Base Template\project\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\Base Template\project\DAL\obj\Debug\DAL.dll
+D:\gs\Project\Base Template\project\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\DAL.dll
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\Libsys\project elibsys\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\Libsys\project elibsys\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\Libsys\project elibsys\DAL\obj\Debug\DAL.dll
+D:\gs\Project\Libsys\project elibsys\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\DAL.dll
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\DAL.pdb
+D:\gs\Project\USS\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\DAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\19-7-17\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\19-7-17\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\19-7-17\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\19-7-17\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick with manager\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\Test\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\Test\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\Test\ebrickkiln\DAL\bin\Debug\BusinessEntities.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\BusinessEntities.pdb
+E:\Test\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\Test\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\Test\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\Test\ebrickkiln\DAL\obj\Debug\DAL.Migrations.InitialMigrationGS.resources
+E:\Test\ebrickkiln\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\Test\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\Test\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\Test\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\ebrickkiln\DAL\obj\Debug\DAL.Migrations.InitialMigrationGS.resources
+E:\Test\token test\1\ebrickkiln\DAL\obj\Debug\DAL.Migrations.ispublished_added.resources
+E:\Test\token test\1\ebrickkiln\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\Test\token test\1\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\Test\token test\1\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrickkiln\DAL\obj\Debug\DAL.Migrations.InitialMigrationGS.resources
+E:\Test\token test\1\2015\ebrickkiln\DAL\obj\Debug\DAL.Migrations.ispublished_added.resources
+E:\Test\token test\1\2015\ebrickkiln\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\Test\token test\1\2015\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\Test\token test\1\2015\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\BusinessEntities.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.Razor.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\BusinessEntities.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.Razor.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\obj\Debug\DAL.Migrations.InitialMigrationGS.resources
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\obj\Debug\DAL.Migrations.ispublished_added.resources
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\Test\token test\1\2015\ebrick with ng2\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\BusinessEntities.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.Razor.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\BusinessEntities.pdb
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.Razor.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ng web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.InitialMigrationGS.resources
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.ispublished_added.resources
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.Itemtypesadded.resources
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.itemmodeladded.resources
+E:\Test\ng web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.itemtypefixedcolumadded.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\DAL.dll.config
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\EntityFramework.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\EntityFramework.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.anotherinitialmigration.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.currentminmaxpricesaddedtoitem.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.ordertableanduuidcoladded.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.itemorderedpricecoladded.resources
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\DAL\obj\Debug\DAL.Migrations.settingsadded.resources
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\DAL.dll.config
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\DAL.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\DAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\DAL.Migrations.clientdetailadded.resources
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\DAL.Migrations.clientdetailemailmobileadded.resources
+E:\b\Project\USS\Usofts\usofts angular\gsproject\DAL\obj\Debug\DAL.Migrations.pagemodeladded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\DAL.dll.config
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\DAL.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\DAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\EntityFramework.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\R.Resolver.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\EntityFramework.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.clientdetailadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.clientdetailemailmobileadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.pagemodeladded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.dll
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.pdb
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.Menumodeladded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.Menumodelcommonmodeladded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.menuitemsandlayoutadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.refrenceoflayoutandmenuadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.layoutidaddedtomenu.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.itempriorityadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.itempriorityaddedmodelchnaged.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.albumandimagegalleryadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.albumfkaddedtoimagegallery.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.topmenuaddedtolayoutandsitetableadded.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.layoutsiterelationcreated2.resources
+E:\b\Project\USS\Usofts\usofts angular\layout change\gsproject\DAL\obj\Debug\DAL.Migrations.trashaddedtotables.resources
+E:\Test\ea app\gsproject\DAL\bin\Debug\DAL.dll.config
+E:\Test\ea app\gsproject\DAL\bin\Debug\DAL.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\DAL.pdb
+E:\Test\ea app\gsproject\DAL\bin\Debug\BusinessEntities.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\EntityFramework.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\R.Resolver.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.Mvc.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.Razor.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.WebPages.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Test\ea app\gsproject\DAL\bin\Debug\BusinessEntities.pdb
+E:\Test\ea app\gsproject\DAL\bin\Debug\R.Resolver.pdb
+E:\Test\ea app\gsproject\DAL\bin\Debug\EntityFramework.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.Mvc.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.Razor.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.WebPages.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Test\ea app\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Test\ea app\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Test\ea app\gsproject\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.dll
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.pdb
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.Migrations.initialdball.resources
+E:\Test\ea app\gsproject\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.Migrations.notificationschedulemodeladded.resources
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.Migrations.blogtypeadded.resources
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.Migrations.blogtypenameadded.resources
+E:\Test\ea app\gsproject\DAL\obj\Debug\DAL.Migrations.blogtyperelationremoved.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\DAL.dll.config
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\R.DAL.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\b\Project\eacademics\APP\web\gsproject\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.initialdb.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\R.DAL.csproj.GenerateResource.Cache
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.allowednullvalues.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.datenull.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.classidchanged.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.academicdetailrenamed.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.subjectinblog.resources
+E:\b\Project\eacademics\APP\web\gsproject\DAL\obj\Debug\DAL.Migrations.studentemaildistrictpin.resources

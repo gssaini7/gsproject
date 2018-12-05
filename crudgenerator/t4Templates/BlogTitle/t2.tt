@@ -1,0 +1,13 @@
+﻿<#@ template debug="false" hostspecific="true" language="C#" #>  
+<#@ output extension=".txt" #>  
+<#@ assembly name="EnvDTE" #>  
+<#@ import namespace="EnvDTE" #>  
+<#@ import namespace="System.IO" #>  
+
+  
+<#  
+ // Find a path within the current project:  
+ string myFile = File.ReadAllText(this.Host.ResolvePath("BlogTitle.xml"));  
+#>  
+Content of myFile is:  
+<#= myFile #> 

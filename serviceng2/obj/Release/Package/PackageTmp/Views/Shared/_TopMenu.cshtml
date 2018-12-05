@@ -1,0 +1,59 @@
+﻿@model  R.BusinessEntities.PageModelToDisplay
+@using ussmain.Models.HtmlHelpers
+
+
+@{ 
+    var menu = Model.Layout.MainMenu;
+}
+
+@if(menu == null){
+    return;
+}
+
+<nav class="gtco-nav" role="navigation">
+    <div class="gtco-container">
+        <div class="row">
+            <div class="col-xs-2">
+                <div id="gtco-logo">
+                    <a href='@Url.Action("Index","Home")'>
+                        <img src="~/ReadWrite/@Model.Layout.SiteLogo" class="img-responsive" alt="usofts logo" />
+                    </a>
+                </div>
+            </div>
+            <div class="col-xs-10 text-right menu-1">
+                <ul class="@menu.MenuClass" >
+                    @foreach (var menuitem in menu.MenuItems.Where(p => p.Parentid == Guid.Empty))
+                    {
+                        var childmenu = menu.MenuItems.Where(p => p.Parentid == menuitem.MenuItemModelid);
+                        if (childmenu.Any())
+                        {
+                            <li class="@menuitem.Classli">
+                                <a href="/@menuitem.ItemLink" class="@menuitem.Classa">@menuitem.ItemText</a>
+                                <ul class="dropdown">
+                                    @foreach (var childitem in childmenu)
+                                    {
+                                        <li class="@childitem.Classli @Html.ActivePage("Main", "Index", @childitem.ItemLink)">
+                                            <a href="/@childitem.ItemLink" class="@childitem.Classa">@childitem.ItemText</a>
+                                        </li>
+                                    }
+                                </ul>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="@menuitem.Classli @Html.ActivePage("Main", "Index", @menuitem.ItemLink)">
+                                <a href="/@menuitem.ItemLink" class="@menuitem.Classa">@menuitem.ItemText</a>
+                            </li>
+                        }
+                    }
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</nav>
+
+
+
+
+

@@ -1,0 +1,40 @@
+
+	<div class="col-md-6">
+
+		<div class="card">
+            <div class="card-header">
+                <h4>Change Password</h4>
+            </div>
+			<div class="card-body">
+
+				<form #f="ngForm" novalidate (ngSubmit)="changepassword(f)">
+
+					<div class="form-group">
+						<label for="OldPassword">Old Password</label>
+						<input id="OldPassword" type="password" required name="OldPassword"  tmFocus class="form-control"	placeholder="Old Password" ngModel>
+					</div>
+
+					<div class="form-group">
+						<label for="NewPassword">New Password</label>
+						<input id="NewPassword" type="password" required name="NewPassword" class="form-control"	placeholder="New Password" ngModel>
+					</div>
+                    <div class="form-group">
+                        <label for="confirmpassword">Confirm Password</label>
+                        <input id="confirmpassword" type="password" required name="confirmpassword" class="form-control" placeholder="Confirm Password" ngModel>
+                    </div>
+
+					<div class="form-group">
+						<button type="submit" class="btn btn-primary" [disabled]="f.invalid || isRequesting">Reset</button>
+						<!--<app-spinner [isRunning]="isRequesting"></app-spinner>-->
+					</div>
+
+                    <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <span class="sr-only">Error:</span>
+                        {{msg}}
+                    </div>
+				</form>
+
+			</div>
+		</div>
+	</div>

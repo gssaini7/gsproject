@@ -1,0 +1,204 @@
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\csc.exe
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\System.Collections.Immutable.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\System.Reflection.Metadata.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\vbc.exe
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\VBCSCompiler.exe
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\roslyn\VBCSCompiler.exe.config
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\USoftEducation.dll.config
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\USoftEducation.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\USoftEducation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Antlr3.Runtime.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\EntityFramework.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\EntityFramework.SqlServer.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Google.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Newtonsoft.Json.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Owin.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\R.BAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Net.Http.Formatting.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Helpers.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.Owin.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.WebHost.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Optimization.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Unity.WebApi.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\WebGrease.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\R.BAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Antlr3.Runtime.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Newtonsoft.Json.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Net.Http.Formatting.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Helpers.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.WebHost.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Optimization.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\EntityFramework.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\EntityFramework.SqlServer.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Google.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.Owin.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\obj\Release\Services2.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\obj\Release\USoftEducation.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\obj\Release\USoftEducation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Cors.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.Cors.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\System.Web.Http.Cors.xml
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Cors.dll
+E:\b\Project\Bar app\web\ebrickkiln\serviceng2\bin\Microsoft.Owin.Cors.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\csc.exe
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\System.Collections.Immutable.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\System.Reflection.Metadata.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\vbc.exe
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\VBCSCompiler.exe
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\roslyn\VBCSCompiler.exe.config
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\USoftEducation.dll.config
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\USoftEducation.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\USoftEducation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Antlr3.Runtime.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\EntityFramework.SqlServer.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Cors.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Google.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Newtonsoft.Json.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Owin.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\R.BAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Net.Http.Formatting.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Cors.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Helpers.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.Cors.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.Owin.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.WebHost.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Optimization.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Unity.Mvc4.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Unity.WebApi.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\WebGrease.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\R.BAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Antlr3.Runtime.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Cors.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.Cors.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Newtonsoft.Json.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Net.Http.Formatting.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Helpers.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.WebHost.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Optimization.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\EntityFramework.SqlServer.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Google.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\System.Web.Http.Owin.xml
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\bin\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\obj\Release\Services2.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\obj\Release\Services2.csproj.GenerateResource.Cache
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\obj\Release\USoftEducation.dll
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\obj\Release\USoftEducation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\obj\Release\USoftEducation.Migrations.initialdb.resources
+E:\b\Project\eacademics\APP\web\gsproject\serviceng2\obj\Release\USoftEducation.Migrations.optionalentityitems.resources

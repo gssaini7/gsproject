@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="NotificationSchedule">
+  <Element Name="NotificationScheduleModelid" Type="Guid"></Element>
+  <Element Name="notificationsentdate" Type="DateTime"></Element>
+  <Element Name="classname" Type="string"></Element>
+</Root>

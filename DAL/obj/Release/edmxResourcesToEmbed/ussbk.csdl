@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ussdbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ussdbEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="ta_ussbk_categoryMaster" EntityType="ussdbModel.ta_ussbk_categoryMaster" />
+    <EntitySet Name="ta_ussbk_clientrecord" EntityType="ussdbModel.ta_ussbk_clientrecord" />
+    <EntitySet Name="ta_ussbk_Description" EntityType="ussdbModel.ta_ussbk_Description" />
+    <EntitySet Name="ta_ussbk_TitleMaster" EntityType="ussdbModel.ta_ussbk_TitleMaster" />
+    <AssociationSet Name="FK_ta_ussbk_Description_ta_ussbk_categoryMaster" Association="ussdbModel.FK_ta_ussbk_Description_ta_ussbk_categoryMaster">
+      <End Role="ta_ussbk_categoryMaster" EntitySet="ta_ussbk_categoryMaster" />
+      <End Role="ta_ussbk_Description" EntitySet="ta_ussbk_Description" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_ussbk_Description_ta_ussbk_TitleMaster" Association="ussdbModel.FK_ta_ussbk_Description_ta_ussbk_TitleMaster">
+      <End Role="ta_ussbk_TitleMaster" EntitySet="ta_ussbk_TitleMaster" />
+      <End Role="ta_ussbk_Description" EntitySet="ta_ussbk_Description" />
+    </AssociationSet>
+    <EntitySet Name="TA_ussbk_Coupons" EntityType="ussdbModel.TA_ussbk_Coupons" />
+    <EntitySet Name="ta_ussbk_ProjectDetail" EntityType="ussdbModel.ta_ussbk_ProjectDetail" />
+  </EntityContainer>
+  <EntityType Name="ta_ussbk_categoryMaster">
+    <Key>
+      <PropertyRef Name="catid" />
+    </Key>
+    <Property Name="catid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="catname" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="ta_ussbk_Description" Relationship="ussdbModel.FK_ta_ussbk_Description_ta_ussbk_categoryMaster" FromRole="ta_ussbk_categoryMaster" ToRole="ta_ussbk_Description" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_clientrecord">
+    <Key>
+      <PropertyRef Name="recordid" />
+    </Key>
+    <Property Name="recordid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="productname" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="productid" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="businessname" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="clientname" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="clientemail" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="contactmobile" Type="String" MaxLength="12" Unicode="false" FixedLength="false" />
+    <Property Name="clientaddress" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="formodule" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Type="String" Name="userrole" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="userblocked" />
+    <Property Type="DateTime" Name="expirydate" Precision="3" />
+    <Property Type="String" Name="upassword" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="remarks" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_Description">
+    <Key>
+      <PropertyRef Name="descriptionid" />
+    </Key>
+    <Property Name="descriptionid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="desctitile" Type="Int32" />
+    <Property Name="desccategory" Type="Int32" />
+    <Property Name="descvideolink" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="websitemodule" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="descanydescription" Type="String" MaxLength="500" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="ta_ussbk_categoryMaster" Relationship="ussdbModel.FK_ta_ussbk_Description_ta_ussbk_categoryMaster" FromRole="ta_ussbk_Description" ToRole="ta_ussbk_categoryMaster" />
+    <NavigationProperty Name="ta_ussbk_TitleMaster" Relationship="ussdbModel.FK_ta_ussbk_Description_ta_ussbk_TitleMaster" FromRole="ta_ussbk_Description" ToRole="ta_ussbk_TitleMaster" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_TitleMaster">
+    <Key>
+      <PropertyRef Name="titleid" />
+    </Key>
+    <Property Name="titleid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="titlename" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="ta_ussbk_Description" Relationship="ussdbModel.FK_ta_ussbk_Description_ta_ussbk_TitleMaster" FromRole="ta_ussbk_TitleMaster" ToRole="ta_ussbk_Description" />
+  </EntityType>
+  <Association Name="FK_ta_ussbk_Description_ta_ussbk_categoryMaster">
+    <End Type="ussdbModel.ta_ussbk_categoryMaster" Role="ta_ussbk_categoryMaster" Multiplicity="0..1" />
+    <End Type="ussdbModel.ta_ussbk_Description" Role="ta_ussbk_Description" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_ussbk_categoryMaster">
+        <PropertyRef Name="catid" />
+      </Principal>
+      <Dependent Role="ta_ussbk_Description">
+        <PropertyRef Name="desccategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_ussbk_Description_ta_ussbk_TitleMaster">
+    <End Type="ussdbModel.ta_ussbk_TitleMaster" Role="ta_ussbk_TitleMaster" Multiplicity="0..1" />
+    <End Type="ussdbModel.ta_ussbk_Description" Role="ta_ussbk_Description" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_ussbk_TitleMaster">
+        <PropertyRef Name="titleid" />
+      </Principal>
+      <Dependent Role="ta_ussbk_Description">
+        <PropertyRef Name="desctitile" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="TA_ussbk_Coupons">
+    <Key>
+      <PropertyRef Name="couponid" />
+    </Key>
+    <Property Type="Int32" Name="couponid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="couponcode" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="cmsgforuser" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="cAdminRemarks" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="cblocked" />
+    <Property Type="Int32" Name="camount" />
+  </EntityType>
+  <EntityType Name="ta_ussbk_ProjectDetail">
+    <Key>
+      <PropertyRef Name="amtdtid" />
+    </Key>
+    <Property Type="Int32" Name="amtdtid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="projectdetail" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

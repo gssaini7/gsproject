@@ -1,0 +1,99 @@
+
+<div class=''>
+    <div class=''>
+        <ul class="nav nav-tabs">
+            <li class="nav-item"><a class="nav-link" [ngClass]="{'active': 'SMS'===settingstype}" (click)="!!changetab('SMS')" href="#">SMS</a></li>
+            <li class="nav-item"><a class="nav-link" [ngClass]="{'active': 'Mail'===settingstype}" (click)="!!changetab('Mail')" href="#">eMail</a></li>
+            <li class="nav-item"><a class="nav-link" [ngClass]="{'active': 'OnlinePayment'===settingstype}" (click)="!!changetab('OnlinePayment')" href="#">Online Payment</a></li>
+        </ul>
+    </div>
+
+    <div [ngSwitch]="settingstype">
+
+
+        <div *ngSwitchCase="'SMS'">
+            <form novalidate [formGroup]="mainFrm">
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <input type="text" class="form-control" id="username" placeholder="Enter Username" pInputText formControlName="username">
+                </div>
+                <div class="form-group">
+                    <label for="msgtoken">Message Token</label>
+                    <input type="text" class="form-control" id="msgtoken" placeholder="Enter Message Token" pInputText formControlName="msgtoken">
+                </div>
+                <div class="form-group">
+                    <label for="senderid">Sender Id</label>
+                    <input type="text" class="form-control" id="senderid" placeholder="Enter Sender Id" pInputText formControlName="senderid">
+                </div>
+                <div class="form-group">
+                    <label for="apiurl">API URL</label>
+                    <input type="text" class="form-control" id="apiurl" placeholder="Enter API URL" pInputText formControlName="apiurl">
+                </div>
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                    </div>
+                </p-footer>
+            </form>
+        </div>
+        <div *ngSwitchCase="'Mail'">
+            <form novalidate [formGroup]="mainFrm">
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <input type="text" class="form-control" id="username" placeholder="Enter Username" pInputText formControlName="username">
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="text" class="form-control" id="password" placeholder="Enter Password" pInputText formControlName="password">
+                </div>
+                <div class="form-group">
+                    <label for="smtp">SMTP</label>
+                    <input type="text" class="form-control" id="smtp" placeholder="Enter SMTP" pInputText formControlName="smtp">
+                </div>
+                <div class="form-group">
+                    <label for="port">Port</label>
+                    <input type="text" class="form-control" id="port" placeholder="Enter Port" pInputText formControlName="port">
+                </div>
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                    </div>
+                </p-footer>
+            </form>
+
+
+        </div>
+        <div *ngSwitchCase="'OnlinePayment'">
+            <form novalidate [formGroup]="mainFrm">
+                <div class="form-group">
+                    <label for="api_key">API Key</label>
+                    <input type="text" class="form-control" id="api_key" placeholder="Enter API Key" pInputText formControlName="api_key">
+                </div>
+                <div class="form-group">
+                    <label for="salt">Salt</label>
+                    <input type="text" class="form-control" id="salt" placeholder="Enter Salt" pInputText formControlName="salt">
+                </div>
+                <div class="form-group">
+                    <label for="url">URL</label>
+                    <input type="text" class="form-control" id="url" placeholder="Enter URL" pInputText formControlName="url">
+                </div>
+                <p-footer>
+                    <div class="ui-dialog-buttonpane ui-helper-clearfix">
+                        <button type="button" pButton icon="fa-check" label="Save" (click)="save(mainFrm)" [disabled]="mainFrm.invalid"></button>
+                    </div>
+                </p-footer>
+            </form>
+        </div>
+    </div>
+
+
+        <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <span class="sr-only">Error:</span>
+            {{msg}}
+        </div>
+    
+</div>
+<p-growl [(value)]="msgs"></p-growl>
+
+

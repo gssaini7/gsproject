@@ -1,0 +1,56 @@
+﻿<#@ template language="C#"  hostspecific="true" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Xml" #>
+<#@ assembly name="EnvDTE" #>  
+<#@ import namespace="EnvDTE" #>  
+<#@ import namespace="System.Xml" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.IO" #>
+
+<#  
+ // Find a path within the current project:  
+ //var a=this.Host.ResolvePath("BlogTitle.xml");
+ string myFile = File.ReadAllText(this.Host.ResolvePath("BlogTitle.xml"));  
+#> 
+
+using System;
+ 
+namespace Examples
+{
+    public class ExampleClass
+    {
+        #region Enums
+ 
+        public enum eExampleEnum
+        {
+<#
+    foreach (string name in this.GetNames())   
+    {
+#>
+    <#= name #>,
+<# 
+    }
+        #>
+        }
+        
+        #endregion
+    }
+}
+<#+
+    public List<string> GetNames()
+    {
+	
+        List<string> result = new List<string>(); 
+        XmlDocument doc = new XmlDocument();
+		
+		string dirpath = Directory.GetCurrentDirectory();
+		Path.Combine(Directory.GetCurrentDirectory(), "BlogTitle.xml");
+        string absolutePath = this.Host.ResolvePath("BlogTitle.xml");                
+        doc.Load(absolutePath);
+        foreach (XmlNode node in doc.SelectNodes("/Root/Element"))
+        {
+            result.Add(node.Attributes["Name"].InnerText);
+        }
+        return result;
+    } 
+#>

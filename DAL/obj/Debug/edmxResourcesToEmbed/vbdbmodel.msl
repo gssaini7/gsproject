@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="vbdbModelStoreContainer" CdmEntityContainer="vbdbEntities">
+    <EntitySetMapping Name="ta_vb_Address">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_Address">
+        <MappingFragment StoreEntitySet="ta_vb_Address">
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+          <ScalarProperty Name="a_name" ColumnName="a_name" />
+          <ScalarProperty Name="address1" ColumnName="address1" />
+          <ScalarProperty Name="address2" ColumnName="address2" />
+          <ScalarProperty Name="a_city" ColumnName="a_city" />
+          <ScalarProperty Name="a_state" ColumnName="a_state" />
+          <ScalarProperty Name="a_country" ColumnName="a_country" />
+          <ScalarProperty Name="a_pin" ColumnName="a_pin" />
+          <ScalarProperty Name="a_mobile" ColumnName="a_mobile" />
+          <ScalarProperty Name="a_emailid" ColumnName="a_emailid" />
+          <ScalarProperty Name="a_city_id" ColumnName="a_city_id" />
+          <ScalarProperty Name="a_dealercompany" ColumnName="a_dealercompany" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_advertisement">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_advertisement">
+        <MappingFragment StoreEntitySet="ta_vb_advertisement">
+          <ScalarProperty Name="addvid" ColumnName="addvid" />
+          <ScalarProperty Name="addvtext" ColumnName="addvtext" />
+          <ScalarProperty Name="addvimage" ColumnName="addvimage" />
+          <ScalarProperty Name="addvpublish" ColumnName="addvpublish" />
+          <ScalarProperty Name="addvcreatedate" ColumnName="addvcreatedate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_City">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_City">
+        <MappingFragment StoreEntitySet="ta_vb_City">
+          <ScalarProperty Name="stateid" ColumnName="stateid" />
+          <ScalarProperty Name="cityid" ColumnName="cityid" />
+          <ScalarProperty Name="cityname" ColumnName="cityname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_Color">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_Color">
+        <MappingFragment StoreEntitySet="ta_vb_Color">
+          <ScalarProperty Name="colorid" ColumnName="colorid" />
+          <ScalarProperty Name="colorname" ColumnName="colorname" />
+          <ScalarProperty Name="colorcode" ColumnName="colorcode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_dealerproperty">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_dealerproperty">
+        <MappingFragment StoreEntitySet="ta_vb_dealerproperty">
+          <ScalarProperty Name="interestedin" ColumnName="interestedin" />
+          <ScalarProperty Name="drating" ColumnName="drating" />
+          <ScalarProperty Name="dremarks" ColumnName="dremarks" />
+          <ScalarProperty Name="dealerpropid" ColumnName="dealerpropid" />
+          <ScalarProperty Name="dealerid" ColumnName="dealerid" />
+          <ScalarProperty Name="dealerpublished" ColumnName="dealerpublished" />
+          <ScalarProperty Name="requestdate" ColumnName="requestdate" />
+          <ScalarProperty Name="dpriority" ColumnName="dpriority" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_FuelType">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_FuelType">
+        <MappingFragment StoreEntitySet="ta_vb_FuelType">
+          <ScalarProperty Name="fuelid" ColumnName="fuelid" />
+          <ScalarProperty Name="fueltype" ColumnName="fueltype" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_Image">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_Image">
+        <MappingFragment StoreEntitySet="ta_vb_Image">
+          <ScalarProperty Name="imageid" ColumnName="imageid" />
+          <ScalarProperty Name="imagename" ColumnName="imagename" />
+          <ScalarProperty Name="imagedata" ColumnName="imagedata" />
+          <ScalarProperty Name="vehicleid" ColumnName="vehicleid" />
+          <ScalarProperty Name="imgtype" ColumnName="imgtype" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_imageguid">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_imageguid">
+        <MappingFragment StoreEntitySet="ta_vb_imageguid">
+          <ScalarProperty Name="imageguid" ColumnName="imageguid" />
+          <ScalarProperty Name="imageid" ColumnName="imageid" />
+          <ScalarProperty Name="image_name" ColumnName="image_name" />
+          <ScalarProperty Name="image_data" ColumnName="image_data" />
+          <ScalarProperty Name="vehicleid" ColumnName="vehicleid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_KM">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_KM">
+        <MappingFragment StoreEntitySet="ta_vb_KM">
+          <ScalarProperty Name="kmid" ColumnName="kmid" />
+          <ScalarProperty Name="kmdata" ColumnName="kmdata" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_make">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_make">
+        <MappingFragment StoreEntitySet="ta_vb_make">
+          <ScalarProperty Name="vmakeid" ColumnName="vmakeid" />
+          <ScalarProperty Name="vmakename" ColumnName="vmakename" />
+          <ScalarProperty Name="vmpublished" ColumnName="vmpublished" />
+          <ScalarProperty Name="vvehicletypeid" ColumnName="vvehicletypeid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_Model">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_Model">
+        <MappingFragment StoreEntitySet="ta_vb_Model">
+          <ScalarProperty Name="modelid" ColumnName="modelid" />
+          <ScalarProperty Name="modelname" ColumnName="modelname" />
+          <ScalarProperty Name="makeid" ColumnName="makeid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_rel_dealervehicle">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_rel_dealervehicle">
+        <MappingFragment StoreEntitySet="ta_vb_rel_dealervehicle">
+          <ScalarProperty Name="dvrelid" ColumnName="dvrelid" />
+          <ScalarProperty Name="fvehicleid" ColumnName="fvehicleid" />
+          <ScalarProperty Name="fdealerid" ColumnName="fdealerid" />
+          <ScalarProperty Name="assigneddate" ColumnName="assigneddate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_User">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_User">
+        <MappingFragment StoreEntitySet="ta_vb_User">
+          <ScalarProperty Name="guser_id" ColumnName="guser_id" />
+          <ScalarProperty Name="guser_name" ColumnName="guser_name" />
+          <ScalarProperty Name="guser_password" ColumnName="guser_password" />
+          <ScalarProperty Name="uniqueida" ColumnName="uniqueida" />
+          <ScalarProperty Name="usertype" ColumnName="usertype" />
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+          <ScalarProperty Name="dealerpropid" ColumnName="dealerpropid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_Varient">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_Varient">
+        <MappingFragment StoreEntitySet="ta_vb_Varient">
+          <ScalarProperty Name="varientid" ColumnName="varientid" />
+          <ScalarProperty Name="varientname" ColumnName="varientname" />
+          <ScalarProperty Name="modelid" ColumnName="modelid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_Vehicle">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_Vehicle">
+        <MappingFragment StoreEntitySet="ta_vb_Vehicle">
+          <ScalarProperty Name="vremarks" ColumnName="vremarks" />
+          <ScalarProperty Name="vnoofowners" ColumnName="vnoofowners" />
+          <ScalarProperty Name="vsubmitdate" ColumnName="vsubmitdate" />
+          <ScalarProperty Name="vehiclesubmitted" ColumnName="vehiclesubmitted" />
+          <ScalarProperty Name="vshowhide" ColumnName="vshowhide" />
+          <ScalarProperty Name="vehicleid" ColumnName="vehicleid" />
+          <ScalarProperty Name="vtype" ColumnName="vtype" />
+          <ScalarProperty Name="vmake" ColumnName="vmake" />
+          <ScalarProperty Name="vmodel" ColumnName="vmodel" />
+          <ScalarProperty Name="vavrient" ColumnName="vavrient" />
+          <ScalarProperty Name="vcity" ColumnName="vcity" />
+          <ScalarProperty Name="vexpectedprice" ColumnName="vexpectedprice" />
+          <ScalarProperty Name="vkm" ColumnName="vkm" />
+          <ScalarProperty Name="vcolor" ColumnName="vcolor" />
+          <ScalarProperty Name="vcreatedate" ColumnName="vcreatedate" />
+          <ScalarProperty Name="vupdatedate" ColumnName="vupdatedate" />
+          <ScalarProperty Name="vfueltype" ColumnName="vfueltype" />
+          <ScalarProperty Name="vguid" ColumnName="vguid" />
+          <ScalarProperty Name="userid" ColumnName="userid" />
+          <ScalarProperty Name="vmfgyear" ColumnName="vmfgyear" />
+          <ScalarProperty Name="vehicleregistraionno" ColumnName="vehicleregistraionno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_VehicleType">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_VehicleType">
+        <MappingFragment StoreEntitySet="ta_vb_VehicleType">
+          <ScalarProperty Name="vtypeid" ColumnName="vtypeid" />
+          <ScalarProperty Name="vtype" ColumnName="vtype" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_rel_buyervehicle">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_rel_buyervehicle">
+        <MappingFragment StoreEntitySet="ta_vb_rel_buyervehicle">
+          <ScalarProperty Name="requeststatus" ColumnName="requeststatus" />
+          <ScalarProperty Name="requestdate" ColumnName="requestdate" />
+          <ScalarProperty Name="fbuyerid" ColumnName="fbuyerid" />
+          <ScalarProperty Name="fvehicleid" ColumnName="fvehicleid" />
+          <ScalarProperty Name="bvrelid" ColumnName="bvrelid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vbn_countries">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vbn_countries">
+        <MappingFragment StoreEntitySet="ta_vbn_countries">
+          <ScalarProperty Name="coname" ColumnName="coname" />
+          <ScalarProperty Name="shortname" ColumnName="shortname" />
+          <ScalarProperty Name="coid" ColumnName="coid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vbn_states">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vbn_states">
+        <MappingFragment StoreEntitySet="ta_vbn_states">
+          <ScalarProperty Name="coid" ColumnName="coid" />
+          <ScalarProperty Name="statename" ColumnName="statename" />
+          <ScalarProperty Name="stateid" ColumnName="stateid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_AdminSettings">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_AdminSettings">
+        <MappingFragment StoreEntitySet="ta_vb_AdminSettings">
+          <ScalarProperty Name="shuffleoff" ColumnName="shuffleoff" />
+          <ScalarProperty Name="sid" ColumnName="sid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_activeCountry">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_activeCountry">
+        <MappingFragment StoreEntitySet="ta_vb_activeCountry">
+          <ScalarProperty Name="activecountry" ColumnName="activecountry" />
+          <ScalarProperty Name="acid" ColumnName="acid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_activeStates">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_activeStates">
+        <MappingFragment StoreEntitySet="ta_vb_activeStates">
+          <ScalarProperty Name="activestate" ColumnName="activestate" />
+          <ScalarProperty Name="asid" ColumnName="asid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_master_commisssion">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_master_commisssion">
+        <MappingFragment StoreEntitySet="ta_vb_master_commisssion">
+          <ScalarProperty Name="sellertype" ColumnName="sellertype" />
+          <ScalarProperty Name="vcomissionpercent" ColumnName="vcomissionpercent" />
+          <ScalarProperty Name="vsproptypedescription" ColumnName="vsproptypedescription" />
+          <ScalarProperty Name="vsproptypename" ColumnName="vsproptypename" />
+          <ScalarProperty Name="vsproptypeid" ColumnName="vsproptypeid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_sale">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_sale">
+        <MappingFragment StoreEntitySet="ta_vb_sale">
+          <ScalarProperty Name="vbsubmitdate" ColumnName="vbsubmitdate" />
+          <ScalarProperty Name="vbremarks" ColumnName="vbremarks" />
+          <ScalarProperty Name="paidcommsion" ColumnName="paidcommsion" />
+          <ScalarProperty Name="websitesalecommision" ColumnName="websitesalecommision" />
+          <ScalarProperty Name="salecommision" ColumnName="salecommision" />
+          <ScalarProperty Name="vcmsntypeid" ColumnName="vcmsntypeid" />
+          <ScalarProperty Name="submitdate" ColumnName="submitdate" />
+          <ScalarProperty Name="buyerid" ColumnName="buyerid" />
+          <ScalarProperty Name="dealerid" ColumnName="dealerid" />
+          <ScalarProperty Name="vehicleid" ColumnName="vehicleid" />
+          <ScalarProperty Name="saledate" ColumnName="saledate" />
+          <ScalarProperty Name="saleremarks" ColumnName="saleremarks" />
+          <ScalarProperty Name="saleprice" ColumnName="saleprice" />
+          <ScalarProperty Name="saleid" ColumnName="saleid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_VehicleDealerChecks">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_VehicleDealerChecks">
+        <MappingFragment StoreEntitySet="ta_vb_VehicleDealerChecks">
+          <ScalarProperty Name="vdealerremarks" ColumnName="vdealerremarks" />
+          <ScalarProperty Name="vdealerid" ColumnName="vdealerid" />
+          <ScalarProperty Name="vdcchecked" ColumnName="vdcchecked" />
+          <ScalarProperty Name="vdcdealerprice" ColumnName="vdcdealerprice" />
+          <ScalarProperty Name="vdcvehicleid" ColumnName="vdcvehicleid" />
+          <ScalarProperty Name="vdcid" ColumnName="vdcid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ta_vb_partner">
+      <EntityTypeMapping TypeName="vbdbModel.ta_vb_partner">
+        <MappingFragment StoreEntitySet="ta_vb_partner">
+          <ScalarProperty Name="plocationname" ColumnName="plocationname" />
+          <ScalarProperty Name="activestatus" ColumnName="activestatus" />
+          <ScalarProperty Name="ipaddress" ColumnName="ipaddress" />
+          <ScalarProperty Name="adminremarks" ColumnName="adminremarks" />
+          <ScalarProperty Name="locationimage" ColumnName="locationimage" />
+          <ScalarProperty Name="businesslogo" ColumnName="businesslogo" />
+          <ScalarProperty Name="profilepic" ColumnName="profilepic" />
+          <ScalarProperty Name="pbtiming" ColumnName="pbtiming" />
+          <ScalarProperty Name="platlong" ColumnName="platlong" />
+          <ScalarProperty Name="pexperience" ColumnName="pexperience" />
+          <ScalarProperty Name="pdealin" ColumnName="pdealin" />
+          <ScalarProperty Name="pwebsite" ColumnName="pwebsite" />
+          <ScalarProperty Name="userid" ColumnName="userid" />
+          <ScalarProperty Name="partnerid" ColumnName="partnerid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

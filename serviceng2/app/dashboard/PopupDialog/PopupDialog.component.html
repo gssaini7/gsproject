@@ -1,0 +1,39 @@
+
+
+
+<span  (click)="showdialog()" class="btn btn-xs"><i class="fa fa-link"></i></span>
+
+
+
+    <p-dialog header="Please Select" [(visible)]="displayDialog" [responsive]="true" showEffect="fade" [width]="700" [minHeight]="1000">
+        
+        <div *ngIf="toShow==='link'">
+            <div class="form-group" *ngIf="pagesobjlist!=undefined">
+                <label for="Parentid">Page</label>
+                <p-dropdown [options]="pagesobjlist" placeholder="Select a page" optionLabel="PageTitle" [(ngModel)]="selectedpage" [autoWidth]="false"
+                            [style]="{'width':'100%'}" (onChange)="onpageselection()"></p-dropdown>
+            </div>
+        </div> 
+
+        <div *ngIf="toShow==='gallery'">
+
+            <div class="form-group" *ngIf="albumobjlist!=undefined">
+                <label for="Parentid">Gallery</label>
+                <p-dropdown [options]="albumobjlist" placeholder="Select a album" optionLabel="AlbumName" [(ngModel)]="selectedalbum" [autoWidth]="false"
+                            [style]="{'width':'100%'}" (onChange)="onalbumselection()"></p-dropdown>
+            </div>
+            <div>
+                <p-dataGrid [value]="imageobjlist" [paginator]="true" [rows]="20">
+                    <ng-template let-imagedetail pTemplate="item">
+                        <div class="card col-2" style="width: 18rem;">
+                            <img class="card-img-top" src="/ReadWrite/Thumb/{{imagedetail.ImageName}}" alt="Card image cap">
+                            <div class="card-body">
+                                <span class="btn btn-success btn-sm" (click)="onimageselection(imagedetail)"><i class="fa fa-check"></i></span>
+                            </div>
+                        </div>
+                    </ng-template>
+                </p-dataGrid>
+            </div>
+        </div>
+
+    </p-dialog>

@@ -1,0 +1,276 @@
+D:\gs\Project\8916\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\8916\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\8916\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\8916\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\8916\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\8916\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\8916\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\8916\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\8916\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\8916\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\8916\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\8916\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\8916\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\8916\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\8916\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\8916\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\project\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\project\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\project\BAL\bin\Release\AutoMapper.Net4.pdb
+E:\10-4-16\project\BAL\bin\Release\AutoMapper.Net4.dll
+E:\10-4-16\project\BAL\bin\Release\R.BAL.dll
+E:\10-4-16\project\BAL\bin\Release\R.BAL.pdb
+E:\10-4-16\project\BAL\bin\Release\AutoMapper.dll
+E:\10-4-16\project\BAL\bin\Release\BusinessEntities.dll
+E:\10-4-16\project\BAL\bin\Release\DAL.dll
+E:\10-4-16\project\BAL\bin\Release\R.Resolver.dll
+E:\10-4-16\project\BAL\bin\Release\EntityFramework.dll
+E:\10-4-16\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\10-4-16\project\BAL\bin\Release\BusinessEntities.pdb
+E:\10-4-16\project\BAL\bin\Release\DAL.pdb
+E:\10-4-16\project\BAL\bin\Release\R.Resolver.pdb
+E:\10-4-16\project\BAL\bin\Release\AutoMapper.pdb
+E:\10-4-16\project\BAL\bin\Release\AutoMapper.xml
+E:\10-4-16\project\BAL\bin\Release\AutoMapper.Net4.pdb
+E:\10-4-16\project\BAL\bin\Release\EntityFramework.xml
+E:\10-4-16\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+E:\10-4-16\project\BAL\obj\Release\R.BAL.dll
+E:\10-4-16\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\17-10-16\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\17-10-16\project\BAL\bin\Release\AutoMapper.Net4.pdb
+D:\gs\Project\17-10-16\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\17-10-16\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\17-10-16\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\17-10-16\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\AutoMapper.Net4.pdb
+D:\gs\Project\19-10-16 H\project\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\19-10-16 H\project\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\19-10-16 H\project\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\19-10-16 H\project\project\BAL\obj\Release\R.BAL.pdb
+E:\20-10-16\project\project\BAL\bin\Release\AutoMapper.Net4.dll
+E:\20-10-16\project\project\BAL\bin\Release\R.BAL.dll
+E:\20-10-16\project\project\BAL\bin\Release\R.BAL.pdb
+E:\20-10-16\project\project\BAL\bin\Release\AutoMapper.dll
+E:\20-10-16\project\project\BAL\bin\Release\BusinessEntities.dll
+E:\20-10-16\project\project\BAL\bin\Release\DAL.dll
+E:\20-10-16\project\project\BAL\bin\Release\R.Resolver.dll
+E:\20-10-16\project\project\BAL\bin\Release\EntityFramework.dll
+E:\20-10-16\project\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\20-10-16\project\project\BAL\bin\Release\BusinessEntities.pdb
+E:\20-10-16\project\project\BAL\bin\Release\DAL.pdb
+E:\20-10-16\project\project\BAL\bin\Release\R.Resolver.pdb
+E:\20-10-16\project\project\BAL\bin\Release\AutoMapper.pdb
+E:\20-10-16\project\project\BAL\bin\Release\AutoMapper.xml
+E:\20-10-16\project\project\BAL\bin\Release\AutoMapper.Net4.pdb
+E:\20-10-16\project\project\BAL\bin\Release\EntityFramework.xml
+E:\20-10-16\project\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+E:\20-10-16\project\project\BAL\obj\Release\R.BAL.dll
+E:\20-10-16\project\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\AutoMapper.Net4.pdb
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\21-10-16 M\20-10-16\project\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\project\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\project\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\project\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\project\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\project\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\project\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\project\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\project\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\project\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\project\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\project\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\project\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\project\project\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\project\project\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\project\project\BAL\bin\Release\AutoMapper.Net4.pdb
+D:\gs\Project\project\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\project\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\project\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\project\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\DAL.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\30-11-16\project\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\DAL.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\30-11-16\project\BAL\bin\Release\AutoMapper.Net4.pdb
+D:\gs\Project\30-11-16\project\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\30-11-16\project\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\30-11-16\project\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\30-11-16\project\BAL\obj\Release\R.BAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.Net4.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.BAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.BAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\BusinessEntities.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\DAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.Resolver.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\EntityFramework.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\Microsoft.Practices.Unity.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\BusinessEntities.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\DAL.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.Resolver.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.xml
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.Net4.pdb
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\EntityFramework.xml
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Release\R.BAL.dll
+D:\gs\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Release\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.Net4.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.BAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.BAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\BusinessEntities.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\DAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.Resolver.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\EntityFramework.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\BusinessEntities.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\DAL.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\R.Resolver.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\AutoMapper.Net4.pdb
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\bin\Release\EntityFramework.xml
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Release\R.BAL.dll
+E:\b\Project\USS\Brick Kiln\ebrickkiln\ebrick dynamic module\ebrickkiln\BAL\obj\Release\R.BAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\AutoMapper.Net4.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\R.BAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\R.BAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\AutoMapper.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\BusinessEntities.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\DAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\R.Resolver.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.Mvc.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\EntityFramework.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.WebPages.Razor.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.WebPages.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.WebPages.Deployment.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\BusinessEntities.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\DAL.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\R.Resolver.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\AutoMapper.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\AutoMapper.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\AutoMapper.Net4.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.Mvc.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\EntityFramework.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Practices.Unity.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.WebPages.Razor.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.WebPages.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+E:\b\Project\Bar app\web\ebrickkiln\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\Bar app\web\ebrickkiln\BAL\obj\Release\R.BAL.dll
+E:\b\Project\Bar app\web\ebrickkiln\BAL\obj\Release\R.BAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\AutoMapper.Net4.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\R.BAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\R.BAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\AutoMapper.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\BusinessEntities.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\DAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\R.Resolver.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.Mvc.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\EntityFramework.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Practices.Unity.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.WebPages.Razor.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.WebPages.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.WebPages.Deployment.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\BusinessEntities.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\DAL.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\R.Resolver.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\AutoMapper.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\AutoMapper.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\AutoMapper.Net4.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.Mvc.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\EntityFramework.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Practices.Unity.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.WebPages.Razor.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.WebPages.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Web.Infrastructure.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+E:\b\Project\eacademics\APP\web\gsproject\BAL\obj\Release\R.BAL.csprojResolveAssemblyReference.cache
+E:\b\Project\eacademics\APP\web\gsproject\BAL\obj\Release\R.BAL.dll
+E:\b\Project\eacademics\APP\web\gsproject\BAL\obj\Release\R.BAL.pdb

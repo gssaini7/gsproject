@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="Notification">
+  <Element Name="Notificationid" Type="Guid"></Element>
+  <Element Name="title" Type="string"></Element>
+  <Element Name="description" Type="string"></Element>
+  <Element Name="imagepath" Type="string"></Element>
+
+</Root>

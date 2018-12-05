@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="TCSSRel">
+  <Element Name="TCSSRelModelid" Type="Guid"></Element>
+  <Element Name="Teacherid" Type="Guid"></Element>
+  <Element Name="ClassModelid" Type="string"></Element>
+  <Element Name="SectionModelid" Type="string"></Element>
+  <Element Name="SubjectModelid" Type="string"></Element>
+
+</Root>

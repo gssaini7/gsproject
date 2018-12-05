@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="vbdbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="vbdbEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="ta_vb_Address" EntityType="vbdbModel.ta_vb_Address" />
+    <EntitySet Name="ta_vb_advertisement" EntityType="vbdbModel.ta_vb_advertisement" />
+    <EntitySet Name="ta_vb_City" EntityType="vbdbModel.ta_vb_City" />
+    <EntitySet Name="ta_vb_Color" EntityType="vbdbModel.ta_vb_Color" />
+    <EntitySet Name="ta_vb_dealerproperty" EntityType="vbdbModel.ta_vb_dealerproperty" />
+    <EntitySet Name="ta_vb_FuelType" EntityType="vbdbModel.ta_vb_FuelType" />
+    <EntitySet Name="ta_vb_Image" EntityType="vbdbModel.ta_vb_Image" />
+    <EntitySet Name="ta_vb_imageguid" EntityType="vbdbModel.ta_vb_imageguid" />
+    <EntitySet Name="ta_vb_KM" EntityType="vbdbModel.ta_vb_KM" />
+    <EntitySet Name="ta_vb_make" EntityType="vbdbModel.ta_vb_make" />
+    <EntitySet Name="ta_vb_Model" EntityType="vbdbModel.ta_vb_Model" />
+    <EntitySet Name="ta_vb_rel_dealervehicle" EntityType="vbdbModel.ta_vb_rel_dealervehicle" />
+    <EntitySet Name="ta_vb_User" EntityType="vbdbModel.ta_vb_User" />
+    <EntitySet Name="ta_vb_Varient" EntityType="vbdbModel.ta_vb_Varient" />
+    <EntitySet Name="ta_vb_Vehicle" EntityType="vbdbModel.ta_vb_Vehicle" />
+    <EntitySet Name="ta_vb_VehicleType" EntityType="vbdbModel.ta_vb_VehicleType" />
+    <AssociationSet Name="FK_ta_vb_Address_ta_vb_City" Association="vbdbModel.FK_ta_vb_Address_ta_vb_City">
+      <End Role="ta_vb_City" EntitySet="ta_vb_City" />
+      <End Role="ta_vb_Address" EntitySet="ta_vb_Address" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_User_ta_vb_Address" Association="vbdbModel.FK_ta_vb_User_ta_vb_Address">
+      <End Role="ta_vb_Address" EntitySet="ta_vb_Address" />
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_City" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_City">
+      <End Role="ta_vb_City" EntitySet="ta_vb_City" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_Color" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Color">
+      <End Role="ta_vb_Color" EntitySet="ta_vb_Color" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_dealerproperty_ta_vb_User" Association="vbdbModel.FK_ta_vb_dealerproperty_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_dealerproperty" EntitySet="ta_vb_dealerproperty" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_FuelType" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_FuelType">
+      <End Role="ta_vb_FuelType" EntitySet="ta_vb_FuelType" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Image_ta_vb_Vehicle" Association="vbdbModel.FK_ta_vb_Image_ta_vb_Vehicle">
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+      <End Role="ta_vb_Image" EntitySet="ta_vb_Image" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_imageguid_ta_vb_Vehicle" Association="vbdbModel.FK_ta_vb_imageguid_ta_vb_Vehicle">
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+      <End Role="ta_vb_imageguid" EntitySet="ta_vb_imageguid" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_make_ta_vb_VehicleType" Association="vbdbModel.FK_ta_vb_make_ta_vb_VehicleType">
+      <End Role="ta_vb_VehicleType" EntitySet="ta_vb_VehicleType" />
+      <End Role="ta_vb_make" EntitySet="ta_vb_make" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Model_ta_vb_make" Association="vbdbModel.FK_ta_vb_Model_ta_vb_make">
+      <End Role="ta_vb_make" EntitySet="ta_vb_make" />
+      <End Role="ta_vb_Model" EntitySet="ta_vb_Model" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_make" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_make">
+      <End Role="ta_vb_make" EntitySet="ta_vb_make" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Varient_ta_vb_Model" Association="vbdbModel.FK_ta_vb_Varient_ta_vb_Model">
+      <End Role="ta_vb_Model" EntitySet="ta_vb_Model" />
+      <End Role="ta_vb_Varient" EntitySet="ta_vb_Varient" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_Model" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Model">
+      <End Role="ta_vb_Model" EntitySet="ta_vb_Model" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_rel_dealervehicle_ta_vb_User" Association="vbdbModel.FK_ta_vb_rel_dealervehicle_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_rel_dealervehicle" EntitySet="ta_vb_rel_dealervehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_rel_dealervehicle_ta_vb_Vehicle" Association="vbdbModel.FK_ta_vb_rel_dealervehicle_ta_vb_Vehicle">
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+      <End Role="ta_vb_rel_dealervehicle" EntitySet="ta_vb_rel_dealervehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_User" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_Varient" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Varient">
+      <End Role="ta_vb_Varient" EntitySet="ta_vb_Varient" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_VehicleType" Association="vbdbModel.FK_ta_vb_Vehicle_ta_vb_VehicleType">
+      <End Role="ta_vb_VehicleType" EntitySet="ta_vb_VehicleType" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_rel_buyervehicle" EntityType="vbdbModel.ta_vb_rel_buyervehicle" />
+    <EntitySet Name="ta_vbn_countries" EntityType="vbdbModel.ta_vbn_countries" />
+    <EntitySet Name="ta_vbn_states" EntityType="vbdbModel.ta_vbn_states" />
+    <AssociationSet Name="FK_ta_vb_rel_buyervehicle_ta_vb_User" Association="vbdbModel.FK_ta_vb_rel_buyervehicle_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_rel_buyervehicle" EntitySet="ta_vb_rel_buyervehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_rel_buyervehicle_ta_vb_Vehicle" Association="vbdbModel.FK_ta_vb_rel_buyervehicle_ta_vb_Vehicle">
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+      <End Role="ta_vb_rel_buyervehicle" EntitySet="ta_vb_rel_buyervehicle" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_AdminSettings" EntityType="vbdbModel.ta_vb_AdminSettings" />
+    <AssociationSet Name="FK_ta_vb_City_ta_vbn_states" Association="vbdbModel.FK_ta_vb_City_ta_vbn_states">
+      <End Role="ta_vbn_states" EntitySet="ta_vbn_states" />
+      <End Role="ta_vb_City" EntitySet="ta_vb_City" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vbn_states_ta_vbn_countries" Association="vbdbModel.FK_ta_vbn_states_ta_vbn_countries">
+      <End Role="ta_vbn_countries" EntitySet="ta_vbn_countries" />
+      <End Role="ta_vbn_states" EntitySet="ta_vbn_states" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_activeCountry" EntityType="vbdbModel.ta_vb_activeCountry" />
+    <AssociationSet Name="FK_ta_vb_activeCountry_ta_vbn_countries" Association="vbdbModel.FK_ta_vb_activeCountry_ta_vbn_countries">
+      <End Role="ta_vbn_countries" EntitySet="ta_vbn_countries" />
+      <End Role="ta_vb_activeCountry" EntitySet="ta_vb_activeCountry" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_activeStates" EntityType="vbdbModel.ta_vb_activeStates" />
+    <AssociationSet Name="FK_ta_vb_activeStates_ta_vbn_states" Association="vbdbModel.FK_ta_vb_activeStates_ta_vbn_states">
+      <End Role="ta_vbn_states" EntitySet="ta_vbn_states" />
+      <End Role="ta_vb_activeStates" EntitySet="ta_vb_activeStates" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_City_ta_vb_City" Association="vbdbModel.FK_ta_vb_City_ta_vb_City">
+      <End Role="ta_vb_City" EntitySet="ta_vb_City" />
+      <End Role="ta_vb_City1" EntitySet="ta_vb_City" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_master_commisssion" EntityType="vbdbModel.ta_vb_master_commisssion" />
+    <EntitySet Name="ta_vb_sale" EntityType="vbdbModel.ta_vb_sale" />
+    <AssociationSet Name="FK_ta_vb_sale_ta_vb_master_commisssion" Association="vbdbModel.FK_ta_vb_sale_ta_vb_master_commisssion">
+      <End Role="ta_vb_master_commisssion" EntitySet="ta_vb_master_commisssion" />
+      <End Role="ta_vb_sale" EntitySet="ta_vb_sale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_sale_ta_vb_User" Association="vbdbModel.FK_ta_vb_sale_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_sale" EntitySet="ta_vb_sale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_sale_ta_vb_User1" Association="vbdbModel.FK_ta_vb_sale_ta_vb_User1">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_sale" EntitySet="ta_vb_sale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_sale_ta_vb_Vehicle" Association="vbdbModel.FK_ta_vb_sale_ta_vb_Vehicle">
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+      <End Role="ta_vb_sale" EntitySet="ta_vb_sale" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_VehicleDealerChecks" EntityType="vbdbModel.ta_vb_VehicleDealerChecks" />
+    <AssociationSet Name="FK_ta_vb_VehicleDealerChecks_ta_vb_Vehicle" Association="vbdbModel.FK_ta_vb_VehicleDealerChecks_ta_vb_Vehicle">
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+      <End Role="ta_vb_VehicleDealerChecks" EntitySet="ta_vb_VehicleDealerChecks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_VehicleDealerChecks_ta_vb_User" Association="vbdbModel.FK_ta_vb_VehicleDealerChecks_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_VehicleDealerChecks" EntitySet="ta_vb_VehicleDealerChecks" />
+    </AssociationSet>
+    <EntitySet Name="ta_vb_partner" EntityType="vbdbModel.ta_vb_partner" />
+    <AssociationSet Name="FK_ta_vb_partner_ta_vb_User" Association="vbdbModel.FK_ta_vb_partner_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_partner" EntitySet="ta_vb_partner" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ta_vb_Address">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="a_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="address1" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="address2" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="a_city" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_state" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_country" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_pin" Type="String" MaxLength="6" Unicode="false" FixedLength="false" />
+    <Property Name="a_mobile" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="a_emailid" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="a_city_id" Type="Int32" />
+    <Property Name="a_dealercompany" Type="String" MaxLength="150" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ta_vb_City" Relationship="vbdbModel.FK_ta_vb_Address_ta_vb_City" FromRole="ta_vb_Address" ToRole="ta_vb_City" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_User_ta_vb_Address" FromRole="ta_vb_Address" ToRole="ta_vb_User" />
+  </EntityType>
+  <EntityType Name="ta_vb_advertisement">
+    <Key>
+      <PropertyRef Name="addvid" />
+    </Key>
+    <Property Name="addvid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="addvtext" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="addvimage" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="addvpublish" Type="Boolean" />
+    <Property Name="addvcreatedate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="ta_vb_City">
+    <Key>
+      <PropertyRef Name="cityid" />
+    </Key>
+    <Property Name="cityid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="cityname" Type="String" MaxLength="100" Unicode="false" FixedLength="false" Nullable="false" />
+    <NavigationProperty Name="ta_vb_Address" Relationship="vbdbModel.FK_ta_vb_Address_ta_vb_City" FromRole="ta_vb_City" ToRole="ta_vb_Address" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_City" FromRole="ta_vb_City" ToRole="ta_vb_Vehicle" />
+    <Property Type="Int32" Name="stateid" Nullable="false" />
+    <NavigationProperty Name="ta_vbn_states" Relationship="vbdbModel.FK_ta_vb_City_ta_vbn_states" FromRole="ta_vb_City" ToRole="ta_vbn_states" />
+    <NavigationProperty Name="ta_vb_City1" Relationship="vbdbModel.FK_ta_vb_City_ta_vb_City" FromRole="ta_vb_City" ToRole="ta_vb_City1" />
+    <NavigationProperty Name="ta_vb_City2" Relationship="vbdbModel.FK_ta_vb_City_ta_vb_City" FromRole="ta_vb_City1" ToRole="ta_vb_City" />
+  </EntityType>
+  <EntityType Name="ta_vb_Color">
+    <Key>
+      <PropertyRef Name="colorid" />
+    </Key>
+    <Property Name="colorid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="colorname" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="colorcode" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Color" FromRole="ta_vb_Color" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_dealerproperty">
+    <Key>
+      <PropertyRef Name="dealerpropid" />
+    </Key>
+    <Property Name="dealerpropid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="dealerid" Type="Int64" />
+    <Property Name="dealerpublished" Type="Boolean" />
+    <Property Name="requestdate" Type="DateTime" Precision="3" />
+    <Property Name="dpriority" Type="Int32" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_dealerproperty_ta_vb_User" FromRole="ta_vb_dealerproperty" ToRole="ta_vb_User" />
+    <Property Type="String" Name="dremarks" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="drating" />
+    <Property Type="String" Name="interestedin" MaxLength="200" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="ta_vb_FuelType">
+    <Key>
+      <PropertyRef Name="fuelid" />
+    </Key>
+    <Property Name="fuelid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="fueltype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_FuelType" FromRole="ta_vb_FuelType" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_Image">
+    <Key>
+      <PropertyRef Name="imageid" />
+    </Key>
+    <Property Name="imageid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="imagename" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="imagedata" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="vehicleid" Type="Int64" />
+    <Property Name="imgtype" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Image_ta_vb_Vehicle" FromRole="ta_vb_Image" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_imageguid">
+    <Key>
+      <PropertyRef Name="imageguid" />
+      <PropertyRef Name="imageid" />
+    </Key>
+    <Property Name="imageguid" Type="Guid" Nullable="false" />
+    <Property Name="imageid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="image_name" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="image_data" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="vehicleid" Type="Int64" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_imageguid_ta_vb_Vehicle" FromRole="ta_vb_imageguid" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_KM">
+    <Key>
+      <PropertyRef Name="kmid" />
+    </Key>
+    <Property Name="kmid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="kmdata" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="ta_vb_make">
+    <Key>
+      <PropertyRef Name="vmakeid" />
+    </Key>
+    <Property Name="vmakeid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="vmakename" Type="String" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="vmpublished" Type="Boolean" />
+    <Property Name="vvehicletypeid" Type="Int32" />
+    <NavigationProperty Name="ta_vb_VehicleType" Relationship="vbdbModel.FK_ta_vb_make_ta_vb_VehicleType" FromRole="ta_vb_make" ToRole="ta_vb_VehicleType" />
+    <NavigationProperty Name="ta_vb_Model" Relationship="vbdbModel.FK_ta_vb_Model_ta_vb_make" FromRole="ta_vb_make" ToRole="ta_vb_Model" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_make" FromRole="ta_vb_make" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_Model">
+    <Key>
+      <PropertyRef Name="modelid" />
+    </Key>
+    <Property Name="modelid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="modelname" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="makeid" Type="Int32" />
+    <NavigationProperty Name="ta_vb_make" Relationship="vbdbModel.FK_ta_vb_Model_ta_vb_make" FromRole="ta_vb_Model" ToRole="ta_vb_make" />
+    <NavigationProperty Name="ta_vb_Varient" Relationship="vbdbModel.FK_ta_vb_Varient_ta_vb_Model" FromRole="ta_vb_Model" ToRole="ta_vb_Varient" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Model" FromRole="ta_vb_Model" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_rel_dealervehicle">
+    <Key>
+      <PropertyRef Name="dvrelid" />
+    </Key>
+    <Property Name="dvrelid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="fvehicleid" Type="Int64" />
+    <Property Name="fdealerid" Type="Int64" />
+    <Property Name="assigneddate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_rel_dealervehicle_ta_vb_User" FromRole="ta_vb_rel_dealervehicle" ToRole="ta_vb_User" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_rel_dealervehicle_ta_vb_Vehicle" FromRole="ta_vb_rel_dealervehicle" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_User">
+    <Key>
+      <PropertyRef Name="guser_id" />
+    </Key>
+    <Property Name="guser_id" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="guser_name" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="guser_password" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="uniqueida" Type="String" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="usertype" Type="String" MaxLength="10" Unicode="false" FixedLength="false" />
+    <Property Name="address_id" Type="Int64" />
+    <Property Name="dealerpropid" Type="Int64" />
+    <NavigationProperty Name="ta_vb_Address" Relationship="vbdbModel.FK_ta_vb_User_ta_vb_Address" FromRole="ta_vb_User" ToRole="ta_vb_Address" />
+    <NavigationProperty Name="ta_vb_dealerproperty" Relationship="vbdbModel.FK_ta_vb_dealerproperty_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_dealerproperty" />
+    <NavigationProperty Name="ta_vb_rel_dealervehicle" Relationship="vbdbModel.FK_ta_vb_rel_dealervehicle_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_rel_dealervehicle" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_Vehicle" />
+    <NavigationProperty Name="ta_vb_rel_buyervehicle" Relationship="vbdbModel.FK_ta_vb_rel_buyervehicle_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_rel_buyervehicle" />
+    <NavigationProperty Name="ta_vb_sale" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_sale" />
+    <NavigationProperty Name="ta_vb_sale1" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_User1" FromRole="ta_vb_User" ToRole="ta_vb_sale" />
+    <NavigationProperty Name="ta_vb_VehicleDealerChecks" Relationship="vbdbModel.FK_ta_vb_VehicleDealerChecks_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_VehicleDealerChecks" />
+    <NavigationProperty Name="ta_vb_partner" Relationship="vbdbModel.FK_ta_vb_partner_ta_vb_User" FromRole="ta_vb_User" ToRole="ta_vb_partner" />
+  </EntityType>
+  <EntityType Name="ta_vb_Varient">
+    <Key>
+      <PropertyRef Name="varientid" />
+    </Key>
+    <Property Name="varientid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="varientname" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="modelid" Type="Int32" />
+    <NavigationProperty Name="ta_vb_Model" Relationship="vbdbModel.FK_ta_vb_Varient_ta_vb_Model" FromRole="ta_vb_Varient" ToRole="ta_vb_Model" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Varient" FromRole="ta_vb_Varient" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <EntityType Name="ta_vb_Vehicle">
+    <Key>
+      <PropertyRef Name="vehicleid" />
+    </Key>
+    <Property Name="vehicleid" Type="Int64" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="vtype" Type="Int32" />
+    <Property Name="vmake" Type="Int32" />
+    <Property Name="vmodel" Type="Int32" />
+    <Property Name="vavrient" Type="Int32" />
+    <Property Name="vcity" Type="Int32" />
+    <Property Name="vexpectedprice" Type="Int32" />
+    <Property Name="vkm" Type="Int32" />
+    <Property Name="vcolor" Type="Int32" />
+    <Property Name="vcreatedate" Type="DateTime" Precision="3" />
+    <Property Name="vupdatedate" Type="DateTime" Precision="3" />
+    <Property Name="vfueltype" Type="Int32" />
+    <Property Name="vguid" Type="Guid" />
+    <Property Name="userid" Type="Int64" />
+    <Property Name="vmfgyear" Type="Int32" />
+    <Property Name="vehicleregistraionno" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ta_vb_City" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_City" FromRole="ta_vb_Vehicle" ToRole="ta_vb_City" />
+    <NavigationProperty Name="ta_vb_Color" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Color" FromRole="ta_vb_Vehicle" ToRole="ta_vb_Color" />
+    <NavigationProperty Name="ta_vb_FuelType" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_FuelType" FromRole="ta_vb_Vehicle" ToRole="ta_vb_FuelType" />
+    <NavigationProperty Name="ta_vb_Image" Relationship="vbdbModel.FK_ta_vb_Image_ta_vb_Vehicle" FromRole="ta_vb_Vehicle" ToRole="ta_vb_Image" />
+    <NavigationProperty Name="ta_vb_imageguid" Relationship="vbdbModel.FK_ta_vb_imageguid_ta_vb_Vehicle" FromRole="ta_vb_Vehicle" ToRole="ta_vb_imageguid" />
+    <NavigationProperty Name="ta_vb_make" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_make" FromRole="ta_vb_Vehicle" ToRole="ta_vb_make" />
+    <NavigationProperty Name="ta_vb_Model" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Model" FromRole="ta_vb_Vehicle" ToRole="ta_vb_Model" />
+    <NavigationProperty Name="ta_vb_rel_dealervehicle" Relationship="vbdbModel.FK_ta_vb_rel_dealervehicle_ta_vb_Vehicle" FromRole="ta_vb_Vehicle" ToRole="ta_vb_rel_dealervehicle" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_User" FromRole="ta_vb_Vehicle" ToRole="ta_vb_User" />
+    <NavigationProperty Name="ta_vb_Varient" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_Varient" FromRole="ta_vb_Vehicle" ToRole="ta_vb_Varient" />
+    <NavigationProperty Name="ta_vb_VehicleType" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_VehicleType" FromRole="ta_vb_Vehicle" ToRole="ta_vb_VehicleType" />
+    <NavigationProperty Name="ta_vb_rel_buyervehicle" Relationship="vbdbModel.FK_ta_vb_rel_buyervehicle_ta_vb_Vehicle" FromRole="ta_vb_Vehicle" ToRole="ta_vb_rel_buyervehicle" />
+    <Property Type="Boolean" Name="vshowhide" />
+    <NavigationProperty Name="ta_vb_sale" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_Vehicle" FromRole="ta_vb_Vehicle" ToRole="ta_vb_sale" />
+    <NavigationProperty Name="ta_vb_VehicleDealerChecks" Relationship="vbdbModel.FK_ta_vb_VehicleDealerChecks_ta_vb_Vehicle" FromRole="ta_vb_Vehicle" ToRole="ta_vb_VehicleDealerChecks" />
+    <Property Type="Boolean" Name="vehiclesubmitted" />
+    <Property Type="DateTime" Name="vsubmitdate" Precision="3" />
+    <Property Type="Int32" Name="vnoofowners" />
+    <Property Type="String" Name="vremarks" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="ta_vb_VehicleType">
+    <Key>
+      <PropertyRef Name="vtypeid" />
+    </Key>
+    <Property Name="vtypeid" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="vtype" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="ta_vb_make" Relationship="vbdbModel.FK_ta_vb_make_ta_vb_VehicleType" FromRole="ta_vb_VehicleType" ToRole="ta_vb_make" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_Vehicle_ta_vb_VehicleType" FromRole="ta_vb_VehicleType" ToRole="ta_vb_Vehicle" />
+  </EntityType>
+  <Association Name="FK_ta_vb_Address_ta_vb_City">
+    <End Role="ta_vb_City" Type="vbdbModel.ta_vb_City" Multiplicity="0..1" />
+    <End Role="ta_vb_Address" Type="vbdbModel.ta_vb_Address" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_City">
+        <PropertyRef Name="cityid" />
+      </Principal>
+      <Dependent Role="ta_vb_Address">
+        <PropertyRef Name="a_city_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_User_ta_vb_Address">
+    <End Role="ta_vb_Address" Type="vbdbModel.ta_vb_Address" Multiplicity="0..1" />
+    <End Role="ta_vb_User" Type="vbdbModel.ta_vb_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Address">
+        <PropertyRef Name="address_id" />
+      </Principal>
+      <Dependent Role="ta_vb_User">
+        <PropertyRef Name="address_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_City">
+    <End Role="ta_vb_City" Type="vbdbModel.ta_vb_City" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_City">
+        <PropertyRef Name="cityid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vcity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_Color">
+    <End Role="ta_vb_Color" Type="vbdbModel.ta_vb_Color" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Color">
+        <PropertyRef Name="colorid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vcolor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_dealerproperty_ta_vb_User">
+    <End Role="ta_vb_User" Type="vbdbModel.ta_vb_User" Multiplicity="0..1" />
+    <End Role="ta_vb_dealerproperty" Type="vbdbModel.ta_vb_dealerproperty" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_dealerproperty">
+        <PropertyRef Name="dealerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_FuelType">
+    <End Role="ta_vb_FuelType" Type="vbdbModel.ta_vb_FuelType" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_FuelType">
+        <PropertyRef Name="fuelid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vfueltype" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Image_ta_vb_Vehicle">
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="0..1" />
+    <End Role="ta_vb_Image" Type="vbdbModel.ta_vb_Image" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Vehicle">
+        <PropertyRef Name="vehicleid" />
+      </Principal>
+      <Dependent Role="ta_vb_Image">
+        <PropertyRef Name="vehicleid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_imageguid_ta_vb_Vehicle">
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="0..1" />
+    <End Role="ta_vb_imageguid" Type="vbdbModel.ta_vb_imageguid" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Vehicle">
+        <PropertyRef Name="vehicleid" />
+      </Principal>
+      <Dependent Role="ta_vb_imageguid">
+        <PropertyRef Name="vehicleid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_make_ta_vb_VehicleType">
+    <End Role="ta_vb_VehicleType" Type="vbdbModel.ta_vb_VehicleType" Multiplicity="0..1" />
+    <End Role="ta_vb_make" Type="vbdbModel.ta_vb_make" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_VehicleType">
+        <PropertyRef Name="vtypeid" />
+      </Principal>
+      <Dependent Role="ta_vb_make">
+        <PropertyRef Name="vvehicletypeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Model_ta_vb_make">
+    <End Role="ta_vb_make" Type="vbdbModel.ta_vb_make" Multiplicity="0..1" />
+    <End Role="ta_vb_Model" Type="vbdbModel.ta_vb_Model" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_make">
+        <PropertyRef Name="vmakeid" />
+      </Principal>
+      <Dependent Role="ta_vb_Model">
+        <PropertyRef Name="makeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_make">
+    <End Role="ta_vb_make" Type="vbdbModel.ta_vb_make" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_make">
+        <PropertyRef Name="vmakeid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vmake" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Varient_ta_vb_Model">
+    <End Role="ta_vb_Model" Type="vbdbModel.ta_vb_Model" Multiplicity="0..1" />
+    <End Role="ta_vb_Varient" Type="vbdbModel.ta_vb_Varient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Model">
+        <PropertyRef Name="modelid" />
+      </Principal>
+      <Dependent Role="ta_vb_Varient">
+        <PropertyRef Name="modelid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_Model">
+    <End Role="ta_vb_Model" Type="vbdbModel.ta_vb_Model" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Model">
+        <PropertyRef Name="modelid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vmodel" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_rel_dealervehicle_ta_vb_User">
+    <End Role="ta_vb_User" Type="vbdbModel.ta_vb_User" Multiplicity="0..1" />
+    <End Role="ta_vb_rel_dealervehicle" Type="vbdbModel.ta_vb_rel_dealervehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_rel_dealervehicle">
+        <PropertyRef Name="fdealerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_rel_dealervehicle_ta_vb_Vehicle">
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="0..1" />
+    <End Role="ta_vb_rel_dealervehicle" Type="vbdbModel.ta_vb_rel_dealervehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Vehicle">
+        <PropertyRef Name="vehicleid" />
+      </Principal>
+      <Dependent Role="ta_vb_rel_dealervehicle">
+        <PropertyRef Name="fvehicleid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_User">
+    <End Role="ta_vb_User" Type="vbdbModel.ta_vb_User" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_Varient">
+    <End Role="ta_vb_Varient" Type="vbdbModel.ta_vb_Varient" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Varient">
+        <PropertyRef Name="varientid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vavrient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_VehicleType">
+    <End Role="ta_vb_VehicleType" Type="vbdbModel.ta_vb_VehicleType" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_VehicleType">
+        <PropertyRef Name="vtypeid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vtype" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_rel_buyervehicle">
+    <Key>
+      <PropertyRef Name="bvrelid" />
+    </Key>
+    <Property Type="Int64" Name="bvrelid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="fvehicleid" />
+    <Property Type="Int64" Name="fbuyerid" />
+    <Property Type="DateTime" Name="requestdate" Precision="3" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_rel_buyervehicle_ta_vb_User" FromRole="ta_vb_rel_buyervehicle" ToRole="ta_vb_User" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_rel_buyervehicle_ta_vb_Vehicle" FromRole="ta_vb_rel_buyervehicle" ToRole="ta_vb_Vehicle" />
+    <Property Type="Boolean" Name="requeststatus" />
+  </EntityType>
+  <EntityType Name="ta_vbn_countries">
+    <Key>
+      <PropertyRef Name="coid" />
+    </Key>
+    <Property Type="Int32" Name="coid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="shortname" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="coname" Nullable="false" MaxLength="150" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="ta_vbn_states" Relationship="vbdbModel.FK_ta_vbn_states_ta_vbn_countries" FromRole="ta_vbn_countries" ToRole="ta_vbn_states" />
+    <NavigationProperty Name="ta_vb_activeCountry" Relationship="vbdbModel.FK_ta_vb_activeCountry_ta_vbn_countries" FromRole="ta_vbn_countries" ToRole="ta_vb_activeCountry" />
+  </EntityType>
+  <EntityType Name="ta_vbn_states">
+    <Key>
+      <PropertyRef Name="stateid" />
+    </Key>
+    <Property Type="Int32" Name="stateid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="statename" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="coid" Nullable="false" />
+    <NavigationProperty Name="ta_vb_City" Relationship="vbdbModel.FK_ta_vb_City_ta_vbn_states" FromRole="ta_vbn_states" ToRole="ta_vb_City" />
+    <NavigationProperty Name="ta_vbn_countries" Relationship="vbdbModel.FK_ta_vbn_states_ta_vbn_countries" FromRole="ta_vbn_states" ToRole="ta_vbn_countries" />
+    <NavigationProperty Name="ta_vb_activeStates" Relationship="vbdbModel.FK_ta_vb_activeStates_ta_vbn_states" FromRole="ta_vbn_states" ToRole="ta_vb_activeStates" />
+  </EntityType>
+  <Association Name="FK_ta_vb_rel_buyervehicle_ta_vb_User">
+    <End Type="vbdbModel.ta_vb_User" Role="ta_vb_User" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_rel_buyervehicle" Role="ta_vb_rel_buyervehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_rel_buyervehicle">
+        <PropertyRef Name="fbuyerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_rel_buyervehicle_ta_vb_Vehicle">
+    <End Type="vbdbModel.ta_vb_Vehicle" Role="ta_vb_Vehicle" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_rel_buyervehicle" Role="ta_vb_rel_buyervehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Vehicle">
+        <PropertyRef Name="vehicleid" />
+      </Principal>
+      <Dependent Role="ta_vb_rel_buyervehicle">
+        <PropertyRef Name="fvehicleid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_AdminSettings">
+    <Key>
+      <PropertyRef Name="sid" />
+    </Key>
+    <Property Type="Int32" Name="sid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Boolean" Name="shuffleoff" />
+  </EntityType>
+  <Association Name="FK_ta_vb_City_ta_vbn_states">
+    <End Type="vbdbModel.ta_vbn_states" Role="ta_vbn_states" Multiplicity="1" />
+    <End Type="vbdbModel.ta_vb_City" Role="ta_vb_City" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vbn_states">
+        <PropertyRef Name="stateid" />
+      </Principal>
+      <Dependent Role="ta_vb_City">
+        <PropertyRef Name="stateid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vbn_states_ta_vbn_countries">
+    <End Type="vbdbModel.ta_vbn_countries" Role="ta_vbn_countries" Multiplicity="1" />
+    <End Type="vbdbModel.ta_vbn_states" Role="ta_vbn_states" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vbn_countries">
+        <PropertyRef Name="coid" />
+      </Principal>
+      <Dependent Role="ta_vbn_states">
+        <PropertyRef Name="coid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_activeCountry">
+    <Key>
+      <PropertyRef Name="acid" />
+    </Key>
+    <Property Type="Int32" Name="acid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="activecountry" />
+    <NavigationProperty Name="ta_vbn_countries" Relationship="vbdbModel.FK_ta_vb_activeCountry_ta_vbn_countries" FromRole="ta_vb_activeCountry" ToRole="ta_vbn_countries" />
+  </EntityType>
+  <Association Name="FK_ta_vb_activeCountry_ta_vbn_countries">
+    <End Type="vbdbModel.ta_vbn_countries" Role="ta_vbn_countries" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_activeCountry" Role="ta_vb_activeCountry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vbn_countries">
+        <PropertyRef Name="coid" />
+      </Principal>
+      <Dependent Role="ta_vb_activeCountry">
+        <PropertyRef Name="activecountry" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_activeStates">
+    <Key>
+      <PropertyRef Name="asid" />
+    </Key>
+    <Property Type="Int32" Name="asid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="activestate" />
+    <NavigationProperty Name="ta_vbn_states" Relationship="vbdbModel.FK_ta_vb_activeStates_ta_vbn_states" FromRole="ta_vb_activeStates" ToRole="ta_vbn_states" />
+  </EntityType>
+  <Association Name="FK_ta_vb_activeStates_ta_vbn_states">
+    <End Type="vbdbModel.ta_vbn_states" Role="ta_vbn_states" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_activeStates" Role="ta_vb_activeStates" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vbn_states">
+        <PropertyRef Name="stateid" />
+      </Principal>
+      <Dependent Role="ta_vb_activeStates">
+        <PropertyRef Name="activestate" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_City_ta_vb_City">
+    <End Type="vbdbModel.ta_vb_City" Role="ta_vb_City" Multiplicity="1" />
+    <End Type="vbdbModel.ta_vb_City" Role="ta_vb_City1" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_City">
+        <PropertyRef Name="cityid" />
+      </Principal>
+      <Dependent Role="ta_vb_City1">
+        <PropertyRef Name="cityid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_master_commisssion">
+    <Key>
+      <PropertyRef Name="vsproptypeid" />
+    </Key>
+    <Property Type="Int32" Name="vsproptypeid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="vsproptypename" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="vsproptypedescription" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="vcomissionpercent" Precision="5" Scale="2" />
+    <NavigationProperty Name="ta_vb_sale" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_master_commisssion" FromRole="ta_vb_master_commisssion" ToRole="ta_vb_sale" />
+    <Property Type="String" Name="sellertype" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="ta_vb_sale">
+    <Key>
+      <PropertyRef Name="saleid" />
+    </Key>
+    <Property Type="Int64" Name="saleid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="saleprice" />
+    <Property Type="String" Name="saleremarks" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="saledate" Precision="3" />
+    <Property Type="Int64" Name="vehicleid" />
+    <Property Type="Int64" Name="dealerid" Nullable="false" />
+    <Property Type="Int64" Name="buyerid" />
+    <Property Type="DateTime" Name="submitdate" Precision="3" />
+    <Property Type="Int32" Name="vcmsntypeid" />
+    <NavigationProperty Name="ta_vb_master_commisssion" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_master_commisssion" FromRole="ta_vb_sale" ToRole="ta_vb_master_commisssion" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_User" FromRole="ta_vb_sale" ToRole="ta_vb_User" />
+    <NavigationProperty Name="ta_vb_User1" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_User1" FromRole="ta_vb_sale" ToRole="ta_vb_User" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_sale_ta_vb_Vehicle" FromRole="ta_vb_sale" ToRole="ta_vb_Vehicle" />
+    <Property Type="Decimal" Name="salecommision" Precision="5" Scale="2" />
+    <Property Type="Decimal" Name="websitesalecommision" Precision="18" Scale="2" />
+    <Property Type="Decimal" Name="paidcommsion" Precision="18" Scale="2" />
+    <Property Type="String" Name="vbremarks" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="vbsubmitdate" Precision="3" />
+  </EntityType>
+  <Association Name="FK_ta_vb_sale_ta_vb_master_commisssion">
+    <End Type="vbdbModel.ta_vb_master_commisssion" Role="ta_vb_master_commisssion" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_sale" Role="ta_vb_sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_master_commisssion">
+        <PropertyRef Name="vsproptypeid" />
+      </Principal>
+      <Dependent Role="ta_vb_sale">
+        <PropertyRef Name="vcmsntypeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_sale_ta_vb_User">
+    <End Type="vbdbModel.ta_vb_User" Role="ta_vb_User" Multiplicity="1" />
+    <End Type="vbdbModel.ta_vb_sale" Role="ta_vb_sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_sale">
+        <PropertyRef Name="dealerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_sale_ta_vb_User1">
+    <End Type="vbdbModel.ta_vb_User" Role="ta_vb_User" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_sale" Role="ta_vb_sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_sale">
+        <PropertyRef Name="buyerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_sale_ta_vb_Vehicle">
+    <End Type="vbdbModel.ta_vb_Vehicle" Role="ta_vb_Vehicle" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_sale" Role="ta_vb_sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Vehicle">
+        <PropertyRef Name="vehicleid" />
+      </Principal>
+      <Dependent Role="ta_vb_sale">
+        <PropertyRef Name="vehicleid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_VehicleDealerChecks">
+    <Key>
+      <PropertyRef Name="vdcid" />
+    </Key>
+    <Property Type="Int64" Name="vdcid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="vdcvehicleid" Nullable="false" />
+    <Property Type="Int32" Name="vdcdealerprice" />
+    <Property Type="Boolean" Name="vdcchecked" />
+    <NavigationProperty Name="ta_vb_Vehicle" Relationship="vbdbModel.FK_ta_vb_VehicleDealerChecks_ta_vb_Vehicle" FromRole="ta_vb_VehicleDealerChecks" ToRole="ta_vb_Vehicle" />
+    <Property Type="Int64" Name="vdealerid" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_VehicleDealerChecks_ta_vb_User" FromRole="ta_vb_VehicleDealerChecks" ToRole="ta_vb_User" />
+    <Property Type="String" Name="vdealerremarks" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_ta_vb_VehicleDealerChecks_ta_vb_Vehicle">
+    <End Type="vbdbModel.ta_vb_Vehicle" Role="ta_vb_Vehicle" Multiplicity="1" />
+    <End Type="vbdbModel.ta_vb_VehicleDealerChecks" Role="ta_vb_VehicleDealerChecks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Vehicle">
+        <PropertyRef Name="vehicleid" />
+      </Principal>
+      <Dependent Role="ta_vb_VehicleDealerChecks">
+        <PropertyRef Name="vdcvehicleid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_VehicleDealerChecks_ta_vb_User">
+    <End Type="vbdbModel.ta_vb_User" Role="ta_vb_User" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_VehicleDealerChecks" Role="ta_vb_VehicleDealerChecks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_VehicleDealerChecks">
+        <PropertyRef Name="vdealerid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="ta_vb_partner">
+    <Key>
+      <PropertyRef Name="partnerid" />
+    </Key>
+    <Property Type="Int64" Name="partnerid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int64" Name="userid" />
+    <Property Type="String" Name="pwebsite" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="pdealin" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="pexperience" />
+    <Property Type="String" Name="platlong" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="pbtiming" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="profilepic" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="businesslogo" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="locationimage" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="adminremarks" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ipaddress" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="activestatus" />
+    <NavigationProperty Name="ta_vb_User" Relationship="vbdbModel.FK_ta_vb_partner_ta_vb_User" FromRole="ta_vb_partner" ToRole="ta_vb_User" />
+    <Property Type="String" Name="plocationname" MaxLength="200" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_ta_vb_partner_ta_vb_User">
+    <End Type="vbdbModel.ta_vb_User" Role="ta_vb_User" Multiplicity="0..1" />
+    <End Type="vbdbModel.ta_vb_partner" Role="ta_vb_partner" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_partner">
+        <PropertyRef Name="userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

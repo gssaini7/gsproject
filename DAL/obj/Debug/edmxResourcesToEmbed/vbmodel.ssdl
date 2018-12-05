@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="vbdbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="vbdbModelStoreContainer">
+    <EntitySet Name="ta_vb_Address" EntityType="vbdbModel.Store.ta_vb_Address" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_advertisement" EntityType="vbdbModel.Store.ta_vb_advertisement" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_City" EntityType="vbdbModel.Store.ta_vb_City" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_Color" EntityType="vbdbModel.Store.ta_vb_Color" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_FuelType" EntityType="vbdbModel.Store.ta_vb_FuelType" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_Image" EntityType="vbdbModel.Store.ta_vb_Image" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_KM" EntityType="vbdbModel.Store.ta_vb_KM" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_make" EntityType="vbdbModel.Store.ta_vb_make" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_Model" EntityType="vbdbModel.Store.ta_vb_Model" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_User" EntityType="vbdbModel.Store.ta_vb_User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_Varient" EntityType="vbdbModel.Store.ta_vb_Varient" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_Vehicle" EntityType="vbdbModel.Store.ta_vb_Vehicle" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ta_vb_VehicleType" EntityType="vbdbModel.Store.ta_vb_VehicleType" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_ta_vb_Model_ta_vb_make" Association="vbdbModel.Store.FK_ta_vb_Model_ta_vb_make">
+      <End Role="ta_vb_make" EntitySet="ta_vb_make" />
+      <End Role="ta_vb_Model" EntitySet="ta_vb_Model" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_User_ta_vb_Address" Association="vbdbModel.Store.FK_ta_vb_User_ta_vb_Address">
+      <End Role="ta_vb_Address" EntitySet="ta_vb_Address" />
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Varient_ta_vb_Model" Association="vbdbModel.Store.FK_ta_vb_Varient_ta_vb_Model">
+      <End Role="ta_vb_Model" EntitySet="ta_vb_Model" />
+      <End Role="ta_vb_Varient" EntitySet="ta_vb_Varient" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_City" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_City">
+      <End Role="ta_vb_City" EntitySet="ta_vb_City" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_Color" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_Color">
+      <End Role="ta_vb_Color" EntitySet="ta_vb_Color" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_FuelType" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_FuelType">
+      <End Role="ta_vb_FuelType" EntitySet="ta_vb_FuelType" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_KM" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_KM">
+      <End Role="ta_vb_KM" EntitySet="ta_vb_KM" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_make" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_make">
+      <End Role="ta_vb_make" EntitySet="ta_vb_make" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_Model" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_Model">
+      <End Role="ta_vb_Model" EntitySet="ta_vb_Model" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_User" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_User">
+      <End Role="ta_vb_User" EntitySet="ta_vb_User" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_Varient" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_Varient">
+      <End Role="ta_vb_Varient" EntitySet="ta_vb_Varient" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ta_vb_Vehicle_ta_vb_VehicleType" Association="vbdbModel.Store.FK_ta_vb_Vehicle_ta_vb_VehicleType">
+      <End Role="ta_vb_VehicleType" EntitySet="ta_vb_VehicleType" />
+      <End Role="ta_vb_Vehicle" EntitySet="ta_vb_Vehicle" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ta_vb_Address">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="a_name" Type="varchar" MaxLength="100" />
+    <Property Name="address1" Type="varchar" MaxLength="100" />
+    <Property Name="address2" Type="varchar" MaxLength="100" />
+    <Property Name="a_city" Type="varchar" MaxLength="50" />
+    <Property Name="a_state" Type="varchar" MaxLength="50" />
+    <Property Name="a_coutry" Type="varchar" MaxLength="50" />
+    <Property Name="a_pin" Type="varchar" MaxLength="6" />
+    <Property Name="a_mobile" Type="varchar" MaxLength="15" />
+    <Property Name="a_emailid" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ta_vb_advertisement">
+    <Key>
+      <PropertyRef Name="addvid" />
+    </Key>
+    <Property Name="addvid" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="addvtext" Type="varchar" MaxLength="100" />
+    <Property Name="addvimage" Type="varchar" MaxLength="50" />
+    <Property Name="addvpublish" Type="bit" />
+    <Property Name="addvcreatedate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ta_vb_City">
+    <Key>
+      <PropertyRef Name="cityid" />
+    </Key>
+    <Property Name="cityid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="cityname" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="ta_vb_Color">
+    <Key>
+      <PropertyRef Name="colorid" />
+    </Key>
+    <Property Name="colorid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="colorname" Type="varchar" MaxLength="50" />
+    <Property Name="colorcode" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="ta_vb_FuelType">
+    <Key>
+      <PropertyRef Name="fuelid" />
+    </Key>
+    <Property Name="fuelid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="fueltype" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ta_vb_Image">
+    <Key>
+      <PropertyRef Name="imageid" />
+    </Key>
+    <Property Name="imageid" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="imagename" Type="varchar" MaxLength="100" />
+    <Property Name="imagedata" Type="varchar" MaxLength="100" />
+    <Property Name="vehicleid" Type="bigint" />
+  </EntityType>
+  <EntityType Name="ta_vb_KM">
+    <Key>
+      <PropertyRef Name="kmid" />
+    </Key>
+    <Property Name="kmid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="kmdata" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ta_vb_make">
+    <Key>
+      <PropertyRef Name="vmakeid" />
+    </Key>
+    <Property Name="vmakeid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="vmakename" Type="varchar" MaxLength="100" />
+    <Property Name="vmpublished" Type="bit" />
+  </EntityType>
+  <EntityType Name="ta_vb_Model">
+    <Key>
+      <PropertyRef Name="modelid" />
+    </Key>
+    <Property Name="modelid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="modelname" Type="varchar" MaxLength="50" />
+    <Property Name="makeid" Type="int" />
+  </EntityType>
+  <EntityType Name="ta_vb_User">
+    <Key>
+      <PropertyRef Name="guser_id" />
+    </Key>
+    <Property Name="guser_id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="guser_name" Type="varchar" MaxLength="50" />
+    <Property Name="guser_password" Type="varchar" MaxLength="200" />
+    <Property Name="uniqueida" Type="varchar" MaxLength="200" />
+    <Property Name="usertype" Type="varchar" MaxLength="10" />
+    <Property Name="address_id" Type="bigint" />
+  </EntityType>
+  <EntityType Name="ta_vb_Varient">
+    <Key>
+      <PropertyRef Name="varientid" />
+    </Key>
+    <Property Name="varientid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="varientname" Type="varchar" MaxLength="50" />
+    <Property Name="modelid" Type="int" />
+  </EntityType>
+  <EntityType Name="ta_vb_Vehicle">
+    <Key>
+      <PropertyRef Name="vehicleid" />
+    </Key>
+    <Property Name="vehicleid" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="vtype" Type="int" />
+    <Property Name="vmake" Type="int" />
+    <Property Name="vmodel" Type="int" />
+    <Property Name="vavrient" Type="int" />
+    <Property Name="vcity" Type="int" />
+    <Property Name="vexpectedprice" Type="int" />
+    <Property Name="vkm" Type="int" />
+    <Property Name="vcolor" Type="int" />
+    <Property Name="vcreatedate" Type="datetime" />
+    <Property Name="vupdatedate" Type="datetime" />
+    <Property Name="vfueltype" Type="int" />
+    <Property Name="vguid" Type="uniqueidentifier" />
+    <Property Name="userid" Type="bigint" />
+    <Property Name="vmfgyear" Type="int" />
+  </EntityType>
+  <EntityType Name="ta_vb_VehicleType">
+    <Key>
+      <PropertyRef Name="vtypeid" />
+    </Key>
+    <Property Name="vtypeid" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="vtype" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_ta_vb_Model_ta_vb_make">
+    <End Role="ta_vb_make" Type="vbdbModel.Store.ta_vb_make" Multiplicity="0..1" />
+    <End Role="ta_vb_Model" Type="vbdbModel.Store.ta_vb_Model" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_make">
+        <PropertyRef Name="vmakeid" />
+      </Principal>
+      <Dependent Role="ta_vb_Model">
+        <PropertyRef Name="makeid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_User_ta_vb_Address">
+    <End Role="ta_vb_Address" Type="vbdbModel.Store.ta_vb_Address" Multiplicity="0..1" />
+    <End Role="ta_vb_User" Type="vbdbModel.Store.ta_vb_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Address">
+        <PropertyRef Name="address_id" />
+      </Principal>
+      <Dependent Role="ta_vb_User">
+        <PropertyRef Name="address_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Varient_ta_vb_Model">
+    <End Role="ta_vb_Model" Type="vbdbModel.Store.ta_vb_Model" Multiplicity="0..1" />
+    <End Role="ta_vb_Varient" Type="vbdbModel.Store.ta_vb_Varient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Model">
+        <PropertyRef Name="modelid" />
+      </Principal>
+      <Dependent Role="ta_vb_Varient">
+        <PropertyRef Name="modelid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_City">
+    <End Role="ta_vb_City" Type="vbdbModel.Store.ta_vb_City" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_City">
+        <PropertyRef Name="cityid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vcity" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_Color">
+    <End Role="ta_vb_Color" Type="vbdbModel.Store.ta_vb_Color" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Color">
+        <PropertyRef Name="colorid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vcolor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_FuelType">
+    <End Role="ta_vb_FuelType" Type="vbdbModel.Store.ta_vb_FuelType" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_FuelType">
+        <PropertyRef Name="fuelid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vfueltype" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_KM">
+    <End Role="ta_vb_KM" Type="vbdbModel.Store.ta_vb_KM" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_KM">
+        <PropertyRef Name="kmid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vkm" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_make">
+    <End Role="ta_vb_make" Type="vbdbModel.Store.ta_vb_make" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_make">
+        <PropertyRef Name="vmakeid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vmake" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_Model">
+    <End Role="ta_vb_Model" Type="vbdbModel.Store.ta_vb_Model" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Model">
+        <PropertyRef Name="modelid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vmodel" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_User">
+    <End Role="ta_vb_User" Type="vbdbModel.Store.ta_vb_User" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_User">
+        <PropertyRef Name="guser_id" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_Varient">
+    <End Role="ta_vb_Varient" Type="vbdbModel.Store.ta_vb_Varient" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_Varient">
+        <PropertyRef Name="varientid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vavrient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ta_vb_Vehicle_ta_vb_VehicleType">
+    <End Role="ta_vb_VehicleType" Type="vbdbModel.Store.ta_vb_VehicleType" Multiplicity="0..1" />
+    <End Role="ta_vb_Vehicle" Type="vbdbModel.Store.ta_vb_Vehicle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ta_vb_VehicleType">
+        <PropertyRef Name="vtypeid" />
+      </Principal>
+      <Dependent Role="ta_vb_Vehicle">
+        <PropertyRef Name="vtype" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

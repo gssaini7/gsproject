@@ -1,0 +1,54 @@
+<div class="">
+	<div class="">
+		<h3>Welcome admin home!</h3>
+		<p>{{homeDetails?.message}}</p>  
+        <div class="row">
+         
+                <div class="col-4 text-center">
+                    <div class="card text-white bg-info  mb-3">
+                        <div class="card-body">
+                            <!--<h2 class="card-title">{{newordersobjlist.length}}</h2>-->
+                        </div>
+                        <div class="card-footer">New</div>
+                    </div>
+                </div>
+                <div class="col-4 text-center">
+                    <div class="card text-white bg-danger mb-3">
+                        <div class="card-body">
+                            <!--<h2 class="card-title">{{pendingordersobjlist.length}}</h2>-->
+                        </div>
+                        <div class="card-footer">Pending</div>
+                    </div>
+                </div>
+                <div class="col-4 text-center">
+                    <div class="card text-white bg-success  mb-3">
+                        <div class="card-body">
+                            <!--<h2 class="card-title">{{completedordersobjlist.length}}</h2>-->
+                        </div>
+                        <div class="card-footer">Completed</div>
+                    </div>
+                </div>
+           
+      
+	</div>
+        <div class="row">
+            <div class="col-4" *ngIf="itemsobjlistfinal">
+                <!--{{itemsobjlistfinal.length}}
+                {{itemsobjlistfinal|json}}-->
+                <table class="table table-sm table-">
+                    <thead class="thead-light">
+                        <tr>
+                            <th colspan="2" class="text-center" >Item with less quantity left</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--<tr *ngFor="let item of itemsobjlistfinal | sortBy: 'ItemCurrentQuantity'">
+                            <td>{{item.Items.ItemName}}</td>
+                            <td>{{item.ItemCurrentQuantity| number : '1.0-0'}}%</td>
+                        </tr>-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        </div>
+</div>  

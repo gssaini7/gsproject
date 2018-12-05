@@ -1,0 +1,8 @@
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\DAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\DAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\obj\Debug\DAL.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\obj\Debug\DAL.pdb
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\R.Resolver.dll
+C:\Users\CDAC-Gurpreet\Documents\Visual Studio 2012\Projects\Template\DAL\bin\Debug\R.Resolver.pdb

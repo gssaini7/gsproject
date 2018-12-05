@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Value="Feedback">
+  <Element Name="FeedbackModelid" Type="Guid"></Element>
+  <Element Name="FeedbackType" Type="string"></Element>
+  <Element Name="StudentModelID" Type="int"></Element>
+  <Element Name="FeedbackDate" Type="DateTime"></Element>
+  <Element Name="FeedbackMessage" Type="string"></Element>
+
+</Root>
