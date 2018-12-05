@@ -133,7 +133,7 @@ namespace USoftEducation.Controllers
                     nameofuser=model.nameofuser, remarks = model.remarks, parentid=model.parentid, studentid="0" };
 
                 SetDataBaseDynamic();
-                IdentityResult result = await UserManager.CreateAsync(user, "A@#$VF1df$%");
+                IdentityResult result = await UserManager.CreateAsync(user, "");
                 if (!result.Succeeded)
                 {
                     if (CheckUserIsParent(user, model.parentid))
